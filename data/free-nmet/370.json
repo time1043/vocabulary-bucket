@@ -1,0 +1,2216 @@
+[
+  {
+    "id": 1,
+    "content": "abolish",
+    "explain": "废除、废止",
+    "other": ""
+  },
+  {
+    "id": 2,
+    "content": "abortion",
+    "explain": "流产、放弃、中止",
+    "other": "abort"
+  },
+  {
+    "id": 3,
+    "content": "accelerate",
+    "explain": "加速",
+    "other": "acceleration"
+  },
+  {
+    "id": 4,
+    "content": "anticipate",
+    "explain": "预期、期待",
+    "other": "anticipation"
+  },
+  {
+    "id": 5,
+    "content": "attain",
+    "explain": "获得、得到",
+    "other": ""
+  },
+  {
+    "id": 6,
+    "content": "bid",
+    "explain": "出价",
+    "other": ""
+  },
+  {
+    "id": 7,
+    "content": "bind",
+    "explain": "捆绑、绑定",
+    "other": "bound, binding"
+  },
+  {
+    "id": 8,
+    "content": "boil",
+    "explain": "沸腾、煮",
+    "other": ""
+  },
+  {
+    "id": 9,
+    "content": "boycott",
+    "explain": "抵制",
+    "other": ""
+  },
+  {
+    "id": 10,
+    "content": "cater",
+    "explain": "提供饮食、承办酒席",
+    "other": ""
+  },
+  {
+    "id": 11,
+    "content": "cite",
+    "explain": "引用",
+    "other": "citation"
+  },
+  {
+    "id": 12,
+    "content": "classify",
+    "explain": "分类",
+    "other": ""
+  },
+  {
+    "id": 13,
+    "content": "compensate",
+    "explain": "补偿、弥补",
+    "other": "compensation"
+  },
+  {
+    "id": 14,
+    "content": "consume",
+    "explain": "消耗、花费、消费",
+    "other": "consumption, consumer"
+  },
+  {
+    "id": 15,
+    "content": "correspond",
+    "explain": "与⋯⋯一致对应、通信",
+    "other": "corresponding"
+  },
+  {
+    "id": 16,
+    "content": "dial",
+    "explain": "拨打电话",
+    "other": ""
+  },
+  {
+    "id": 17,
+    "content": "digest",
+    "explain": "消化、吸收",
+    "other": "digestion"
+  },
+  {
+    "id": 18,
+    "content": "entitle",
+    "explain": "赋予权利、给......命名",
+    "other": ""
+  },
+  {
+    "id": 19,
+    "content": "exclaim",
+    "explain": "惊呼、叫喊",
+    "other": "exclamation"
+  },
+  {
+    "id": 20,
+    "content": "execute",
+    "explain": "执行、实施",
+    "other": "execution"
+  },
+  {
+    "id": 21,
+    "content": "export",
+    "explain": "出口、输出",
+    "other": ""
+  },
+  {
+    "id": 22,
+    "content": "facilitate",
+    "explain": "促进、促使",
+    "other": "facilitation"
+  },
+  {
+    "id": 23,
+    "content": "hibernate",
+    "explain": "冬眠",
+    "other": "hibernation"
+  },
+  {
+    "id": 24,
+    "content": "howl",
+    "explain": "呼啸、嚎叫",
+    "other": "howling"
+  },
+  {
+    "id": 25,
+    "content": "import",
+    "explain": "进口、输入",
+    "other": ""
+  },
+  {
+    "id": 26,
+    "content": "irrigate",
+    "explain": "灌溉",
+    "other": "irrigation"
+  },
+  {
+    "id": 27,
+    "content": "murder",
+    "explain": "谋杀",
+    "other": ""
+  },
+  {
+    "id": 28,
+    "content": "offend",
+    "explain": "冒犯",
+    "other": "offence, offender"
+  },
+  {
+    "id": 29,
+    "content": "perceive",
+    "explain": "感知、认为、注意到",
+    "other": "perception"
+  },
+  {
+    "id": 30,
+    "content": "polish",
+    "explain": "抛光、打磨",
+    "other": ""
+  },
+  {
+    "id": 31,
+    "content": "preview",
+    "explain": "预览、预告",
+    "other": ""
+  },
+  {
+    "id": 32,
+    "content": "protest",
+    "explain": "抗议、反对",
+    "other": "protestor"
+  },
+  {
+    "id": 33,
+    "content": "quake",
+    "explain": "震动、颤抖",
+    "other": ""
+  },
+  {
+    "id": 34,
+    "content": "resemble",
+    "explain": "看起来像",
+    "other": ""
+  },
+  {
+    "id": 35,
+    "content": "revolve",
+    "explain": "旋转、环绕",
+    "other": ""
+  },
+  {
+    "id": 36,
+    "content": "rewind",
+    "explain": "倒带",
+    "other": ""
+  },
+  {
+    "id": 37,
+    "content": "salute",
+    "explain": "敬礼",
+    "other": ""
+  },
+  {
+    "id": 38,
+    "content": "scratch",
+    "explain": "划痕、划伤",
+    "other": ""
+  },
+  {
+    "id": 39,
+    "content": "shrink",
+    "explain": "缩小、缩减",
+    "other": "shrank, shrunk, shrinking"
+  },
+  {
+    "id": 40,
+    "content": "snatch",
+    "explain": "抢夺、夺走",
+    "other": ""
+  },
+  {
+    "id": 41,
+    "content": "sob",
+    "explain": "啜泣",
+    "other": "sobbed, sobbing"
+  },
+  {
+    "id": 42,
+    "content": "stimulate",
+    "explain": "促进、刺激",
+    "other": "stimulation"
+  },
+  {
+    "id": 43,
+    "content": "subscribe",
+    "explain": "订阅、订购",
+    "other": "subscription"
+  },
+  {
+    "id": 44,
+    "content": "substitute",
+    "explain": "代替、取代",
+    "other": "substitution"
+  },
+  {
+    "id": 45,
+    "content": "swallow",
+    "explain": "吞咽",
+    "other": ""
+  },
+  {
+    "id": 46,
+    "content": "swap",
+    "explain": "交换",
+    "other": "swapped, swapping"
+  },
+  {
+    "id": 47,
+    "content": "telegraph",
+    "explain": "电报",
+    "other": "telegram"
+  },
+  {
+    "id": 48,
+    "content": "twist",
+    "explain": "扭曲、转动",
+    "other": ""
+  },
+  {
+    "id": 49,
+    "content": "wag",
+    "explain": "摇动、摇摆",
+    "other": ""
+  },
+  {
+    "id": 50,
+    "content": "wrestle",
+    "explain": "摔跤",
+    "other": ""
+  },
+  {
+    "id": 51,
+    "content": "zoom",
+    "explain": "快速移动、放缩、猛涨",
+    "other": ""
+  },
+  {
+    "id": 52,
+    "content": "abrupt",
+    "explain": "突然的、意外的",
+    "other": "abruptly"
+  },
+  {
+    "id": 53,
+    "content": "absolute",
+    "explain": "绝对的",
+    "other": "absolutely"
+  },
+  {
+    "id": 54,
+    "content": "absurd",
+    "explain": "荒谬的",
+    "other": ""
+  },
+  {
+    "id": 55,
+    "content": "acute",
+    "explain": "严重的、急性病的",
+    "other": ""
+  },
+  {
+    "id": 56,
+    "content": "ambiguous",
+    "explain": "模棱两可的",
+    "other": ""
+  },
+  {
+    "id": 57,
+    "content": "ample",
+    "explain": "充足的、丰裕的",
+    "other": ""
+  },
+  {
+    "id": 58,
+    "content": "ancient",
+    "explain": "古代的、古老的",
+    "other": ""
+  },
+  {
+    "id": 59,
+    "content": "annual",
+    "explain": "每年的、一年一度的",
+    "other": "annually"
+  },
+  {
+    "id": 60,
+    "content": "arbitrary",
+    "explain": "专横的、专制的",
+    "other": ""
+  },
+  {
+    "id": 61,
+    "content": "authentic",
+    "explain": "真正的、真品的",
+    "other": ""
+  },
+  {
+    "id": 62,
+    "content": "bureaucratic",
+    "explain": "官僚的",
+    "other": ""
+  },
+  {
+    "id": 63,
+    "content": "catholic",
+    "explain": "天主教的",
+    "other": ""
+  },
+  {
+    "id": 64,
+    "content": "centigrade",
+    "explain": "摄氏度",
+    "other": ""
+  },
+  {
+    "id": 65,
+    "content": "compulsory",
+    "explain": "强制的",
+    "other": ""
+  },
+  {
+    "id": 66,
+    "content": "confidential",
+    "explain": "机密的、保密的",
+    "other": ""
+  },
+  {
+    "id": 67,
+    "content": "conscious",
+    "explain": "有意识的",
+    "other": "unconscious"
+  },
+  {
+    "id": 68,
+    "content": "contemporary",
+    "explain": "当代的、同一时期的",
+    "other": ""
+  },
+  {
+    "id": 69,
+    "content": "contrary",
+    "explain": "相反的",
+    "other": ""
+  },
+  {
+    "id": 70,
+    "content": "conventional",
+    "explain": "常规的、传统的",
+    "other": ""
+  },
+  {
+    "id": 71,
+    "content": "cordless",
+    "explain": "无线的",
+    "other": ""
+  },
+  {
+    "id": 72,
+    "content": "corrupt",
+    "explain": "贪污的、腐败的",
+    "other": "corruption"
+  },
+  {
+    "id": 73,
+    "content": "damp",
+    "explain": "潮湿的",
+    "other": ""
+  },
+  {
+    "id": 74,
+    "content": "disgusting",
+    "explain": "令人厌恶的",
+    "other": "disgust"
+  },
+  {
+    "id": 75,
+    "content": "domestic",
+    "explain": "国内的、本土的",
+    "other": "domestically"
+  },
+  {
+    "id": 76,
+    "content": "elementary",
+    "explain": "初级的、基础的",
+    "other": ""
+  },
+  {
+    "id": 77,
+    "content": "enormous",
+    "explain": "巨大的",
+    "other": ""
+  },
+  {
+    "id": 78,
+    "content": "exclusive",
+    "explain": "独占的、排外的",
+    "other": "exclude, exclusion"
+  },
+  {
+    "id": 79,
+    "content": "explicit",
+    "explain": "直白的、明确的",
+    "other": ""
+  },
+  {
+    "id": 80,
+    "content": "federal",
+    "explain": "联邦的",
+    "other": ""
+  },
+  {
+    "id": 81,
+    "content": "former",
+    "explain": "以前的、前者",
+    "other": ""
+  },
+  {
+    "id": 82,
+    "content": "fragrant",
+    "explain": "芳香的",
+    "other": "fragrance"
+  },
+  {
+    "id": 83,
+    "content": "fundamental",
+    "explain": "基本的、基础的",
+    "other": ""
+  },
+  {
+    "id": 84,
+    "content": "furnished",
+    "explain": "配备家具的",
+    "other": ""
+  },
+  {
+    "id": 85,
+    "content": "gay",
+    "explain": "快乐的",
+    "other": ""
+  },
+  {
+    "id": 86,
+    "content": "genuine",
+    "explain": "真正的",
+    "other": ""
+  },
+  {
+    "id": 87,
+    "content": "hence",
+    "explain": "因此",
+    "other": ""
+  },
+  {
+    "id": 88,
+    "content": "horizontal",
+    "explain": "水平的、横向的",
+    "other": ""
+  },
+  {
+    "id": 89,
+    "content": "ideal",
+    "explain": "理想的、完美的",
+    "other": ""
+  },
+  {
+    "id": 90,
+    "content": "identical",
+    "explain": "完全相同的",
+    "other": ""
+  },
+  {
+    "id": 91,
+    "content": "inland",
+    "explain": "内陆的",
+    "other": ""
+  },
+  {
+    "id": 92,
+    "content": "intimate",
+    "explain": "亲密的",
+    "other": "intimacy"
+  },
+  {
+    "id": 93,
+    "content": "literally",
+    "explain": "字面意义上、确实",
+    "other": "literal"
+  },
+  {
+    "id": 94,
+    "content": "logical",
+    "explain": "符合逻辑的",
+    "other": "logic, logically"
+  },
+  {
+    "id": 95,
+    "content": "lunar",
+    "explain": "月亮的",
+    "other": ""
+  },
+  {
+    "id": 96,
+    "content": "luxury",
+    "explain": "奢侈、奢华",
+    "other": "luxurious"
+  },
+  {
+    "id": 97,
+    "content": "magnificent",
+    "explain": "壮丽的、宏伟的",
+    "other": ""
+  },
+  {
+    "id": 98,
+    "content": "marvellous",
+    "explain": "了不起的、奇迹般的",
+    "other": ""
+  },
+  {
+    "id": 99,
+    "content": "maximum",
+    "explain": "最大程度的",
+    "other": ""
+  },
+  {
+    "id": 100,
+    "content": "military",
+    "explain": "军队的",
+    "other": ""
+  },
+  {
+    "id": 101,
+    "content": "minimum",
+    "explain": "最小程度的",
+    "other": ""
+  },
+  {
+    "id": 102,
+    "content": "nevertheless",
+    "explain": "然而",
+    "other": ""
+  },
+  {
+    "id": 103,
+    "content": "nuclear",
+    "explain": "核能的",
+    "other": ""
+  },
+  {
+    "id": 104,
+    "content": "numb",
+    "explain": "麻木的、迟钝的",
+    "other": "numbness"
+  },
+  {
+    "id": 105,
+    "content": "offshore",
+    "explain": "近海的、离岸的",
+    "other": ""
+  },
+  {
+    "id": 106,
+    "content": "oral",
+    "explain": "口头的",
+    "other": ""
+  },
+  {
+    "id": 107,
+    "content": "parallel",
+    "explain": "平行的",
+    "other": ""
+  },
+  {
+    "id": 108,
+    "content": "passive",
+    "explain": "被动的",
+    "other": ""
+  },
+  {
+    "id": 109,
+    "content": "portable",
+    "explain": "便携的",
+    "other": ""
+  },
+  {
+    "id": 110,
+    "content": "pregnant",
+    "explain": "怀孕的",
+    "other": ""
+  },
+  {
+    "id": 111,
+    "content": "primary",
+    "explain": "初级的",
+    "other": ""
+  },
+  {
+    "id": 112,
+    "content": "primitive",
+    "explain": "原始的、",
+    "other": ""
+  },
+  {
+    "id": 113,
+    "content": "radioactive",
+    "explain": "放射性的",
+    "other": ""
+  },
+  {
+    "id": 114,
+    "content": "rigid",
+    "explain": "僵硬的、死板的、固执的",
+    "other": ""
+  },
+  {
+    "id": 115,
+    "content": "rural",
+    "explain": "乡村的",
+    "other": ""
+  },
+  {
+    "id": 116,
+    "content": "sacred",
+    "explain": "神圣的",
+    "other": ""
+  },
+  {
+    "id": 117,
+    "content": "static",
+    "explain": "静态的",
+    "other": ""
+  },
+  {
+    "id": 118,
+    "content": "steep",
+    "explain": "险峻的、陡峭的",
+    "other": ""
+  },
+  {
+    "id": 119,
+    "content": "stout",
+    "explain": "粗壮的、厚实的",
+    "other": ""
+  },
+  {
+    "id": 120,
+    "content": "subsequent",
+    "explain": "随后的、后续的",
+    "other": "subsequently"
+  },
+  {
+    "id": 121,
+    "content": "sufficient",
+    "explain": "足够的、充分的",
+    "other": "sufficiency"
+  },
+  {
+    "id": 122,
+    "content": "superb",
+    "explain": "卓越的",
+    "other": ""
+  },
+  {
+    "id": 123,
+    "content": "superior",
+    "explain": "更胜一筹的",
+    "other": ""
+  },
+  {
+    "id": 124,
+    "content": "supreme",
+    "explain": "至高无上的",
+    "other": ""
+  },
+  {
+    "id": 125,
+    "content": "swift",
+    "explain": "迅速的、敏捷的",
+    "other": ""
+  },
+  {
+    "id": 126,
+    "content": "transparent",
+    "explain": "透明的、清澈的",
+    "other": ""
+  },
+  {
+    "id": 127,
+    "content": "urban",
+    "explain": "城市的",
+    "other": ""
+  },
+  {
+    "id": 128,
+    "content": "vacant",
+    "explain": "空缺的、未被占用的",
+    "other": "vacancy"
+  },
+  {
+    "id": 129,
+    "content": "valid",
+    "explain": "有效的、合理的",
+    "other": "validity"
+  },
+  {
+    "id": 130,
+    "content": "vast",
+    "explain": "巨大的、广阔的",
+    "other": ""
+  },
+  {
+    "id": 131,
+    "content": "vertical",
+    "explain": "垂直的、纵向的",
+    "other": ""
+  },
+  {
+    "id": 132,
+    "content": "visual",
+    "explain": "视力的、视觉的",
+    "other": ""
+  },
+  {
+    "id": 133,
+    "content": "accountant",
+    "explain": "会计",
+    "other": ""
+  },
+  {
+    "id": 134,
+    "content": "acid",
+    "explain": "酸",
+    "other": "acidic"
+  },
+  {
+    "id": 135,
+    "content": "acre",
+    "explain": "英亩",
+    "other": ""
+  },
+  {
+    "id": 136,
+    "content": "administration",
+    "explain": "管理、行政部门",
+    "other": "administrative, administrator"
+  },
+  {
+    "id": 137,
+    "content": "adolescence",
+    "explain": "青春、青春期",
+    "other": "adolescent"
+  },
+  {
+    "id": 138,
+    "content": "agriculture",
+    "explain": "农业",
+    "other": "agricultural"
+  },
+  {
+    "id": 139,
+    "content": "algebra",
+    "explain": "代数",
+    "other": ""
+  },
+  {
+    "id": 140,
+    "content": "alphabet",
+    "explain": "字母",
+    "other": ""
+  },
+  {
+    "id": 141,
+    "content": "altitude",
+    "explain": "海拔高度",
+    "other": ""
+  },
+  {
+    "id": 142,
+    "content": "aluminium",
+    "explain": "铝",
+    "other": ""
+  },
+  {
+    "id": 143,
+    "content": "ambassador",
+    "explain": "大使",
+    "other": "ambassadress"
+  },
+  {
+    "id": 144,
+    "content": "ancestor",
+    "explain": "祖先",
+    "other": ""
+  },
+  {
+    "id": 145,
+    "content": "anchor",
+    "explain": "锚",
+    "other": ""
+  },
+  {
+    "id": 146,
+    "content": "anecdote",
+    "explain": "逸事、趣闻",
+    "other": ""
+  },
+  {
+    "id": 147,
+    "content": "angle",
+    "explain": "角度",
+    "other": ""
+  },
+  {
+    "id": 148,
+    "content": "ankle",
+    "explain": "脚踝",
+    "other": ""
+  },
+  {
+    "id": 149,
+    "content": "anniversary",
+    "explain": "周年纪念日",
+    "other": ""
+  },
+  {
+    "id": 150,
+    "content": "appendix",
+    "explain": "附录",
+    "other": ""
+  },
+  {
+    "id": 151,
+    "content": "appetite",
+    "explain": "食欲、胃口",
+    "other": ""
+  },
+  {
+    "id": 152,
+    "content": "apron",
+    "explain": "围裙",
+    "other": ""
+  },
+  {
+    "id": 153,
+    "content": "arch",
+    "explain": "拱门",
+    "other": ""
+  },
+  {
+    "id": 154,
+    "content": "architecture",
+    "explain": "建筑",
+    "other": "architect"
+  },
+  {
+    "id": 155,
+    "content": "arithmetic",
+    "explain": "算术",
+    "other": ""
+  },
+  {
+    "id": 156,
+    "content": "astronomy",
+    "explain": "天文学",
+    "other": "astronomer"
+  },
+  {
+    "id": 157,
+    "content": "atom",
+    "explain": "原子",
+    "other": ""
+  },
+  {
+    "id": 158,
+    "content": "authority",
+    "explain": "权力、权威、官方",
+    "other": ""
+  },
+  {
+    "id": 159,
+    "content": "bachelor",
+    "explain": "本科学士、单身汉",
+    "other": ""
+  },
+  {
+    "id": 160,
+    "content": "backache",
+    "explain": "后背痛",
+    "other": ""
+  },
+  {
+    "id": 161,
+    "content": "bacteria",
+    "explain": "细菌",
+    "other": ""
+  },
+  {
+    "id": 162,
+    "content": "badminton",
+    "explain": "羽毛球",
+    "other": ""
+  },
+  {
+    "id": 163,
+    "content": "ballpoint",
+    "explain": "圆珠笔",
+    "other": ""
+  },
+  {
+    "id": 164,
+    "content": "bandage",
+    "explain": "绷带",
+    "other": ""
+  },
+  {
+    "id": 165,
+    "content": "beam",
+    "explain": "光束",
+    "other": ""
+  },
+  {
+    "id": 166,
+    "content": "beancurd",
+    "explain": "豆腐",
+    "other": ""
+  },
+  {
+    "id": 167,
+    "content": "behalf",
+    "explain": "代表某人",
+    "other": ""
+  },
+  {
+    "id": 168,
+    "content": "bestseller",
+    "explain": "畅销书",
+    "other": ""
+  },
+  {
+    "id": 169,
+    "content": "biochemistry",
+    "explain": "生物化学",
+    "other": ""
+  },
+  {
+    "id": 170,
+    "content": "biography",
+    "explain": "人物传记",
+    "other": ""
+  },
+  {
+    "id": 171,
+    "content": "bishop",
+    "explain": "主教",
+    "other": ""
+  },
+  {
+    "id": 172,
+    "content": "blouse",
+    "explain": "女式短上衣",
+    "other": ""
+  },
+  {
+    "id": 173,
+    "content": "booth",
+    "explain": "单间、小隔间",
+    "other": ""
+  },
+  {
+    "id": 174,
+    "content": "botany",
+    "explain": "植物学",
+    "other": "botanical"
+  },
+  {
+    "id": 175,
+    "content": "breakthrough",
+    "explain": "重大进展、突破",
+    "other": ""
+  },
+  {
+    "id": 176,
+    "content": "brewery",
+    "explain": "酿酒厂",
+    "other": ""
+  },
+  {
+    "id": 177,
+    "content": "brochure",
+    "explain": "广告手册",
+    "other": ""
+  },
+  {
+    "id": 178,
+    "content": "broom",
+    "explain": "扫帚",
+    "other": ""
+  },
+  {
+    "id": 179,
+    "content": "buddhism",
+    "explain": "佛教",
+    "other": "buddhist"
+  },
+  {
+    "id": 180,
+    "content": "buffet",
+    "explain": "自助餐",
+    "other": ""
+  },
+  {
+    "id": 181,
+    "content": "bun",
+    "explain": "馒头、小面包",
+    "other": ""
+  },
+  {
+    "id": 182,
+    "content": "bunch",
+    "explain": "一束、大量",
+    "other": ""
+  },
+  {
+    "id": 183,
+    "content": "bungalow",
+    "explain": "平房",
+    "other": ""
+  },
+  {
+    "id": 184,
+    "content": "burglar",
+    "explain": "窃贼",
+    "other": ""
+  },
+  {
+    "id": 185,
+    "content": "butcher",
+    "explain": "屠夫",
+    "other": ""
+  },
+  {
+    "id": 186,
+    "content": "calligraphy",
+    "explain": "书法",
+    "other": ""
+  },
+  {
+    "id": 187,
+    "content": "caption",
+    "explain": "说明文字、字幕",
+    "other": ""
+  },
+  {
+    "id": 188,
+    "content": "carpenter",
+    "explain": "木匠",
+    "other": ""
+  },
+  {
+    "id": 189,
+    "content": "carpet",
+    "explain": "地毯",
+    "other": ""
+  },
+  {
+    "id": 190,
+    "content": "carriage",
+    "explain": "四轮马车",
+    "other": ""
+  },
+  {
+    "id": 191,
+    "content": "cassette",
+    "explain": "磁带",
+    "other": ""
+  },
+  {
+    "id": 192,
+    "content": "catastrophe",
+    "explain": "灾祸",
+    "other": ""
+  },
+  {
+    "id": 193,
+    "content": "cathedral",
+    "explain": "大教堂",
+    "other": ""
+  },
+  {
+    "id": 194,
+    "content": "cellar",
+    "explain": "地窖",
+    "other": ""
+  },
+  {
+    "id": 195,
+    "content": "centimetre",
+    "explain": "厘米",
+    "other": ""
+  },
+  {
+    "id": 196,
+    "content": "chimney",
+    "explain": "烟囱",
+    "other": ""
+  },
+  {
+    "id": 197,
+    "content": "choir",
+    "explain": "合唱团",
+    "other": ""
+  },
+  {
+    "id": 198,
+    "content": "circuit",
+    "explain": "电路、环形路线",
+    "other": ""
+  },
+  {
+    "id": 199,
+    "content": "claw",
+    "explain": "爪子",
+    "other": ""
+  },
+  {
+    "id": 200,
+    "content": "clay",
+    "explain": "黏土",
+    "other": ""
+  },
+  {
+    "id": 201,
+    "content": "collision",
+    "explain": "碰撞、冲突",
+    "other": "collide"
+  },
+  {
+    "id": 202,
+    "content": "communism",
+    "explain": "共产主义",
+    "other": "communist"
+  },
+  {
+    "id": 203,
+    "content": "compass",
+    "explain": "罗盘、指南针",
+    "other": ""
+  },
+  {
+    "id": 204,
+    "content": "component",
+    "explain": "组成部分、部件",
+    "other": ""
+  },
+  {
+    "id": 205,
+    "content": "conference",
+    "explain": "大型会议",
+    "other": ""
+  },
+  {
+    "id": 206,
+    "content": "conscience",
+    "explain": "良心、良知",
+    "other": ""
+  },
+  {
+    "id": 207,
+    "content": "consensus",
+    "explain": "一致意见、共识",
+    "other": ""
+  },
+  {
+    "id": 208,
+    "content": "constitution",
+    "explain": "宪法",
+    "other": ""
+  },
+  {
+    "id": 209,
+    "content": "context",
+    "explain": "上下文、语境",
+    "other": ""
+  },
+  {
+    "id": 210,
+    "content": "cottage",
+    "explain": "小屋、村舍",
+    "other": ""
+  },
+  {
+    "id": 211,
+    "content": "crayon",
+    "explain": "蜡笔",
+    "other": ""
+  },
+  {
+    "id": 212,
+    "content": "criterion",
+    "explain": "标准、准则",
+    "other": "criteria"
+  },
+  {
+    "id": 213,
+    "content": "curriculum",
+    "explain": "课程",
+    "other": ""
+  },
+  {
+    "id": 214,
+    "content": "diagram",
+    "explain": "示意图",
+    "other": ""
+  },
+  {
+    "id": 215,
+    "content": "dictation",
+    "explain": "听写",
+    "other": "dictate"
+  },
+  {
+    "id": 216,
+    "content": "dimension",
+    "explain": "维度、尺寸、规模",
+    "other": "dimensional"
+  },
+  {
+    "id": 217,
+    "content": "dinosaur",
+    "explain": "恐龙",
+    "other": ""
+  },
+  {
+    "id": 218,
+    "content": "dioxide",
+    "explain": "二氧化物",
+    "other": ""
+  },
+  {
+    "id": 219,
+    "content": "diploma",
+    "explain": "文凭、证书",
+    "other": ""
+  },
+  {
+    "id": 220,
+    "content": "directory",
+    "explain": "目录、名录",
+    "other": ""
+  },
+  {
+    "id": 221,
+    "content": "discrimination",
+    "explain": "歧视",
+    "other": "discriminate"
+  },
+  {
+    "id": 222,
+    "content": "domain",
+    "explain": "领域",
+    "other": ""
+  },
+  {
+    "id": 223,
+    "content": "dormitory",
+    "explain": "学生宿舍",
+    "other": "dorm"
+  },
+  {
+    "id": 224,
+    "content": "drawback",
+    "explain": "缺点",
+    "other": ""
+  },
+  {
+    "id": 225,
+    "content": "embassy",
+    "explain": "大使馆",
+    "other": ""
+  },
+  {
+    "id": 226,
+    "content": "emergency",
+    "explain": "紧急状况",
+    "other": ""
+  },
+  {
+    "id": 227,
+    "content": "emperor",
+    "explain": "皇帝",
+    "other": ""
+  },
+  {
+    "id": 228,
+    "content": "empire",
+    "explain": "帝国",
+    "other": ""
+  },
+  {
+    "id": 229,
+    "content": "episode",
+    "explain": "电视剧的一集",
+    "other": ""
+  },
+  {
+    "id": 230,
+    "content": "estate",
+    "explain": "私有土地、庄园",
+    "other": ""
+  },
+  {
+    "id": 231,
+    "content": "evolution",
+    "explain": "进化、演变",
+    "other": "evolve"
+  },
+  {
+    "id": 232,
+    "content": "fabric",
+    "explain": "纺织物、布料",
+    "other": ""
+  },
+  {
+    "id": 233,
+    "content": "feast",
+    "explain": "盛宴",
+    "other": ""
+  },
+  {
+    "id": 234,
+    "content": "fibre",
+    "explain": "纤维",
+    "other": "fiber"
+  },
+  {
+    "id": 235,
+    "content": "fortnight",
+    "explain": "两周、十四天",
+    "other": ""
+  },
+  {
+    "id": 236,
+    "content": "freeway",
+    "explain": "高速公路",
+    "other": ""
+  },
+  {
+    "id": 237,
+    "content": "friction",
+    "explain": "摩擦",
+    "other": ""
+  },
+  {
+    "id": 238,
+    "content": "frontier",
+    "explain": "前沿、前线",
+    "other": ""
+  },
+  {
+    "id": 239,
+    "content": "frost",
+    "explain": "霜",
+    "other": ""
+  },
+  {
+    "id": 240,
+    "content": "gale",
+    "explain": "强风",
+    "other": ""
+  },
+  {
+    "id": 241,
+    "content": "gallon",
+    "explain": "加仑",
+    "other": ""
+  },
+  {
+    "id": 242,
+    "content": "garment",
+    "explain": "服装",
+    "other": ""
+  },
+  {
+    "id": 243,
+    "content": "geography",
+    "explain": "地理学",
+    "other": ""
+  },
+  {
+    "id": 244,
+    "content": "geometry",
+    "explain": "几何学",
+    "other": ""
+  },
+  {
+    "id": 245,
+    "content": "gown",
+    "explain": "长袍、长外衣、长裙",
+    "other": ""
+  },
+  {
+    "id": 246,
+    "content": "grain",
+    "explain": "谷物",
+    "other": ""
+  },
+  {
+    "id": 247,
+    "content": "gravity",
+    "explain": "重力、引力",
+    "other": ""
+  },
+  {
+    "id": 248,
+    "content": "gruel",
+    "explain": "粥",
+    "other": ""
+  },
+  {
+    "id": 249,
+    "content": "heap",
+    "explain": "一堆",
+    "other": ""
+  },
+  {
+    "id": 250,
+    "content": "heel",
+    "explain": "脚后跟",
+    "other": ""
+  },
+  {
+    "id": 251,
+    "content": "hive",
+    "explain": "蜂箱",
+    "other": "beehive"
+  },
+  {
+    "id": 252,
+    "content": "hook",
+    "explain": "钩子",
+    "other": ""
+  },
+  {
+    "id": 253,
+    "content": "horizon",
+    "explain": "地平线、眼界",
+    "other": ""
+  },
+  {
+    "id": 254,
+    "content": "hurricane",
+    "explain": "飓风",
+    "other": ""
+  },
+  {
+    "id": 255,
+    "content": "hydrogen",
+    "explain": "氢",
+    "other": ""
+  },
+  {
+    "id": 256,
+    "content": "identity",
+    "explain": "身份、特征",
+    "other": ""
+  },
+  {
+    "id": 257,
+    "content": "idiom",
+    "explain": "习语、俗语",
+    "other": ""
+  },
+  {
+    "id": 258,
+    "content": "immigration",
+    "explain": "移民",
+    "other": "immigrate"
+  },
+  {
+    "id": 259,
+    "content": "industry",
+    "explain": "工业、产业",
+    "other": "industrial"
+  },
+  {
+    "id": 260,
+    "content": "initiative",
+    "explain": "倡议",
+    "other": ""
+  },
+  {
+    "id": 261,
+    "content": "integrity",
+    "explain": "诚实、正直",
+    "other": ""
+  },
+  {
+    "id": 262,
+    "content": "interface",
+    "explain": "人机交互界面",
+    "other": ""
+  },
+  {
+    "id": 263,
+    "content": "interference",
+    "explain": "干扰、干涉、妨碍",
+    "other": "interfere"
+  },
+  {
+    "id": 264,
+    "content": "interval",
+    "explain": "间歇、间隔",
+    "other": ""
+  },
+  {
+    "id": 265,
+    "content": "intervention",
+    "explain": "干预、干涉",
+    "other": "intervene"
+  },
+  {
+    "id": 266,
+    "content": "isolation",
+    "explain": "隔离、孤立",
+    "other": "isolate"
+  },
+  {
+    "id": 267,
+    "content": "lantern",
+    "explain": "灯笼",
+    "other": ""
+  },
+  {
+    "id": 268,
+    "content": "latter",
+    "explain": "后者",
+    "other": ""
+  },
+  {
+    "id": 269,
+    "content": "laundry",
+    "explain": "洗衣店",
+    "other": ""
+  },
+  {
+    "id": 270,
+    "content": "lavatory",
+    "explain": "厕所",
+    "other": ""
+  },
+  {
+    "id": 271,
+    "content": "liberty",
+    "explain": "自由",
+    "other": ""
+  },
+  {
+    "id": 272,
+    "content": "loaf",
+    "explain": "面包",
+    "other": ""
+  },
+  {
+    "id": 273,
+    "content": "locust",
+    "explain": "蝗虫",
+    "other": ""
+  },
+  {
+    "id": 274,
+    "content": "maple",
+    "explain": "枫树",
+    "other": ""
+  },
+  {
+    "id": 275,
+    "content": "marble",
+    "explain": "大理石",
+    "other": ""
+  },
+  {
+    "id": 276,
+    "content": "mine",
+    "explain": "矿",
+    "other": ""
+  },
+  {
+    "id": 277,
+    "content": "mineral",
+    "explain": "矿物质",
+    "other": ""
+  },
+  {
+    "id": 278,
+    "content": "modem",
+    "explain": "调制解调器",
+    "other": ""
+  },
+  {
+    "id": 279,
+    "content": "monument",
+    "explain": "纪念碑",
+    "other": ""
+  },
+  {
+    "id": 280,
+    "content": "moustache",
+    "explain": "小胡子",
+    "other": ""
+  },
+  {
+    "id": 281,
+    "content": "mustard",
+    "explain": "芥末",
+    "other": ""
+  },
+  {
+    "id": 282,
+    "content": "mutton",
+    "explain": "羊肉",
+    "other": ""
+  },
+  {
+    "id": 283,
+    "content": "navy",
+    "explain": "海军",
+    "other": ""
+  },
+  {
+    "id": 284,
+    "content": "nylon",
+    "explain": "尼龙",
+    "other": ""
+  },
+  {
+    "id": 285,
+    "content": "omelette",
+    "explain": "蛋卷、蛋饼",
+    "other": ""
+  },
+  {
+    "id": 286,
+    "content": "optics",
+    "explain": "光学",
+    "other": "optical"
+  },
+  {
+    "id": 287,
+    "content": "orbit",
+    "explain": "天体的运行轨道",
+    "other": ""
+  },
+  {
+    "id": 288,
+    "content": "organ",
+    "explain": "器官",
+    "other": ""
+  },
+  {
+    "id": 289,
+    "content": "outcome",
+    "explain": "结果、效果",
+    "other": ""
+  },
+  {
+    "id": 290,
+    "content": "oval",
+    "explain": "椭圆、椭圆形的",
+    "other": ""
+  },
+  {
+    "id": 291,
+    "content": "paddle",
+    "explain": "船桨、涉水",
+    "other": ""
+  },
+  {
+    "id": 292,
+    "content": "paragraph",
+    "explain": "文章段落",
+    "other": ""
+  },
+  {
+    "id": 293,
+    "content": "pedestrian",
+    "explain": "行人",
+    "other": ""
+  },
+  {
+    "id": 294,
+    "content": "pension",
+    "explain": "养老金",
+    "other": ""
+  },
+  {
+    "id": 295,
+    "content": "perfume",
+    "explain": "香水",
+    "other": ""
+  },
+  {
+    "id": 296,
+    "content": "personnel",
+    "explain": "全体人员、职员",
+    "other": ""
+  },
+  {
+    "id": 297,
+    "content": "phase",
+    "explain": "阶段、时期",
+    "other": ""
+  },
+  {
+    "id": 298,
+    "content": "phenomenon",
+    "explain": "现象",
+    "other": "phenomena"
+  },
+  {
+    "id": 299,
+    "content": "phrase",
+    "explain": "短语、词组",
+    "other": ""
+  },
+  {
+    "id": 300,
+    "content": "pint",
+    "explain": "品脱",
+    "other": ""
+  },
+  {
+    "id": 301,
+    "content": "porridge",
+    "explain": "粥",
+    "other": ""
+  },
+  {
+    "id": 302,
+    "content": "porter",
+    "explain": "搬运工",
+    "other": ""
+  },
+  {
+    "id": 303,
+    "content": "prairie",
+    "explain": "大草原",
+    "other": ""
+  },
+  {
+    "id": 304,
+    "content": "premier",
+    "explain": "首相、总理",
+    "other": ""
+  },
+  {
+    "id": 305,
+    "content": "prescription",
+    "explain": "处方、药方",
+    "other": ""
+  },
+  {
+    "id": 306,
+    "content": "profession",
+    "explain": "职业",
+    "other": ""
+  },
+  {
+    "id": 307,
+    "content": "prosperity",
+    "explain": "繁荣",
+    "other": "prosperous, prospect"
+  },
+  {
+    "id": 308,
+    "content": "pulse",
+    "explain": "脉搏",
+    "other": ""
+  },
+  {
+    "id": 309,
+    "content": "pump",
+    "explain": "抽水机、水泵",
+    "other": ""
+  },
+  {
+    "id": 310,
+    "content": "punctuation",
+    "explain": "标点符号",
+    "other": "punctuate"
+  },
+  {
+    "id": 311,
+    "content": "pyramid",
+    "explain": "金字塔",
+    "other": ""
+  },
+  {
+    "id": 312,
+    "content": "quantity",
+    "explain": "数量",
+    "other": ""
+  },
+  {
+    "id": 313,
+    "content": "questionnaire",
+    "explain": "调查问卷",
+    "other": ""
+  },
+  {
+    "id": 314,
+    "content": "radiation",
+    "explain": "辐射、放射线",
+    "other": ""
+  },
+  {
+    "id": 315,
+    "content": "rectangle",
+    "explain": "长方形",
+    "other": ""
+  },
+  {
+    "id": 316,
+    "content": "relay",
+    "explain": "接力、中转",
+    "other": ""
+  },
+  {
+    "id": 317,
+    "content": "religion",
+    "explain": "宗教",
+    "other": "religious"
+  },
+  {
+    "id": 318,
+    "content": "revolution",
+    "explain": "革命、变革",
+    "other": ""
+  },
+  {
+    "id": 319,
+    "content": "rhyme",
+    "explain": "押韵",
+    "other": ""
+  },
+  {
+    "id": 320,
+    "content": "rugby",
+    "explain": "橄榄球",
+    "other": ""
+  },
+  {
+    "id": 321,
+    "content": "savage",
+    "explain": "野蛮人",
+    "other": ""
+  },
+  {
+    "id": 322,
+    "content": "scale",
+    "explain": "大小、规模、刻度",
+    "other": ""
+  },
+  {
+    "id": 323,
+    "content": "sculpture",
+    "explain": "雕塑",
+    "other": ""
+  },
+  {
+    "id": 324,
+    "content": "section",
+    "explain": "一段、部分",
+    "other": ""
+  },
+  {
+    "id": 325,
+    "content": "sequence",
+    "explain": "序列、顺序",
+    "other": "sequent"
+  },
+  {
+    "id": 326,
+    "content": "session",
+    "explain": "一场、一段时间、会议",
+    "other": ""
+  },
+  {
+    "id": 327,
+    "content": "smog",
+    "explain": "烟雾、雾霾",
+    "other": ""
+  },
+  {
+    "id": 328,
+    "content": "snackbar",
+    "explain": "快餐店",
+    "other": ""
+  },
+  {
+    "id": 329,
+    "content": "sneaker",
+    "explain": "运动鞋",
+    "other": ""
+  },
+  {
+    "id": 330,
+    "content": "socket",
+    "explain": "电源插座",
+    "other": ""
+  },
+  {
+    "id": 331,
+    "content": "spray",
+    "explain": "喷雾、喷洒",
+    "other": ""
+  },
+  {
+    "id": 332,
+    "content": "stain",
+    "explain": "污点、污渍",
+    "other": "stainless"
+  },
+  {
+    "id": 333,
+    "content": "starvation",
+    "explain": "饥荒",
+    "other": ""
+  },
+  {
+    "id": 334,
+    "content": "statesman",
+    "explain": "政治家",
+    "other": ""
+  },
+  {
+    "id": 335,
+    "content": "stepmother",
+    "explain": "继母",
+    "other": ""
+  },
+  {
+    "id": 336,
+    "content": "steward",
+    "explain": "乘务员",
+    "other": "stewardess"
+  },
+  {
+    "id": 337,
+    "content": "strait",
+    "explain": "海峡",
+    "other": ""
+  },
+  {
+    "id": 338,
+    "content": "straw",
+    "explain": "稻草",
+    "other": ""
+  },
+  {
+    "id": 339,
+    "content": "string",
+    "explain": "细线、琴弦、一连串",
+    "other": ""
+  },
+  {
+    "id": 340,
+    "content": "substance",
+    "explain": "物质、实质",
+    "other": "substantial"
+  },
+  {
+    "id": 341,
+    "content": "subtract",
+    "explain": "减去",
+    "other": "subtraction"
+  },
+  {
+    "id": 342,
+    "content": "surplus",
+    "explain": "过剩、剩余",
+    "other": ""
+  },
+  {
+    "id": 343,
+    "content": "suspend",
+    "explain": "暂停、悬浮",
+    "other": "suspension"
+  },
+  {
+    "id": 344,
+    "content": "symphony",
+    "explain": "交响乐",
+    "other": ""
+  },
+  {
+    "id": 345,
+    "content": "tanker",
+    "explain": "油轮",
+    "other": ""
+  },
+  {
+    "id": 346,
+    "content": "telescope",
+    "explain": "望远镜",
+    "other": ""
+  },
+  {
+    "id": 347,
+    "content": "temptation",
+    "explain": "诱惑",
+    "other": ""
+  },
+  {
+    "id": 348,
+    "content": "tendency",
+    "explain": "倾向",
+    "other": ""
+  },
+  {
+    "id": 349,
+    "content": "thermos",
+    "explain": "热水瓶",
+    "other": ""
+  },
+  {
+    "id": 350,
+    "content": "tissue",
+    "explain": "纸巾、细胞组织",
+    "other": ""
+  },
+  {
+    "id": 351,
+    "content": "tram",
+    "explain": "有轨电车",
+    "other": ""
+  },
+  {
+    "id": 352,
+    "content": "trolley",
+    "explain": "手推车",
+    "other": ""
+  },
+  {
+    "id": 353,
+    "content": "typhoon",
+    "explain": "台风",
+    "other": ""
+  },
+  {
+    "id": 354,
+    "content": "vanilla",
+    "explain": "香草",
+    "other": ""
+  },
+  {
+    "id": 355,
+    "content": "veal",
+    "explain": "小牛肉",
+    "other": ""
+  },
+  {
+    "id": 356,
+    "content": "venue",
+    "explain": "地点、场所",
+    "other": ""
+  },
+  {
+    "id": 357,
+    "content": "version",
+    "explain": "版本",
+    "other": ""
+  },
+  {
+    "id": 358,
+    "content": "vest",
+    "explain": "背心",
+    "other": ""
+  },
+  {
+    "id": 359,
+    "content": "vibration",
+    "explain": "振动、摇摆",
+    "other": "vibrate"
+  },
+  {
+    "id": 360,
+    "content": "vice",
+    "explain": "邪恶、罪行",
+    "other": ""
+  },
+  {
+    "id": 361,
+    "content": "victim",
+    "explain": "受害者、牺牲品",
+    "other": ""
+  },
+  {
+    "id": 362,
+    "content": "visa",
+    "explain": "签证",
+    "other": ""
+  },
+  {
+    "id": 363,
+    "content": "vocabulary",
+    "explain": "词汇",
+    "other": ""
+  },
+  {
+    "id": 364,
+    "content": "volcano",
+    "explain": "火山",
+    "other": ""
+  },
+  {
+    "id": 365,
+    "content": "volume",
+    "explain": "体积、容量、音量、大量",
+    "other": ""
+  },
+  {
+    "id": 366,
+    "content": "wage",
+    "explain": "工资",
+    "other": ""
+  },
+  {
+    "id": 367,
+    "content": "welfare",
+    "explain": "幸福、福利",
+    "other": ""
+  },
+  {
+    "id": 368,
+    "content": "windbreaker",
+    "explain": "风衣",
+    "other": ""
+  },
+  {
+    "id": 369,
+    "content": "wool",
+    "explain": "羊毛、羊绒",
+    "other": "woollen"
+  }
+]
