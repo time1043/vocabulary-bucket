@@ -3,7 +3,7 @@
   "words": [
     {
       "position": 1,
-      "word": "a.m./ A.M.",
+      "word": "a.m. / A.M.",
       "ipa": "",
       "meaning": "午前、上午",
       "forms": []
@@ -103,9 +103,9 @@
     },
     {
       "position": 15,
-      "word": "B.C./ A.D.",
+      "word": "B.C. / A.D.",
       "ipa": "",
-      "meaning": "公元前/公元后",
+      "meaning": "公元前 / 公元后",
       "forms": []
     },
     {
@@ -2418,7 +2418,7 @@
       "position": 334,
       "word": "o’clock",
       "ipa": "",
-      "meaning": "......点钟",
+      "meaning": "……点钟",
       "forms": []
     },
     {
@@ -2619,7 +2619,7 @@
       "position": 361,
       "word": "percent",
       "ipa": "",
-      "meaning": "百分之......",
+      "meaning": "百分之……",
       "forms": [
         "percentage"
       ]
@@ -4204,7 +4204,7 @@
       "position": 580,
       "word": "consist",
       "ipa": "",
-      "meaning": "包含、由......组成",
+      "meaning": "包含、由……组成",
       "forms": []
     },
     {
@@ -4286,7 +4286,7 @@
       "position": 591,
       "word": "underline",
       "ipa": "",
-      "meaning": "在......下面划线",
+      "meaning": "在……下面划线",
       "forms": []
     },
     {
@@ -4796,7 +4796,7 @@
     },
     {
       "position": 662,
-      "word": "a/ an",
+      "word": "a / an",
       "ipa": "",
       "meaning": "一个、某个",
       "forms": []
@@ -4826,7 +4826,7 @@
       "position": 666,
       "word": "inside",
       "ipa": "",
-      "meaning": "在......里面",
+      "meaning": "在……里面",
       "forms": []
     },
     {
@@ -4840,7 +4840,7 @@
       "position": 668,
       "word": "opposite",
       "ipa": "",
-      "meaning": "与......相对、在......对面",
+      "meaning": "与……相对、在……对面",
       "forms": []
     },
     {

@@ -144,7 +144,7 @@
       "position": 18,
       "word": "entitle",
       "ipa": "",
-      "meaning": "赋予权利、给......命名",
+      "meaning": "赋予权利、给……命名",
       "forms": []
     },
     {
@@ -1591,13 +1591,20 @@
     },
     {
       "position": 211,
+      "word": "council",
+      "ipa": "",
+      "meaning": "委员会",
+      "forms": []
+    },
+    {
+      "position": 212,
       "word": "crayon",
       "ipa": "",
       "meaning": "蜡笔",
       "forms": []
     },
     {
-      "position": 212,
+      "position": 213,
       "word": "criterion",
       "ipa": "",
       "meaning": "标准、准则",
@@ -1606,21 +1613,21 @@
       ]
     },
     {
-      "position": 213,
+      "position": 214,
       "word": "curriculum",
       "ipa": "",
       "meaning": "课程",
       "forms": []
     },
     {
-      "position": 214,
+      "position": 215,
       "word": "diagram",
       "ipa": "",
       "meaning": "示意图",
       "forms": []
     },
     {
-      "position": 215,
+      "position": 216,
       "word": "dictation",
       "ipa": "",
       "meaning": "听写",
@@ -1629,7 +1636,7 @@
       ]
     },
     {
-      "position": 216,
+      "position": 217,
       "word": "dimension",
       "ipa": "",
       "meaning": "维度、尺寸、规模",
@@ -1638,35 +1645,35 @@
       ]
     },
     {
-      "position": 217,
+      "position": 218,
       "word": "dinosaur",
       "ipa": "",
       "meaning": "恐龙",
       "forms": []
     },
     {
-      "position": 218,
+      "position": 219,
       "word": "dioxide",
       "ipa": "",
       "meaning": "二氧化物",
       "forms": []
     },
     {
-      "position": 219,
+      "position": 220,
       "word": "diploma",
       "ipa": "",
       "meaning": "文凭、证书",
       "forms": []
     },
     {
-      "position": 220,
+      "position": 221,
       "word": "directory",
       "ipa": "",
       "meaning": "目录、名录",
       "forms": []
     },
     {
-      "position": 221,
+      "position": 222,
       "word": "discrimination",
       "ipa": "",
       "meaning": "歧视",
@@ -1675,14 +1682,14 @@
       ]
     },
     {
-      "position": 222,
+      "position": 223,
       "word": "domain",
       "ipa": "",
       "meaning": "领域",
       "forms": []
     },
     {
-      "position": 223,
+      "position": 224,
       "word": "dormitory",
       "ipa": "",
       "meaning": "学生宿舍",
@@ -1691,56 +1698,56 @@
       ]
     },
     {
-      "position": 224,
+      "position": 225,
       "word": "drawback",
       "ipa": "",
       "meaning": "缺点",
       "forms": []
     },
     {
-      "position": 225,
+      "position": 226,
       "word": "embassy",
       "ipa": "",
       "meaning": "大使馆",
       "forms": []
     },
     {
-      "position": 226,
+      "position": 227,
       "word": "emergency",
       "ipa": "",
       "meaning": "紧急状况",
       "forms": []
     },
     {
-      "position": 227,
+      "position": 228,
       "word": "emperor",
       "ipa": "",
       "meaning": "皇帝",
       "forms": []
     },
     {
-      "position": 228,
+      "position": 229,
       "word": "empire",
       "ipa": "",
       "meaning": "帝国",
       "forms": []
     },
     {
-      "position": 229,
+      "position": 230,
       "word": "episode",
       "ipa": "",
       "meaning": "电视剧的一集",
       "forms": []
     },
     {
-      "position": 230,
+      "position": 231,
       "word": "estate",
       "ipa": "",
       "meaning": "私有土地、庄园",
       "forms": []
     },
     {
-      "position": 231,
+      "position": 232,
       "word": "evolution",
       "ipa": "",
       "meaning": "进化、演变",
@@ -1749,21 +1756,21 @@
       ]
     },
     {
-      "position": 232,
+      "position": 233,
       "word": "fabric",
       "ipa": "",
       "meaning": "纺织物、布料",
       "forms": []
     },
     {
-      "position": 233,
+      "position": 234,
       "word": "feast",
       "ipa": "",
       "meaning": "盛宴",
       "forms": []
     },
     {
-      "position": 234,
+      "position": 235,
       "word": "fibre",
       "ipa": "",
       "meaning": "纤维",
@@ -1772,119 +1779,119 @@
       ]
     },
     {
-      "position": 235,
+      "position": 236,
       "word": "fortnight",
       "ipa": "",
       "meaning": "两周、十四天",
       "forms": []
     },
     {
-      "position": 236,
+      "position": 237,
       "word": "freeway",
       "ipa": "",
       "meaning": "高速公路",
       "forms": []
     },
     {
-      "position": 237,
+      "position": 238,
       "word": "friction",
       "ipa": "",
       "meaning": "摩擦",
       "forms": []
     },
     {
-      "position": 238,
+      "position": 239,
       "word": "frontier",
       "ipa": "",
       "meaning": "前沿、前线",
       "forms": []
     },
     {
-      "position": 239,
+      "position": 240,
       "word": "frost",
       "ipa": "",
       "meaning": "霜",
       "forms": []
     },
     {
-      "position": 240,
+      "position": 241,
       "word": "gale",
       "ipa": "",
       "meaning": "强风",
       "forms": []
     },
     {
-      "position": 241,
+      "position": 242,
       "word": "gallon",
       "ipa": "",
       "meaning": "加仑",
       "forms": []
     },
     {
-      "position": 242,
+      "position": 243,
       "word": "garment",
       "ipa": "",
       "meaning": "服装",
       "forms": []
     },
     {
-      "position": 243,
+      "position": 244,
       "word": "geography",
       "ipa": "",
       "meaning": "地理学",
       "forms": []
     },
     {
-      "position": 244,
+      "position": 245,
       "word": "geometry",
       "ipa": "",
       "meaning": "几何学",
       "forms": []
     },
     {
-      "position": 245,
+      "position": 246,
       "word": "gown",
       "ipa": "",
       "meaning": "长袍、长外衣、长裙",
       "forms": []
     },
     {
-      "position": 246,
+      "position": 247,
       "word": "grain",
       "ipa": "",
       "meaning": "谷物",
       "forms": []
     },
     {
-      "position": 247,
+      "position": 248,
       "word": "gravity",
       "ipa": "",
       "meaning": "重力、引力",
       "forms": []
     },
     {
-      "position": 248,
+      "position": 249,
       "word": "gruel",
       "ipa": "",
       "meaning": "粥",
       "forms": []
     },
     {
-      "position": 249,
+      "position": 250,
       "word": "heap",
       "ipa": "",
       "meaning": "一堆",
       "forms": []
     },
     {
-      "position": 250,
+      "position": 251,
       "word": "heel",
       "ipa": "",
       "meaning": "脚后跟",
       "forms": []
     },
     {
-      "position": 251,
+      "position": 252,
       "word": "hive",
       "ipa": "",
       "meaning": "蜂箱",
@@ -1893,49 +1900,49 @@
       ]
     },
     {
-      "position": 252,
+      "position": 253,
       "word": "hook",
       "ipa": "",
       "meaning": "钩子",
       "forms": []
     },
     {
-      "position": 253,
+      "position": 254,
       "word": "horizon",
       "ipa": "",
       "meaning": "地平线、眼界",
       "forms": []
     },
     {
-      "position": 254,
+      "position": 255,
       "word": "hurricane",
       "ipa": "",
       "meaning": "飓风",
       "forms": []
     },
     {
-      "position": 255,
+      "position": 256,
       "word": "hydrogen",
       "ipa": "",
       "meaning": "氢",
       "forms": []
     },
     {
-      "position": 256,
+      "position": 257,
       "word": "identity",
       "ipa": "",
       "meaning": "身份、特征",
       "forms": []
     },
     {
-      "position": 257,
+      "position": 258,
       "word": "idiom",
       "ipa": "",
       "meaning": "习语、俗语",
       "forms": []
     },
     {
-      "position": 258,
+      "position": 259,
       "word": "immigration",
       "ipa": "",
       "meaning": "移民",
@@ -1944,7 +1951,7 @@
       ]
     },
     {
-      "position": 259,
+      "position": 260,
       "word": "industry",
       "ipa": "",
       "meaning": "工业、产业",
@@ -1953,28 +1960,28 @@
       ]
     },
     {
-      "position": 260,
+      "position": 261,
       "word": "initiative",
       "ipa": "",
       "meaning": "倡议",
       "forms": []
     },
     {
-      "position": 261,
+      "position": 262,
       "word": "integrity",
       "ipa": "",
       "meaning": "诚实、正直",
       "forms": []
     },
     {
-      "position": 262,
+      "position": 263,
       "word": "interface",
       "ipa": "",
       "meaning": "人机交互界面",
       "forms": []
     },
     {
-      "position": 263,
+      "position": 264,
       "word": "interference",
       "ipa": "",
       "meaning": "干扰、干涉、妨碍",
@@ -1983,14 +1990,14 @@
       ]
     },
     {
-      "position": 264,
+      "position": 265,
       "word": "interval",
       "ipa": "",
       "meaning": "间歇、间隔",
       "forms": []
     },
     {
-      "position": 265,
+      "position": 266,
       "word": "intervention",
       "ipa": "",
       "meaning": "干预、干涉",
@@ -1999,7 +2006,7 @@
       ]
     },
     {
-      "position": 266,
+      "position": 267,
       "word": "isolation",
       "ipa": "",
       "meaning": "隔离、孤立",
@@ -2008,140 +2015,140 @@
       ]
     },
     {
-      "position": 267,
+      "position": 268,
       "word": "lantern",
       "ipa": "",
       "meaning": "灯笼",
       "forms": []
     },
     {
-      "position": 268,
+      "position": 269,
       "word": "latter",
       "ipa": "",
       "meaning": "后者",
       "forms": []
     },
     {
-      "position": 269,
+      "position": 270,
       "word": "laundry",
       "ipa": "",
       "meaning": "洗衣店",
       "forms": []
     },
     {
-      "position": 270,
+      "position": 271,
       "word": "lavatory",
       "ipa": "",
       "meaning": "厕所",
       "forms": []
     },
     {
-      "position": 271,
+      "position": 272,
       "word": "liberty",
       "ipa": "",
       "meaning": "自由",
       "forms": []
     },
     {
-      "position": 272,
+      "position": 273,
       "word": "loaf",
       "ipa": "",
       "meaning": "面包",
       "forms": []
     },
     {
-      "position": 273,
+      "position": 274,
       "word": "locust",
       "ipa": "",
       "meaning": "蝗虫",
       "forms": []
     },
     {
-      "position": 274,
+      "position": 275,
       "word": "maple",
       "ipa": "",
       "meaning": "枫树",
       "forms": []
     },
     {
-      "position": 275,
+      "position": 276,
       "word": "marble",
       "ipa": "",
       "meaning": "大理石",
       "forms": []
     },
     {
-      "position": 276,
+      "position": 277,
       "word": "mine",
       "ipa": "",
       "meaning": "矿",
       "forms": []
     },
     {
-      "position": 277,
+      "position": 278,
       "word": "mineral",
       "ipa": "",
       "meaning": "矿物质",
       "forms": []
     },
     {
-      "position": 278,
+      "position": 279,
       "word": "modem",
       "ipa": "",
       "meaning": "调制解调器",
       "forms": []
     },
     {
-      "position": 279,
+      "position": 280,
       "word": "monument",
       "ipa": "",
       "meaning": "纪念碑",
       "forms": []
     },
     {
-      "position": 280,
+      "position": 281,
       "word": "moustache",
       "ipa": "",
       "meaning": "小胡子",
       "forms": []
     },
     {
-      "position": 281,
+      "position": 282,
       "word": "mustard",
       "ipa": "",
       "meaning": "芥末",
       "forms": []
     },
     {
-      "position": 282,
+      "position": 283,
       "word": "mutton",
       "ipa": "",
       "meaning": "羊肉",
       "forms": []
     },
     {
-      "position": 283,
+      "position": 284,
       "word": "navy",
       "ipa": "",
       "meaning": "海军",
       "forms": []
     },
     {
-      "position": 284,
+      "position": 285,
       "word": "nylon",
       "ipa": "",
       "meaning": "尼龙",
       "forms": []
     },
     {
-      "position": 285,
+      "position": 286,
       "word": "omelette",
       "ipa": "",
       "meaning": "蛋卷、蛋饼",
       "forms": []
     },
     {
-      "position": 286,
+      "position": 287,
       "word": "optics",
       "ipa": "",
       "meaning": "光学",
@@ -2150,84 +2157,84 @@
       ]
     },
     {
-      "position": 287,
+      "position": 288,
       "word": "orbit",
       "ipa": "",
       "meaning": "天体的运行轨道",
       "forms": []
     },
     {
-      "position": 288,
+      "position": 289,
       "word": "organ",
       "ipa": "",
       "meaning": "器官",
       "forms": []
     },
     {
-      "position": 289,
+      "position": 290,
       "word": "outcome",
       "ipa": "",
       "meaning": "结果、效果",
       "forms": []
     },
     {
-      "position": 290,
+      "position": 291,
       "word": "oval",
       "ipa": "",
       "meaning": "椭圆、椭圆形的",
       "forms": []
     },
     {
-      "position": 291,
+      "position": 292,
       "word": "paddle",
       "ipa": "",
       "meaning": "船桨、涉水",
       "forms": []
     },
     {
-      "position": 292,
+      "position": 293,
       "word": "paragraph",
       "ipa": "",
       "meaning": "文章段落",
       "forms": []
     },
     {
-      "position": 293,
+      "position": 294,
       "word": "pedestrian",
       "ipa": "",
       "meaning": "行人",
       "forms": []
     },
     {
-      "position": 294,
+      "position": 295,
       "word": "pension",
       "ipa": "",
       "meaning": "养老金",
       "forms": []
     },
     {
-      "position": 295,
+      "position": 296,
       "word": "perfume",
       "ipa": "",
       "meaning": "香水",
       "forms": []
     },
     {
-      "position": 296,
+      "position": 297,
       "word": "personnel",
       "ipa": "",
       "meaning": "全体人员、职员",
       "forms": []
     },
     {
-      "position": 297,
+      "position": 298,
       "word": "phase",
       "ipa": "",
       "meaning": "阶段、时期",
       "forms": []
     },
     {
-      "position": 298,
+      "position": 299,
       "word": "phenomenon",
       "ipa": "",
       "meaning": "现象",
@@ -2236,63 +2243,63 @@
       ]
     },
     {
-      "position": 299,
+      "position": 300,
       "word": "phrase",
       "ipa": "",
       "meaning": "短语、词组",
       "forms": []
     },
     {
-      "position": 300,
+      "position": 301,
       "word": "pint",
       "ipa": "",
       "meaning": "品脱",
       "forms": []
     },
     {
-      "position": 301,
+      "position": 302,
       "word": "porridge",
       "ipa": "",
       "meaning": "粥",
       "forms": []
     },
     {
-      "position": 302,
+      "position": 303,
       "word": "porter",
       "ipa": "",
       "meaning": "搬运工",
       "forms": []
     },
     {
-      "position": 303,
+      "position": 304,
       "word": "prairie",
       "ipa": "",
       "meaning": "大草原",
       "forms": []
     },
     {
-      "position": 304,
+      "position": 305,
       "word": "premier",
       "ipa": "",
       "meaning": "首相、总理",
       "forms": []
     },
     {
-      "position": 305,
+      "position": 306,
       "word": "prescription",
       "ipa": "",
       "meaning": "处方、药方",
       "forms": []
     },
     {
-      "position": 306,
+      "position": 307,
       "word": "profession",
       "ipa": "",
       "meaning": "职业",
       "forms": []
     },
     {
-      "position": 307,
+      "position": 308,
       "word": "prosperity",
       "ipa": "",
       "meaning": "繁荣",
@@ -2302,21 +2309,21 @@
       ]
     },
     {
-      "position": 308,
+      "position": 309,
       "word": "pulse",
       "ipa": "",
       "meaning": "脉搏",
       "forms": []
     },
     {
-      "position": 309,
+      "position": 310,
       "word": "pump",
       "ipa": "",
       "meaning": "抽水机、水泵",
       "forms": []
     },
     {
-      "position": 310,
+      "position": 311,
       "word": "punctuation",
       "ipa": "",
       "meaning": "标点符号",
@@ -2325,49 +2332,49 @@
       ]
     },
     {
-      "position": 311,
+      "position": 312,
       "word": "pyramid",
       "ipa": "",
       "meaning": "金字塔",
       "forms": []
     },
     {
-      "position": 312,
+      "position": 313,
       "word": "quantity",
       "ipa": "",
       "meaning": "数量",
       "forms": []
     },
     {
-      "position": 313,
+      "position": 314,
       "word": "questionnaire",
       "ipa": "",
       "meaning": "调查问卷",
       "forms": []
     },
     {
-      "position": 314,
+      "position": 315,
       "word": "radiation",
       "ipa": "",
       "meaning": "辐射、放射线",
       "forms": []
     },
     {
-      "position": 315,
+      "position": 316,
       "word": "rectangle",
       "ipa": "",
       "meaning": "长方形",
       "forms": []
     },
     {
-      "position": 316,
+      "position": 317,
       "word": "relay",
       "ipa": "",
       "meaning": "接力、中转",
       "forms": []
     },
     {
-      "position": 317,
+      "position": 318,
       "word": "religion",
       "ipa": "",
       "meaning": "宗教",
@@ -2376,56 +2383,56 @@
       ]
     },
     {
-      "position": 318,
+      "position": 319,
       "word": "revolution",
       "ipa": "",
       "meaning": "革命、变革",
       "forms": []
     },
     {
-      "position": 319,
+      "position": 320,
       "word": "rhyme",
       "ipa": "",
       "meaning": "押韵",
       "forms": []
     },
     {
-      "position": 320,
+      "position": 321,
       "word": "rugby",
       "ipa": "",
       "meaning": "橄榄球",
       "forms": []
     },
     {
-      "position": 321,
+      "position": 322,
       "word": "savage",
       "ipa": "",
       "meaning": "野蛮人",
       "forms": []
     },
     {
-      "position": 322,
+      "position": 323,
       "word": "scale",
       "ipa": "",
       "meaning": "大小、规模、刻度",
       "forms": []
     },
     {
-      "position": 323,
+      "position": 324,
       "word": "sculpture",
       "ipa": "",
       "meaning": "雕塑",
       "forms": []
     },
     {
-      "position": 324,
+      "position": 325,
       "word": "section",
       "ipa": "",
       "meaning": "一段、部分",
       "forms": []
     },
     {
-      "position": 325,
+      "position": 326,
       "word": "sequence",
       "ipa": "",
       "meaning": "序列、顺序",
@@ -2434,49 +2441,49 @@
       ]
     },
     {
-      "position": 326,
+      "position": 327,
       "word": "session",
       "ipa": "",
       "meaning": "一场、一段时间、会议",
       "forms": []
     },
     {
-      "position": 327,
+      "position": 328,
       "word": "smog",
       "ipa": "",
       "meaning": "烟雾、雾霾",
       "forms": []
     },
     {
-      "position": 328,
+      "position": 329,
       "word": "snackbar",
       "ipa": "",
       "meaning": "快餐店",
       "forms": []
     },
     {
-      "position": 329,
+      "position": 330,
       "word": "sneaker",
       "ipa": "",
       "meaning": "运动鞋",
       "forms": []
     },
     {
-      "position": 330,
+      "position": 331,
       "word": "socket",
       "ipa": "",
       "meaning": "电源插座",
       "forms": []
     },
     {
-      "position": 331,
+      "position": 332,
       "word": "spray",
       "ipa": "",
       "meaning": "喷雾、喷洒",
       "forms": []
     },
     {
-      "position": 332,
+      "position": 333,
       "word": "stain",
       "ipa": "",
       "meaning": "污点、污渍",
@@ -2485,28 +2492,28 @@
       ]
     },
     {
-      "position": 333,
+      "position": 334,
       "word": "starvation",
       "ipa": "",
       "meaning": "饥荒",
       "forms": []
     },
     {
-      "position": 334,
+      "position": 335,
       "word": "statesman",
       "ipa": "",
       "meaning": "政治家",
       "forms": []
     },
     {
-      "position": 335,
+      "position": 336,
       "word": "stepmother",
       "ipa": "",
       "meaning": "继母",
       "forms": []
     },
     {
-      "position": 336,
+      "position": 337,
       "word": "steward",
       "ipa": "",
       "meaning": "乘务员",
@@ -2515,28 +2522,28 @@
       ]
     },
     {
-      "position": 337,
+      "position": 338,
       "word": "strait",
       "ipa": "",
       "meaning": "海峡",
       "forms": []
     },
     {
-      "position": 338,
+      "position": 339,
       "word": "straw",
       "ipa": "",
       "meaning": "稻草",
       "forms": []
     },
     {
-      "position": 339,
+      "position": 340,
       "word": "string",
       "ipa": "",
       "meaning": "细线、琴弦、一连串",
       "forms": []
     },
     {
-      "position": 340,
+      "position": 341,
       "word": "substance",
       "ipa": "",
       "meaning": "物质、实质",
@@ -2545,7 +2552,7 @@
       ]
     },
     {
-      "position": 341,
+      "position": 342,
       "word": "subtract",
       "ipa": "",
       "meaning": "减去",
@@ -2554,14 +2561,14 @@
       ]
     },
     {
-      "position": 342,
+      "position": 343,
       "word": "surplus",
       "ipa": "",
       "meaning": "过剩、剩余",
       "forms": []
     },
     {
-      "position": 343,
+      "position": 344,
       "word": "suspend",
       "ipa": "",
       "meaning": "暂停、悬浮",
@@ -2570,112 +2577,112 @@
       ]
     },
     {
-      "position": 344,
+      "position": 345,
       "word": "symphony",
       "ipa": "",
       "meaning": "交响乐",
       "forms": []
     },
     {
-      "position": 345,
+      "position": 346,
       "word": "tanker",
       "ipa": "",
       "meaning": "油轮",
       "forms": []
     },
     {
-      "position": 346,
+      "position": 347,
       "word": "telescope",
       "ipa": "",
       "meaning": "望远镜",
       "forms": []
     },
     {
-      "position": 347,
+      "position": 348,
       "word": "temptation",
       "ipa": "",
       "meaning": "诱惑",
       "forms": []
     },
     {
-      "position": 348,
+      "position": 349,
       "word": "tendency",
       "ipa": "",
       "meaning": "倾向",
       "forms": []
     },
     {
-      "position": 349,
+      "position": 350,
       "word": "thermos",
       "ipa": "",
       "meaning": "热水瓶",
       "forms": []
     },
     {
-      "position": 350,
+      "position": 351,
       "word": "tissue",
       "ipa": "",
       "meaning": "纸巾、细胞组织",
       "forms": []
     },
     {
-      "position": 351,
+      "position": 352,
       "word": "tram",
       "ipa": "",
       "meaning": "有轨电车",
       "forms": []
     },
     {
-      "position": 352,
+      "position": 353,
       "word": "trolley",
       "ipa": "",
       "meaning": "手推车",
       "forms": []
     },
     {
-      "position": 353,
+      "position": 354,
       "word": "typhoon",
       "ipa": "",
       "meaning": "台风",
       "forms": []
     },
     {
-      "position": 354,
+      "position": 355,
       "word": "vanilla",
       "ipa": "",
       "meaning": "香草",
       "forms": []
     },
     {
-      "position": 355,
+      "position": 356,
       "word": "veal",
       "ipa": "",
       "meaning": "小牛肉",
       "forms": []
     },
     {
-      "position": 356,
+      "position": 357,
       "word": "venue",
       "ipa": "",
       "meaning": "地点、场所",
       "forms": []
     },
     {
-      "position": 357,
+      "position": 358,
       "word": "version",
       "ipa": "",
       "meaning": "版本",
       "forms": []
     },
     {
-      "position": 358,
+      "position": 359,
       "word": "vest",
       "ipa": "",
       "meaning": "背心",
       "forms": []
     },
     {
-      "position": 359,
+      "position": 360,
       "word": "vibration",
       "ipa": "",
       "meaning": "振动、摇摆",
@@ -2684,70 +2691,86 @@
       ]
     },
     {
-      "position": 360,
+      "position": 361,
       "word": "vice",
       "ipa": "",
       "meaning": "邪恶、罪行",
       "forms": []
     },
     {
-      "position": 361,
+      "position": 362,
       "word": "victim",
       "ipa": "",
       "meaning": "受害者、牺牲品",
       "forms": []
     },
     {
-      "position": 362,
+      "position": 363,
       "word": "visa",
       "ipa": "",
       "meaning": "签证",
       "forms": []
     },
     {
-      "position": 363,
+      "position": 364,
       "word": "vocabulary",
       "ipa": "",
       "meaning": "词汇",
       "forms": []
     },
     {
-      "position": 364,
+      "position": 365,
       "word": "volcano",
       "ipa": "",
       "meaning": "火山",
       "forms": []
     },
     {
-      "position": 365,
+      "position": 366,
       "word": "volume",
       "ipa": "",
       "meaning": "体积、容量、音量、大量",
       "forms": []
     },
     {
-      "position": 366,
+      "position": 367,
       "word": "wage",
       "ipa": "",
       "meaning": "工资",
       "forms": []
     },
     {
-      "position": 367,
+      "position": 368,
       "word": "welfare",
       "ipa": "",
       "meaning": "幸福、福利",
       "forms": []
     },
     {
-      "position": 368,
+      "position": 369,
       "word": "windbreaker",
       "ipa": "",
       "meaning": "风衣",
       "forms": []
     },
     {
-      "position": 369,
+      "position": 370,
+      "word": "wool",
+      "ipa": "",
+      "meaning": "羊毛、羊绒",
+      "forms": [
+        "woollen"
+      ]
+    },
+    {
+      "position": 371,
+      "word": "windbreaker",
+      "ipa": "",
+      "meaning": "风衣",
+      "forms": []
+    },
+    {
+      "position": 372,
       "word": "wool",
       "ipa": "",
       "meaning": "羊毛、羊绒",
