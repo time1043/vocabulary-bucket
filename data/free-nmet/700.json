@@ -21,7 +21,7 @@
       "ipa": "/ˈælkəhɒl/ /ˈælkəhɔl/",
       "meaning": "n. 酒精、酒",
       "forms": [
-        "alcoholic"
+        "alcoholic adj."
       ]
     },
     {
@@ -177,7 +177,7 @@
       "ipa": "/ˈbɑːbə/ /ˈbɑrbər/",
       "meaning": "n. 理发师",
       "forms": [
-        "barbershop"
+        "barbershop n."
       ]
     },
     {
@@ -368,7 +368,7 @@
       "ipa": "/braɪd/",
       "meaning": "n. 新娘",
       "forms": [
-        "bridegroom"
+        "bridegroom n."
       ]
     },
     {
@@ -426,7 +426,7 @@
       "ipa": "/ˈkæfeɪ/ /ˌkæˈfeɪ/",
       "meaning": "n. 咖啡馆",
       "forms": [
-        "cafeteria"
+        "cafeteria n."
       ]
     },
     {
@@ -568,7 +568,7 @@
       "ipa": "/ˈtʃɛːmən/ /ˈtʃɛrmən/",
       "meaning": "n. 主席",
       "forms": [
-        "chairwoman"
+        "chairwoman n."
       ]
     },
     {
@@ -619,7 +619,7 @@
       "ipa": "/ˈtʃɪkɪn/",
       "meaning": "n. 鸡肉",
       "forms": [
-        "chick"
+        "chick n."
       ]
     },
     {
@@ -810,7 +810,7 @@
       "ipa": "/kənˈfjuːʃəs/ /kənˈfjuʃəs/",
       "meaning": "n. 孔子",
       "forms": [
-        "Confucianism"
+        "Confucianism n."
       ]
     },
     {
@@ -917,7 +917,7 @@
       "ipa": "/kjuːb/ /kjub/",
       "meaning": "n. 立方体",
       "forms": [
-        "cubic"
+        "cubic adj."
       ]
     },
     {
@@ -940,8 +940,8 @@
       "ipa": "/ˈkʌstəm/",
       "meaning": "n. 习俗、adj. 定制的",
       "forms": [
-        "customs",
-        "customer"
+        "customs n.",
+        "customer n."
       ]
     },
     {
@@ -950,7 +950,7 @@
       "ipa": "/dæd/",
       "meaning": "n. 爸爸",
       "forms": [
-        "daddy"
+        "daddy n."
       ]
     },
     {
@@ -994,7 +994,7 @@
       "ipa": "/ˈdɛntɪst/",
       "meaning": "n. 牙科医生",
       "forms": [
-        "dentistry"
+        "dentistry n."
       ]
     },
     {
@@ -1164,7 +1164,7 @@
       "ipa": "/ɪjst/ /iːst/",
       "meaning": "n. 东方",
       "forms": [
-        "eastern"
+        "eastern adj."
       ]
     },
     {
@@ -1173,7 +1173,7 @@
       "ipa": "/ɪˈkɒlədʒi/ /ɪˈkɑlədʒi/",
       "meaning": "n. 生态学",
       "forms": [
-        "ecological"
+        "ecological adj."
       ]
     },
     {
@@ -1203,9 +1203,9 @@
       "ipa": "/ˌiːlɛkˈtrɪsɪti/ /ɪˌlɛkˈtrɪsɪti/",
       "meaning": "n. 电",
       "forms": [
-        "electric",
-        "electrical",
-        "electronic"
+        "electric adj.",
+        "electrical adj.",
+        "electronic adj."
       ]
     },
     {
@@ -1319,7 +1319,7 @@
       "ipa": "/ˈfɪŋɡəː/ /ˈfɪŋɡər/",
       "meaning": "n. 手指",
       "forms": [
-        "fingernail"
+        "fingernail n."
       ]
     },
     {
@@ -1398,7 +1398,7 @@
       "ipa": "/frɪdʒ/",
       "meaning": "n. 冰箱",
       "forms": [
-        "refrigerator"
+        "refrigerator n."
       ]
     },
     {
@@ -1463,7 +1463,7 @@
       "ipa": "/ɡlɑːs/ /ɡlæs/",
       "meaning": "n. 玻璃杯、玻璃",
       "forms": [
-        "glasses"
+        "glasses n."
       ]
     },
     {
@@ -1472,7 +1472,7 @@
       "ipa": "/ɡləʊb/ /ɡloʊb/",
       "meaning": "n. 地球、世界、地球仪",
       "forms": [
-        "global"
+        "global adj."
       ]
     },
     {
@@ -1509,7 +1509,7 @@
       "ipa": "/ɡuːs/ /ɡus/",
       "meaning": "n. 鹅",
       "forms": [
-        "geese"
+        "geese n."
       ]
     },
     {
@@ -1532,8 +1532,8 @@
       "ipa": "/ˈɡrændˌtʃaɪld/",
       "meaning": "n. 孙子、孙女",
       "forms": [
-        "grandson",
-        "granddaughter"
+        "grandson n.",
+        "granddaughter n."
       ]
     },
     {
@@ -1542,8 +1542,8 @@
       "ipa": "/ˈɡrænpɛərənt/",
       "meaning": "n. 祖父、祖母",
       "forms": [
-        "grandpa",
-        "grandma"
+        "grandpa n.",
+        "grandma n."
       ]
     },
     {
@@ -1685,7 +1685,7 @@
       "ipa": "/hɜːb/ /ɜːrb/",
       "meaning": "n. 药草",
       "forms": [
-        "herbal"
+        "herbal adj."
       ]
     },
     {
@@ -1743,7 +1743,7 @@
       "ipa": "/ˈɪnsɛkt/",
       "meaning": "n. 昆虫",
       "forms": [
-        "insects"
+        "insects n."
       ]
     },
     {
@@ -1752,7 +1752,7 @@
       "ipa": "/ˈɪnstɪtjuːt/",
       "meaning": "n. 学院、机构、研究所",
       "forms": [
-        "institution"
+        "institution n."
       ]
     },
     {
@@ -1810,7 +1810,7 @@
       "ipa": "/dʒuːs/ /dʒus/",
       "meaning": "n. 汁水、汁液",
       "forms": [
-        "juicy"
+        "juicy adj."
       ]
     },
     {
@@ -1826,8 +1826,8 @@
       "ipa": "/dʒʌŋk/",
       "meaning": "n. 废旧物品、垃圾",
       "forms": [
-        "junkfood",
-        "junkmail"
+        "junkfood n.",
+        "junkmail n."
       ]
     },
     {
@@ -1962,7 +1962,7 @@
       "ipa": "/ˈlɛmən/",
       "meaning": "n. 柠檬",
       "forms": [
-        "lemonade"
+        "lemonade n."
       ]
     },
     {
@@ -2048,7 +2048,7 @@
       "ipa": "/ˈmædəm/",
       "meaning": "n. 夫人、女士",
       "forms": [
-        "madame"
+        "madame n."
       ]
     },
     {
@@ -2127,8 +2127,8 @@
       "ipa": "/ˈmɛlən/",
       "meaning": "n. 瓜",
       "forms": [
-        "watermelon",
-        "melonseed"
+        "watermelon n.",
+        "melonseed n."
       ]
     },
     {
@@ -2193,7 +2193,7 @@
       "ipa": "/ˈmɪləˌmitər/",
       "meaning": "n. 毫米",
       "forms": [
-        "millimeter"
+        "millimeter n."
       ]
     },
     {
@@ -2244,7 +2244,7 @@
       "ipa": "/mɒm/ /mɑm/",
       "meaning": "n. 妈妈",
       "forms": [
-        "mommy"
+        "mommy n."
       ]
     },
     {
@@ -2260,7 +2260,7 @@
       "ipa": "/muːn/ /mun/",
       "meaning": "n. 月亮",
       "forms": [
-        "mooncake"
+        "mooncake n."
       ]
     },
     {
@@ -2297,7 +2297,7 @@
       "ipa": "/ˈməʊtəˌbaɪk/ /ˈmoʊtərˌbaɪk/",
       "meaning": "n. 摩托车",
       "forms": [
-        "motorcycle"
+        "motorcycle n."
       ]
     },
     {
@@ -2306,7 +2306,7 @@
       "ipa": "/maʊs/",
       "meaning": "n. 老鼠、鼠标",
       "forms": [
-        "mice"
+        "mice n."
       ]
     },
     {
@@ -2315,7 +2315,7 @@
       "ipa": "/mʌd/",
       "meaning": "n. 淤泥、泥浆",
       "forms": [
-        "muddy"
+        "muddy adj."
       ]
     },
     {
@@ -2345,8 +2345,8 @@
       "ipa": "/ˈnɛk/",
       "meaning": "n. 脖子",
       "forms": [
-        "necklace",
-        "necktie"
+        "necklace n.",
+        "necktie n."
       ]
     },
     {
@@ -2376,7 +2376,7 @@
       "ipa": "/njuːz/ /nuːz/",
       "meaning": "n. 新闻、消息",
       "forms": [
-        "newspaper"
+        "newspaper n."
       ]
     },
     {
@@ -2427,7 +2427,7 @@
       "ipa": "/ɔɪl/",
       "meaning": "n. 油、石油",
       "forms": [
-        "oilfield"
+        "oilfield n."
       ]
     },
     {
@@ -2443,7 +2443,7 @@
       "ipa": "/ˈɒpərə/ /ˈɑpərə/",
       "meaning": "n. 歌剧",
       "forms": [
-        "operahouse"
+        "operahouse n."
       ]
     },
     {
@@ -2480,7 +2480,7 @@
       "ipa": "/ɒks/ /ɑks/",
       "meaning": "n. 公牛",
       "forms": [
-        "oxen"
+        "oxen n."
       ]
     },
     {
@@ -2496,7 +2496,7 @@
       "ipa": "/ˈfɪzɪkl ˌɛdʒəˈkeɪʃn/",
       "meaning": "n. 体育",
       "forms": [
-        "physical education"
+        "physical education n."
       ]
     },
     {
@@ -2519,7 +2519,7 @@
       "ipa": "/pæn/",
       "meaning": "n. 平底锅",
       "forms": [
-        "pancake"
+        "pancake n."
       ]
     },
     {
@@ -2598,7 +2598,7 @@
       "ipa": "/ˈpɛni/",
       "meaning": "n. 便士、美分",
       "forms": [
-        "pence"
+        "pence n."
       ]
     },
     {
@@ -2621,7 +2621,7 @@
       "ipa": "/pəˈsɛnt/ /pərˈsɛnt/",
       "meaning": "n. 百分之……",
       "forms": [
-        "percentage"
+        "percentage n."
       ]
     },
     {
@@ -2644,7 +2644,7 @@
       "ipa": "/ˈpjænəʊ/ /piˈænoʊ/",
       "meaning": "n. 钢琴",
       "forms": [
-        "pianist"
+        "pianist n."
       ]
     },
     {
@@ -2751,7 +2751,7 @@
       "ipa": "/ˈpɔɪzən/",
       "meaning": "n. 毒药",
       "forms": [
-        "poisonous"
+        "poisonous adj."
       ]
     },
     {
@@ -2774,8 +2774,8 @@
       "ipa": "/ˈpɒlɪtɪks/ /ˈpɑlɪtɪks/",
       "meaning": "n. 政治",
       "forms": [
-        "political",
-        "politician"
+        "political adj.",
+        "politician n."
       ]
     },
     {
@@ -2854,7 +2854,7 @@
       "ipa": "/ˈprɪzn/",
       "meaning": "n. 监狱",
       "forms": [
-        "prisoner"
+        "prisoner n."
       ]
     },
     {
@@ -3066,8 +3066,8 @@
       "ipa": "/seɪl/",
       "meaning": "v. 航行、航海",
       "forms": [
-        "sailing",
-        "sailor"
+        "sailing v.",
+        "sailor n."
       ]
     },
     {
@@ -3090,7 +3090,7 @@
       "ipa": "/sɒlt/ /sɔlt/",
       "meaning": "n. 盐",
       "forms": [
-        "salty"
+        "salty adj."
       ]
     },
     {
@@ -3246,7 +3246,7 @@
       "ipa": "/ʃɛlf/",
       "meaning": "n. 架子",
       "forms": [
-        "shelves"
+        "shelves n."
       ]
     },
     {
@@ -3332,7 +3332,7 @@
       "ipa": "/sleɪv/",
       "meaning": "n. 奴隶",
       "forms": [
-        "slavery"
+        "slavery n."
       ]
     },
     {
@@ -3390,7 +3390,7 @@
       "ipa": "/ˈsəʊʃəlɪzəm/ /ˈsoʊʃəlɪzəm/",
       "meaning": "n. 社会主义",
       "forms": [
-        "socialist"
+        "socialist adj. n."
       ]
     },
     {
@@ -3455,7 +3455,7 @@
       "ipa": "/ˈsaʊθ/",
       "meaning": "n. 南方",
       "forms": [
-        "southern"
+        "southern adj."
       ]
     },
     {
@@ -3513,8 +3513,8 @@
       "ipa": "/stɛə/ /stɛər/",
       "meaning": "n. 楼梯",
       "forms": [
-        "downstairs",
-        "upstairs"
+        "downstairs adv.",
+        "upstairs adv."
       ]
     },
     {
@@ -3579,7 +3579,7 @@
       "ipa": "/ˈstjuːdiəʊ/ /ˈstudioʊ/",
       "meaning": "n. 工作室、演播室",
       "forms": [
-        "studios"
+        "studios n."
       ]
     },
     {
@@ -3679,7 +3679,7 @@
       "ipa": "/ˈtiːnˌeɪdʒə/ /ˈtinˌeɪdʒər/",
       "meaning": "n. 13至19岁的青少年",
       "forms": [
-        "teen"
+        "teen n."
       ]
     },
     {
@@ -3688,7 +3688,7 @@
       "ipa": "/ˈtɛlɪˌvɪʒən/",
       "meaning": "n. 电视",
       "forms": [
-        "TV"
+        "TV n."
       ]
     },
     {
@@ -3802,7 +3802,7 @@
       "ipa": "/tuːθ/ /tuθ/",
       "meaning": "n. 牙齿",
       "forms": [
-        "teeth"
+        "teeth n."
       ]
     },
     {
@@ -3958,7 +3958,7 @@
       "ipa": "/ˌvaɪəˈlɪn/",
       "meaning": "n. 小提琴",
       "forms": [
-        "violinist"
+        "violinist n."
       ]
     },
     {
@@ -4044,8 +4044,8 @@
       "ipa": "/wɛst/",
       "meaning": "n. 西方",
       "forms": [
-        "western",
-        "westerner"
+        "western adj.",
+        "westerner n."
       ]
     },
     {
@@ -4103,7 +4103,7 @@
       "ipa": "/wʊlf/",
       "meaning": "n. 狼",
       "forms": [
-        "wolves"
+        "wolves n."
       ]
     },
     {
@@ -4154,7 +4154,7 @@
       "ipa": "/zɪp/",
       "meaning": "n. 拉链",
       "forms": [
-        "zipper"
+        "zipper n."
       ]
     },
     {
@@ -4191,13 +4191,13 @@
       "ipa": "/ˈbiː/",
       "meaning": "v. 是",
       "forms": [
-        "am",
-        "is",
-        "are",
-        "was",
-        "were",
-        "being",
-        "been"
+        "am v.",
+        "is v.",
+        "are v.",
+        "was v.",
+        "were v.",
+        "being v.",
+        "been v."
       ]
     },
     {
@@ -4255,7 +4255,7 @@
       "ipa": "/ˈʃeɪv/",
       "meaning": "v. 剃须",
       "forms": [
-        "shaver"
+        "shaver n."
       ]
     },
     {
@@ -4264,8 +4264,8 @@
       "ipa": "/spɪt/",
       "meaning": "v. 吐痰",
       "forms": [
-        "spat",
-        "spitting"
+        "spat v.",
+        "spitting v."
       ]
     },
     {
@@ -4323,7 +4323,7 @@
       "ipa": "/fraɪ/",
       "meaning": "v. 煎、炸",
       "forms": [
-        "fried"
+        "fried v. adj."
       ]
     },
     {
@@ -4339,8 +4339,8 @@
       "ipa": "/spɛl/",
       "meaning": "v. 拼写、n. 咒语",
       "forms": [
-        "spelt",
-        "spelling"
+        "spelt v.",
+        "spelling n."
       ]
     },
     {
@@ -4398,7 +4398,7 @@
       "ipa": "/ˈsɪvəl/",
       "meaning": "n. 平民、adj. 民用的、国内的",
       "forms": [
-        "civilian"
+        "civilian n. adj."
       ]
     },
     {
@@ -4407,7 +4407,7 @@
       "ipa": "/ˈklæsɪk/",
       "meaning": "adj. 经典的",
       "forms": [
-        "classical"
+        "classical adj."
       ]
     },
     {
@@ -4479,7 +4479,7 @@
       "ipa": "/ˈɡriːn/ /ˈɡrin/",
       "meaning": "adj. 绿色的",
       "forms": [
-        "greenhouse"
+        "greenhouse n."
       ]
     },
     {
@@ -4544,7 +4544,7 @@
       "ipa": "/nɔːθ/ /norθ/",
       "meaning": "n. 北方",
       "forms": [
-        "northern"
+        "northern adj."
       ]
     },
     {
@@ -4777,7 +4777,7 @@
       "ipa": "/ˈaʊtwəd/ /ˈaʊtwərd/",
       "meaning": "adv. 向外的",
       "forms": [
-        "outwards"
+        "outwards adv."
       ]
     },
     {
@@ -4877,7 +4877,7 @@
       "ipa": "/ˈfaɪv/",
       "meaning": "num. 五",
       "forms": [
-        "fifth"
+        "fifth num."
       ]
     },
     {
@@ -4886,7 +4886,7 @@
       "ipa": "/sɪks/",
       "meaning": "num. 六",
       "forms": [
-        "sixth"
+        "sixth num."
       ]
     },
     {
@@ -4895,7 +4895,7 @@
       "ipa": "/ˈsɛvən/",
       "meaning": "num. 七",
       "forms": [
-        "seventh"
+        "seventh num."
       ]
     },
     {
@@ -4904,7 +4904,7 @@
       "ipa": "/eɪt/",
       "meaning": "num. 八",
       "forms": [
-        "eighth"
+        "eighth num."
       ]
     },
     {
@@ -4913,7 +4913,7 @@
       "ipa": "/naɪn/",
       "meaning": "num. 九",
       "forms": [
-        "ninth"
+        "ninth num."
       ]
     },
     {
@@ -4922,7 +4922,7 @@
       "ipa": "/tɛn/",
       "meaning": "num. 十",
       "forms": [
-        "tenth"
+        "tenth num."
       ]
     },
     {
@@ -4931,7 +4931,7 @@
       "ipa": "/ɪˈlɛvən/ /əˈlɛvən/",
       "meaning": "num. 十一",
       "forms": [
-        "eleventh"
+        "eleventh num."
       ]
     },
     {
@@ -4940,7 +4940,7 @@
       "ipa": "/twɛlv/",
       "meaning": "num. 十二",
       "forms": [
-        "twelfth"
+        "twelfth num."
       ]
     },
     {
@@ -4949,7 +4949,7 @@
       "ipa": "/ˌθɜːˈtiːn/ /ˌθɜːrtˈtin/",
       "meaning": "num. 十三",
       "forms": [
-        "thirteenth"
+        "thirteenth num."
       ]
     },
     {
@@ -4958,7 +4958,7 @@
       "ipa": "/ˈfɔːtiːn/ /ˈfɔrtin/",
       "meaning": "num. 十四",
       "forms": [
-        "fourteenth"
+        "fourteenth num."
       ]
     },
     {
@@ -4967,7 +4967,7 @@
       "ipa": "/ˈfɪftiːn/",
       "meaning": "num. 十五",
       "forms": [
-        "fifteenth"
+        "fifteenth num."
       ]
     },
     {
@@ -4976,7 +4976,7 @@
       "ipa": "/ˈsɪkstiːn/",
       "meaning": "num. 十六",
       "forms": [
-        "sixteenth"
+        "sixteenth num."
       ]
     },
     {
@@ -4985,7 +4985,7 @@
       "ipa": "/ˈsɛvəntiːn/",
       "meaning": "num. 十七",
       "forms": [
-        "seventeenth"
+        "seventeenth num."
       ]
     },
     {
@@ -4994,7 +4994,7 @@
       "ipa": "/ˈeɪtiːn/ /ˈeɪtin/",
       "meaning": "num. 十八",
       "forms": [
-        "eighteenth"
+        "eighteenth num."
       ]
     },
     {
@@ -5003,7 +5003,7 @@
       "ipa": "/ˈnaɪntiːn/ /ˈnaɪnˌtin/",
       "meaning": "num. 十九",
       "forms": [
-        "nineteenth"
+        "nineteenth num."
       ]
     },
     {
@@ -5012,7 +5012,7 @@
       "ipa": "/ˈtwɛnti/",
       "meaning": "num. 二十",
       "forms": [
-        "twentieth"
+        "twentieth num."
       ]
     },
     {
@@ -5021,7 +5021,7 @@
       "ipa": "/ˌtwɛntiˈwʌn/",
       "meaning": "num. 二十一",
       "forms": [
-        "twenty-first"
+        "twenty-first num."
       ]
     },
     {
@@ -5030,7 +5030,7 @@
       "ipa": "/ˈθɜːti/ /ˈθɜːrti/",
       "meaning": "num. 三十",
       "forms": [
-        "thirtieth"
+        "thirtieth num."
       ]
     },
     {
@@ -5039,7 +5039,7 @@
       "ipa": "/ˈfɔːti/ /ˈforti/",
       "meaning": "num. 四十",
       "forms": [
-        "fortieth"
+        "fortieth num."
       ]
     },
     {
@@ -5048,7 +5048,7 @@
       "ipa": "/ˈfɪfti/",
       "meaning": "num. 五十",
       "forms": [
-        "fiftieth"
+        "fiftieth num."
       ]
     },
     {
@@ -5057,7 +5057,7 @@
       "ipa": "/ˈsɪksti/",
       "meaning": "num. 六十",
       "forms": [
-        "sixtieth"
+        "sixtieth num."
       ]
     },
     {
@@ -5066,7 +5066,7 @@
       "ipa": "/ˈsɛvənti/ /ˈsɛvəndi/",
       "meaning": "num. 七十",
       "forms": [
-        "seventieth"
+        "seventieth num."
       ]
     },
     {
@@ -5075,7 +5075,7 @@
       "ipa": "/ˈeɪti/",
       "meaning": "num. 八十",
       "forms": [
-        "eightieth"
+        "eightieth num."
       ]
     },
     {
@@ -5084,7 +5084,7 @@
       "ipa": "/ˈnaɪnti/ /ˈnaɪndi/",
       "meaning": "num. 九十",
       "forms": [
-        "ninetieth"
+        "ninetieth num."
       ]
     },
     {
