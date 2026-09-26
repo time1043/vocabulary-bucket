@@ -3,7 +3,7 @@
   "words": [
     {
       "position": 1,
-      "word": "a.m. / A.M.",
+      "word": "a.m.",
       "ipa": "/ˌeɪ ˈem/",
       "meaning": "n. 午前、上午",
       "forms": []
@@ -4796,10 +4796,12 @@
     },
     {
       "position": 662,
-      "word": "a / an",
+      "word": "a",
       "ipa": "/eɪ/",
       "meaning": "art. 一个、pron. 某个",
-      "forms": []
+      "forms": [
+        "an art."
+      ]
     },
     {
       "position": 663,

@@ -2236,10 +2236,11 @@
     },
     {
       "position": 204,
-      "word": "bear / bore",
+      "word": "bear",
       "ipa": "/bɛə/ /bɛər/",
       "meaning": "v. 携带、承受、令人厌烦",
       "forms": [
+        "bore v.",
         "bearing v. n.",
         "unbearable adj.",
         "boring v. adj.",
@@ -3850,10 +3851,11 @@
     },
     {
       "position": 353,
-      "word": "lie / lay",
+      "word": "lie",
       "ipa": "/laɪ/",
       "meaning": "v. 位于、躺、说谎、放置",
       "forms": [
+        "lay v.",
         "laid v.",
         "laying v.",
         "lied v.",
