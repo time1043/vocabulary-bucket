@@ -6,7 +6,7 @@
   "overrides": [
     {
       "files": ["data/**/*.json"],
-      "options": { "objectWrap": "collapse", "printWidth": 200 }
+      "options": { "printWidth": 20 }
     }
   ],
 
