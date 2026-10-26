@@ -6531,7 +6531,20 @@
       "word": "optimistic",
       "ipa": "/ˌɒptɪˈmɪstɪk/ /ˌɑptɪˈmɪstɪk/",
       "meaning": "adj. 乐观的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "positive",
+          "meaning": "adj. 积极的"
+        },
+        {
+          "word": "negative",
+          "meaning": "adj. 消极的"
+        },
+        {
+          "word": "pessimistic",
+          "meaning": "adj. 悲观的"
+        }
+      ],
       "forms": [
         "optimistically adv."
       ]
@@ -6582,7 +6595,20 @@
       "word": "positive",
       "ipa": "/ˈpɑzɪtɪv/",
       "meaning": "adj. 积极的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "optimistic",
+          "meaning": "adj. 乐观的"
+        },
+        {
+          "word": "negative",
+          "meaning": "adj. 消极的"
+        },
+        {
+          "word": "pessimistic",
+          "meaning": "adj. 悲观的"
+        }
+      ],
       "forms": []
     },
     {
@@ -15862,7 +15888,20 @@
       "word": "negative",
       "ipa": "/ˈnɛɡətɪv/",
       "meaning": "adj. 消极的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "optimistic",
+          "meaning": "adj. 乐观的"
+        },
+        {
+          "word": "positive",
+          "meaning": "adj. 积极的"
+        },
+        {
+          "word": "pessimistic",
+          "meaning": "adj. 悲观的"
+        }
+      ],
       "forms": []
     },
     {
@@ -20423,7 +20462,20 @@
       "word": "pessimistic",
       "ipa": "/ˌpɛsəˈmɪstɪk/",
       "meaning": "adj. 悲观的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "optimistic",
+          "meaning": "adj. 乐观的"
+        },
+        {
+          "word": "positive",
+          "meaning": "adj. 积极的"
+        },
+        {
+          "word": "negative",
+          "meaning": "adj. 消极的"
+        }
+      ],
       "forms": []
     },
     {
