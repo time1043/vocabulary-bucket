@@ -6,7 +6,20 @@
       "word": "abolish",
       "ipa": "/əˈbɒlɪʃ/ /əˈbɑlɪʃ/",
       "meaning": "v. 废除、废止",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "boycott",
+          "meaning": "v. 抵制"
+        },
+        {
+          "word": "suspend",
+          "meaning": "v. 暂停、悬浮"
+        },
+        {
+          "word": "protest",
+          "meaning": "v. 抗议、反对"
+        }
+      ],
       "forms": []
     },
     {
@@ -14,7 +27,16 @@
       "word": "abortion",
       "ipa": "/əˈbɔrʃn/",
       "meaning": "n. 流产、放弃、中止",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "suspend",
+          "meaning": "v. 暂停、悬浮"
+        },
+        {
+          "word": "murder",
+          "meaning": "v. 谋杀"
+        }
+      ],
       "forms": [
         "abort v."
       ]
@@ -24,7 +46,20 @@
       "word": "accelerate",
       "ipa": "/əkˈsɛləˌreɪt/ /ɪkˈsɛləˌreɪt/",
       "meaning": "v. 加速",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "zoom",
+          "meaning": "v. 快速移动、放缩、猛涨"
+        },
+        {
+          "word": "stimulate",
+          "meaning": "v. 促进、刺激"
+        },
+        {
+          "word": "facilitate",
+          "meaning": "v. 促进、促使"
+        }
+      ],
       "forms": [
         "acceleration n."
       ]
@@ -34,7 +69,20 @@
       "word": "anticipate",
       "ipa": "/ænˈtɪsɪpeɪt/",
       "meaning": "v. 预期、期待",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "preview",
+          "meaning": "v. 预览、预告"
+        },
+        {
+          "word": "perceive",
+          "meaning": "v. 感知、认为、注意到"
+        },
+        {
+          "word": "abrupt",
+          "meaning": "adj. 突然的、意外的"
+        }
+      ],
       "forms": [
         "anticipation n."
       ]
@@ -71,7 +119,16 @@
       "word": "boil",
       "ipa": "/bɔɪl/",
       "meaning": "v. 沸腾、煮",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "swallow",
+          "meaning": "v. 吞咽"
+        },
+        {
+          "word": "digest",
+          "meaning": "v. 消化、吸收"
+        }
+      ],
       "forms": []
     },
     {
@@ -79,7 +136,16 @@
       "word": "boycott",
       "ipa": "/ˈbɔɪkɒt/ /ˈbɔɪkɑt/",
       "meaning": "v. 抵制",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "protest",
+          "meaning": "v. 抗议、反对"
+        },
+        {
+          "word": "abolish",
+          "meaning": "v. 废除、废止"
+        }
+      ],
       "forms": []
     },
     {
@@ -87,7 +153,16 @@
       "word": "cater",
       "ipa": "/ˈkeɪtə/ /ˈkeɪɾər/",
       "meaning": "v. 提供饮食、承办酒席",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        },
+        {
+          "word": "feast",
+          "meaning": "n. 盛宴"
+        }
+      ],
       "forms": []
     },
     {
@@ -105,7 +180,20 @@
       "word": "classify",
       "ipa": "/ˈklæsɪfaɪ/ /ˈklæsəˌfaɪ/",
       "meaning": "v. 分类",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "criterion",
+          "meaning": "n. 标准、准则"
+        },
+        {
+          "word": "scale",
+          "meaning": "n. 大小、规模、刻度"
+        },
+        {
+          "word": "section",
+          "meaning": "n. 一段、部分"
+        }
+      ],
       "forms": []
     },
     {
@@ -123,7 +211,16 @@
       "word": "consume",
       "ipa": "/kənˈsjuːm/ /kənˈsum/",
       "meaning": "v. 消耗、花费、消费",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "surplus",
+          "meaning": "n. 过剩、剩余"
+        },
+        {
+          "word": "wage",
+          "meaning": "n. 工资"
+        }
+      ],
       "forms": [
         "consumption n.",
         "consumer n."
@@ -134,7 +231,16 @@
       "word": "correspond",
       "ipa": "/ˌkɒrɪˈspɒnd/ /ˌkorəˈspɑnd/",
       "meaning": "v. 与⋯⋯一致对应、通信",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "telegraph",
+          "meaning": "n. 电报"
+        },
+        {
+          "word": "dial",
+          "meaning": "v. 拨打电话"
+        }
+      ],
       "forms": [
         "corresponding adj."
       ]
@@ -144,7 +250,16 @@
       "word": "dial",
       "ipa": "/ˈdaɪəl/",
       "meaning": "v. 拨打电话",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "telegraph",
+          "meaning": "n. 电报"
+        },
+        {
+          "word": "modem",
+          "meaning": "n. 调制解调器"
+        }
+      ],
       "forms": []
     },
     {
@@ -152,7 +267,16 @@
       "word": "digest",
       "ipa": "/daɪˈdʒɛst/",
       "meaning": "v. 消化、吸收",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "swallow",
+          "meaning": "v. 吞咽"
+        },
+        {
+          "word": "appetite",
+          "meaning": "n. 食欲、胃口"
+        }
+      ],
       "forms": [
         "digestion n."
       ]
@@ -162,7 +286,16 @@
       "word": "entitle",
       "ipa": "/ənˈtaɪtəl/",
       "meaning": "v. 赋予权利、给……命名",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "authority",
+          "meaning": "n. 权力、权威、官方"
+        },
+        {
+          "word": "liberty",
+          "meaning": "n. 自由"
+        }
+      ],
       "forms": []
     },
     {
@@ -170,7 +303,20 @@
       "word": "exclaim",
       "ipa": "/ɛkˈskleɪm/",
       "meaning": "v. 惊呼、叫喊",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "howl",
+          "meaning": "v. 呼啸、嚎叫"
+        },
+        {
+          "word": "sob",
+          "meaning": "v. 啜泣"
+        },
+        {
+          "word": "quake",
+          "meaning": "v. 震动、颤抖"
+        }
+      ],
       "forms": [
         "exclamation n."
       ]
@@ -190,7 +336,16 @@
       "word": "export",
       "ipa": "/ˈɛkspɔːt/ /ˈɛkspɔrt/",
       "meaning": "v. 出口、输出",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "import",
+          "meaning": "v. 进口、输入"
+        },
+        {
+          "word": "domestic",
+          "meaning": "adj. 国内的、本土的"
+        }
+      ],
       "forms": []
     },
     {
@@ -198,7 +353,16 @@
       "word": "facilitate",
       "ipa": "/fəˈsɪlɪteɪt/",
       "meaning": "v. 促进、促使",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "stimulate",
+          "meaning": "v. 促进、刺激"
+        },
+        {
+          "word": "accelerate",
+          "meaning": "v. 加速"
+        }
+      ],
       "forms": [
         "facilitation n."
       ]
@@ -218,7 +382,20 @@
       "word": "howl",
       "ipa": "/ˈhaʊl/",
       "meaning": "v. 呼啸、嚎叫",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "exclaim",
+          "meaning": "v. 惊呼、叫喊"
+        },
+        {
+          "word": "sob",
+          "meaning": "v. 啜泣"
+        },
+        {
+          "word": "gale",
+          "meaning": "n. 强风"
+        }
+      ],
       "forms": [
         "howling v."
       ]
@@ -228,7 +405,16 @@
       "word": "import",
       "ipa": "/ˈɪmpɔːt/ /ˈɪmpɔrt/",
       "meaning": "v. 进口、输入",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "export",
+          "meaning": "v. 出口、输出"
+        },
+        {
+          "word": "domestic",
+          "meaning": "adj. 国内的、本土的"
+        }
+      ],
       "forms": []
     },
     {
@@ -236,7 +422,16 @@
       "word": "irrigate",
       "ipa": "/ˈɪrəˌɡeɪt/",
       "meaning": "v. 灌溉",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "agriculture",
+          "meaning": "n. 农业"
+        },
+        {
+          "word": "grain",
+          "meaning": "n. 谷物"
+        }
+      ],
       "forms": [
         "irrigation n."
       ]
@@ -246,7 +441,16 @@
       "word": "murder",
       "ipa": "/ˈmɜːdə/ /ˈmɜːrdər/",
       "meaning": "v. 谋杀",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "victim",
+          "meaning": "n. 受害者、牺牲品"
+        },
+        {
+          "word": "burglar",
+          "meaning": "n. 窃贼"
+        }
+      ],
       "forms": []
     },
     {
@@ -254,7 +458,16 @@
       "word": "offend",
       "ipa": "/əˈfɛnd/",
       "meaning": "v. 冒犯",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "disgusting",
+          "meaning": "adj. 令人厌恶的"
+        },
+        {
+          "word": "vice",
+          "meaning": "n. 邪恶、罪行"
+        }
+      ],
       "forms": [
         "offence n.",
         "offender n."
@@ -265,7 +478,16 @@
       "word": "perceive",
       "ipa": "/pəˈsiːv/ /pərˈsiv/",
       "meaning": "v. 感知、认为、注意到",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "visual",
+          "meaning": "adj. 视力的、视觉的"
+        },
+        {
+          "word": "conscious",
+          "meaning": "adj. 有意识的"
+        }
+      ],
       "forms": [
         "perception n."
       ]
@@ -275,7 +497,12 @@
       "word": "polish",
       "ipa": "/ˈpɒlɪʃ/ /ˈpɑlɪʃ/",
       "meaning": "v. 抛光、打磨",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "stain",
+          "meaning": "n. 污点、污渍"
+        }
+      ],
       "forms": []
     },
     {
@@ -283,7 +510,16 @@
       "word": "preview",
       "ipa": "/ˈpriːvjuː/",
       "meaning": "v. 预览、预告",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "anticipate",
+          "meaning": "v. 预期、期待"
+        },
+        {
+          "word": "episode",
+          "meaning": "n. 电视剧的一集"
+        }
+      ],
       "forms": []
     },
     {
@@ -291,7 +527,16 @@
       "word": "protest",
       "ipa": "/ˈprəʊtɛst/ /ˈproʊtɛst/",
       "meaning": "v. 抗议、反对",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "boycott",
+          "meaning": "v. 抵制"
+        },
+        {
+          "word": "abolish",
+          "meaning": "v. 废除、废止"
+        }
+      ],
       "forms": [
         "protestor n."
       ]
@@ -301,7 +546,20 @@
       "word": "quake",
       "ipa": "/kweɪk/",
       "meaning": "v. 震动、颤抖",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "hurricane",
+          "meaning": "n. 飓风"
+        },
+        {
+          "word": "volcano",
+          "meaning": "n. 火山"
+        },
+        {
+          "word": "vibration",
+          "meaning": "n. 振动、摇摆"
+        }
+      ],
       "forms": []
     },
     {
@@ -309,7 +567,20 @@
       "word": "resemble",
       "ipa": "/rɪˈzɛmbəl/",
       "meaning": "v. 看起来像",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "identical",
+          "meaning": "adj. 完全相同的"
+        },
+        {
+          "word": "authentic",
+          "meaning": "adj. 真正的、真品的"
+        },
+        {
+          "word": "genuine",
+          "meaning": "adj. 真正的"
+        }
+      ],
       "forms": []
     },
     {
@@ -317,7 +588,20 @@
       "word": "revolve",
       "ipa": "/rɪˈvɒlv/ /rɪˈvɑlv/",
       "meaning": "v. 旋转、环绕",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "orbit",
+          "meaning": "n. 天体的运行轨道"
+        },
+        {
+          "word": "static",
+          "meaning": "adj. 静态的"
+        },
+        {
+          "word": "twist",
+          "meaning": "v. 扭曲、转动"
+        }
+      ],
       "forms": []
     },
     {
@@ -325,7 +609,12 @@
       "word": "rewind",
       "ipa": "/riːˈwaɪnd/",
       "meaning": "v. 倒带",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "cassette",
+          "meaning": "n. 磁带"
+        }
+      ],
       "forms": []
     },
     {
@@ -333,7 +622,16 @@
       "word": "salute",
       "ipa": "/səˈluːt/ /səˈlut/",
       "meaning": "v. 敬礼",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "military",
+          "meaning": "adj. 军队的"
+        },
+        {
+          "word": "navy",
+          "meaning": "n. 海军"
+        }
+      ],
       "forms": []
     },
     {
@@ -341,7 +639,16 @@
       "word": "scratch",
       "ipa": "/skrætʃ/",
       "meaning": "n. 划痕、v. 划伤",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "claw",
+          "meaning": "n. 爪子"
+        },
+        {
+          "word": "stain",
+          "meaning": "n. 污点、污渍"
+        }
+      ],
       "forms": []
     },
     {
@@ -349,7 +656,20 @@
       "word": "shrink",
       "ipa": "/ˈʃrɪŋk/",
       "meaning": "v. 缩小、缩减",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "minimum",
+          "meaning": "adj. 最小程度的"
+        },
+        {
+          "word": "vast",
+          "meaning": "adj. 巨大的、广阔的"
+        },
+        {
+          "word": "maximum",
+          "meaning": "adj. 最大程度的"
+        }
+      ],
       "forms": [
         "shrank v.",
         "shrunk v.",
@@ -361,7 +681,12 @@
       "word": "snatch",
       "ipa": "/snætʃ/",
       "meaning": "v. 抢夺、夺走",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "burglar",
+          "meaning": "n. 窃贼"
+        }
+      ],
       "forms": []
     },
     {
@@ -369,7 +694,16 @@
       "word": "sob",
       "ipa": "/sɒb/ /sɑb/",
       "meaning": "v. 啜泣",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "exclaim",
+          "meaning": "v. 惊呼、叫喊"
+        },
+        {
+          "word": "howl",
+          "meaning": "v. 呼啸、嚎叫"
+        }
+      ],
       "forms": [
         "sobbed v.",
         "sobbing v."
@@ -380,7 +714,16 @@
       "word": "stimulate",
       "ipa": "/ˈstɪmjʊleɪt/ /ˈstɪmjəˌleɪt/",
       "meaning": "v. 促进、刺激",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "facilitate",
+          "meaning": "v. 促进、促使"
+        },
+        {
+          "word": "accelerate",
+          "meaning": "v. 加速"
+        }
+      ],
       "forms": [
         "stimulation n."
       ]
@@ -390,7 +733,16 @@
       "word": "subscribe",
       "ipa": "/səbˈskraɪb/",
       "meaning": "v. 订阅、订购",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "bestseller",
+          "meaning": "n. 畅销书"
+        },
+        {
+          "word": "brochure",
+          "meaning": "n. 广告手册"
+        }
+      ],
       "forms": [
         "subscription n."
       ]
@@ -400,7 +752,16 @@
       "word": "substitute",
       "ipa": "/ˈsʌbstɪtʃuːt/",
       "meaning": "v. 代替、取代",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "swap",
+          "meaning": "v. 交换"
+        },
+        {
+          "word": "version",
+          "meaning": "n. 版本"
+        }
+      ],
       "forms": [
         "substitution n."
       ]
@@ -410,7 +771,16 @@
       "word": "swallow",
       "ipa": "/ˈswɒləʊ/ /ˈswɑloʊ/",
       "meaning": "v. 吞咽",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "digest",
+          "meaning": "v. 消化、吸收"
+        },
+        {
+          "word": "appetite",
+          "meaning": "n. 食欲、胃口"
+        }
+      ],
       "forms": []
     },
     {
@@ -418,7 +788,12 @@
       "word": "swap",
       "ipa": "/ˈswɒp/ /ˈswɑp/",
       "meaning": "v. 交换",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "substitute",
+          "meaning": "v. 代替、取代"
+        }
+      ],
       "forms": [
         "swapped v.",
         "swapping v."
@@ -429,7 +804,20 @@
       "word": "telegraph",
       "ipa": "/ˈtɛlɪɡrɑːf/ /ˈtɛlɪɡræf/",
       "meaning": "n. 电报",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "dial",
+          "meaning": "v. 拨打电话"
+        },
+        {
+          "word": "modem",
+          "meaning": "n. 调制解调器"
+        },
+        {
+          "word": "correspond",
+          "meaning": "v. 与⋯⋯一致对应、通信"
+        }
+      ],
       "forms": [
         "telegram n."
       ]
@@ -439,7 +827,20 @@
       "word": "twist",
       "ipa": "/twɪst/",
       "meaning": "v. 扭曲、转动",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "revolve",
+          "meaning": "v. 旋转、环绕"
+        },
+        {
+          "word": "bind",
+          "meaning": "v. 捆绑、绑定"
+        },
+        {
+          "word": "wag",
+          "meaning": "v. 摇动、摇摆"
+        }
+      ],
       "forms": []
     },
     {
@@ -447,7 +848,20 @@
       "word": "wag",
       "ipa": "/wæɡ/",
       "meaning": "v. 摇动、摇摆",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "twist",
+          "meaning": "v. 扭曲、转动"
+        },
+        {
+          "word": "revolve",
+          "meaning": "v. 旋转、环绕"
+        },
+        {
+          "word": "vibration",
+          "meaning": "n. 振动、摇摆"
+        }
+      ],
       "forms": []
     },
     {
@@ -455,7 +869,16 @@
       "word": "wrestle",
       "ipa": "/ˈrɛsl/",
       "meaning": "v. 摔跤",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "stout",
+          "meaning": "adj. 粗壮的、厚实的"
+        },
+        {
+          "word": "savage",
+          "meaning": "n. 野蛮人"
+        }
+      ],
       "forms": []
     },
     {
@@ -463,7 +886,20 @@
       "word": "zoom",
       "ipa": "/zuːm/",
       "meaning": "v. 快速移动、放缩、猛涨",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "accelerate",
+          "meaning": "v. 加速"
+        },
+        {
+          "word": "swift",
+          "meaning": "adj. 迅速的、敏捷的"
+        },
+        {
+          "word": "abrupt",
+          "meaning": "adj. 突然的、意外的"
+        }
+      ],
       "forms": []
     },
     {
@@ -471,7 +907,16 @@
       "word": "abrupt",
       "ipa": "/əˈbrʌpt/",
       "meaning": "adj. 突然的、意外的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "swift",
+          "meaning": "adj. 迅速的、敏捷的"
+        },
+        {
+          "word": "anticipate",
+          "meaning": "v. 预期、期待"
+        }
+      ],
       "forms": [
         "abruptly adv."
       ]
@@ -481,7 +926,20 @@
       "word": "absolute",
       "ipa": "/ˈæbsəluːt/ /ˈæbsəˌlut/",
       "meaning": "adj. 绝对的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "supreme",
+          "meaning": "adj. 至高无上的"
+        },
+        {
+          "word": "maximum",
+          "meaning": "adj. 最大程度的"
+        },
+        {
+          "word": "arbitrary",
+          "meaning": "adj. 专横的、专制的"
+        }
+      ],
       "forms": [
         "absolutely adv."
       ]
@@ -491,7 +949,16 @@
       "word": "absurd",
       "ipa": "/əbˈsɜːd/ /əbˈsərd/",
       "meaning": "adj. 荒谬的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "logical",
+          "meaning": "adj. 符合逻辑的"
+        },
+        {
+          "word": "ambiguous",
+          "meaning": "adj. 模棱两可的"
+        }
+      ],
       "forms": []
     },
     {
@@ -499,7 +966,16 @@
       "word": "acute",
       "ipa": "/əˈkjuːt/ /əˈkjut/",
       "meaning": "adj. 严重的、急性病的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "prescription",
+          "meaning": "n. 处方、药方"
+        },
+        {
+          "word": "pregnant",
+          "meaning": "adj. 怀孕的"
+        }
+      ],
       "forms": []
     },
     {
@@ -507,7 +983,16 @@
       "word": "ambiguous",
       "ipa": "/æmˈbɪɡjuəs/",
       "meaning": "adj. 模棱两可的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "explicit",
+          "meaning": "adj. 直白的、明确的"
+        },
+        {
+          "word": "absurd",
+          "meaning": "adj. 荒谬的"
+        }
+      ],
       "forms": []
     },
     {
@@ -515,7 +1000,20 @@
       "word": "ample",
       "ipa": "/ˈæmpəl/",
       "meaning": "adj. 充足的、丰裕的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "sufficient",
+          "meaning": "adj. 足够的、充分的"
+        },
+        {
+          "word": "surplus",
+          "meaning": "n. 过剩、剩余"
+        },
+        {
+          "word": "maximum",
+          "meaning": "adj. 最大程度的"
+        }
+      ],
       "forms": []
     },
     {
@@ -523,7 +1021,20 @@
       "word": "ancient",
       "ipa": "/ˈeɪnʃənt/",
       "meaning": "adj. 古代的、古老的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "contemporary",
+          "meaning": "adj. 当代的、同一时期的"
+        },
+        {
+          "word": "primitive",
+          "meaning": "adj. 原始的、"
+        },
+        {
+          "word": "evolution",
+          "meaning": "n. 进化、演变"
+        }
+      ],
       "forms": []
     },
     {
@@ -531,7 +1042,16 @@
       "word": "annual",
       "ipa": "/ˈænjuəl/",
       "meaning": "adj. 每年的、一年一度的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "anniversary",
+          "meaning": "n. 周年纪念日"
+        },
+        {
+          "word": "fortnight",
+          "meaning": "n. 两周、十四天"
+        }
+      ],
       "forms": [
         "annually adv."
       ]
@@ -541,7 +1061,20 @@
       "word": "arbitrary",
       "ipa": "/ˈɑːbɪtrəri/ /ˈɑrbɪˌtrɛri/",
       "meaning": "adj. 专横的、专制的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "corrupt",
+          "meaning": "adj. 贪污的、腐败的"
+        },
+        {
+          "word": "absolute",
+          "meaning": "adj. 绝对的"
+        },
+        {
+          "word": "rigid",
+          "meaning": "adj. 僵硬的、死板的、固执的"
+        }
+      ],
       "forms": []
     },
     {
@@ -549,7 +1082,20 @@
       "word": "authentic",
       "ipa": "/ɒˈθɛntɪk/ /ɔˈθɛntɪk/",
       "meaning": "adj. 真正的、真品的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "genuine",
+          "meaning": "adj. 真正的"
+        },
+        {
+          "word": "identical",
+          "meaning": "adj. 完全相同的"
+        },
+        {
+          "word": "identity",
+          "meaning": "n. 身份、特征"
+        }
+      ],
       "forms": []
     },
     {
@@ -557,7 +1103,12 @@
       "word": "bureaucratic",
       "ipa": "/ˌbjʊərəˈkrætɪk/ /ˌbjʊrəˈkrætɪk/",
       "meaning": "adj. 官僚的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "administration",
+          "meaning": "n. 管理、行政部门"
+        }
+      ],
       "forms": []
     },
     {
@@ -565,7 +1116,16 @@
       "word": "catholic",
       "ipa": "/ˈkæθlɪk/",
       "meaning": "adj. 天主教的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "buddhism",
+          "meaning": "n. 佛教"
+        },
+        {
+          "word": "religion",
+          "meaning": "n. 宗教"
+        }
+      ],
       "forms": []
     },
     {
@@ -573,7 +1133,20 @@
       "word": "centigrade",
       "ipa": "/ˈsɛntɪˌɡreɪd/ /ˈsɛntɪˌɡreɪd/",
       "meaning": "n. 摄氏度",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "centimetre",
+          "meaning": "n. 厘米"
+        },
+        {
+          "word": "gallon",
+          "meaning": "n. 加仑"
+        },
+        {
+          "word": "pint",
+          "meaning": "n. 品脱"
+        }
+      ],
       "forms": []
     },
     {
@@ -589,7 +1162,12 @@
       "word": "confidential",
       "ipa": "/ˌkɒnfɪˈdɛnʃəl/ /ˌkɔnfɪˈdɛnʃəl/",
       "meaning": "adj. 机密的、保密的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "exclusive",
+          "meaning": "adj. 独占的、排外的"
+        }
+      ],
       "forms": []
     },
     {
@@ -597,7 +1175,12 @@
       "word": "conscious",
       "ipa": "/ˈkɒnʃəs/ /ˈkɑnʃəs/",
       "meaning": "adj. 有意识的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "numb",
+          "meaning": "adj. 麻木的、迟钝的"
+        }
+      ],
       "forms": [
         "unconscious adj."
       ]
@@ -607,7 +1190,20 @@
       "word": "contemporary",
       "ipa": "/kənˈtɛmprəri/ /kənˈtɛmpəˌrɛri/",
       "meaning": "adj. 当代的、同一时期的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "ancient",
+          "meaning": "adj. 古代的、古老的"
+        },
+        {
+          "word": "former",
+          "meaning": "adj. 以前的、前者"
+        },
+        {
+          "word": "subsequent",
+          "meaning": "adj. 随后的、后续的"
+        }
+      ],
       "forms": []
     },
     {
@@ -615,7 +1211,12 @@
       "word": "contrary",
       "ipa": "/ˈkɒntrəri/ /ˈkɑntrɛri/",
       "meaning": "adj. 相反的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "identical",
+          "meaning": "adj. 完全相同的"
+        }
+      ],
       "forms": []
     },
     {
@@ -623,7 +1224,16 @@
       "word": "conventional",
       "ipa": "/kənˈvɛnʃənl/",
       "meaning": "adj. 常规的、传统的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "contemporary",
+          "meaning": "adj. 当代的、同一时期的"
+        },
+        {
+          "word": "ancient",
+          "meaning": "adj. 古代的、古老的"
+        }
+      ],
       "forms": []
     },
     {
@@ -639,7 +1249,16 @@
       "word": "corrupt",
       "ipa": "/kəˈrʌpt/",
       "meaning": "adj. 贪污的、腐败的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vice",
+          "meaning": "n. 邪恶、罪行"
+        },
+        {
+          "word": "conscience",
+          "meaning": "n. 良心、良知"
+        }
+      ],
       "forms": [
         "corruption n."
       ]
@@ -657,7 +1276,16 @@
       "word": "disgusting",
       "ipa": "/dɪsˈɡʌstɪŋ/",
       "meaning": "adj. 令人厌恶的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "offend",
+          "meaning": "v. 冒犯"
+        },
+        {
+          "word": "vice",
+          "meaning": "n. 邪恶、罪行"
+        }
+      ],
       "forms": [
         "disgust n. v."
       ]
@@ -667,7 +1295,20 @@
       "word": "domestic",
       "ipa": "/dəˈmɛstɪk/",
       "meaning": "adj. 国内的、本土的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "export",
+          "meaning": "v. 出口、输出"
+        },
+        {
+          "word": "import",
+          "meaning": "v. 进口、输入"
+        },
+        {
+          "word": "federal",
+          "meaning": "adj. 联邦的"
+        }
+      ],
       "forms": [
         "domestically adv."
       ]
@@ -677,7 +1318,20 @@
       "word": "elementary",
       "ipa": "/ˌɛlɪˈmɛntəri/ /ˌɛləˈmɛntəri/",
       "meaning": "adj. 初级的、基础的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "primary",
+          "meaning": "adj. 初级的"
+        },
+        {
+          "word": "fundamental",
+          "meaning": "adj. 基本的、基础的"
+        },
+        {
+          "word": "arithmetic",
+          "meaning": "n. 算术"
+        }
+      ],
       "forms": []
     },
     {
@@ -685,7 +1339,20 @@
       "word": "enormous",
       "ipa": "/ɪˈnɔːməs/ /ɪˈnorməs/",
       "meaning": "adj. 巨大的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vast",
+          "meaning": "adj. 巨大的、广阔的"
+        },
+        {
+          "word": "maximum",
+          "meaning": "adj. 最大程度的"
+        },
+        {
+          "word": "minimum",
+          "meaning": "adj. 最小程度的"
+        }
+      ],
       "forms": []
     },
     {
@@ -693,7 +1360,16 @@
       "word": "exclusive",
       "ipa": "/ɪkˈsklusɪv/",
       "meaning": "adj. 独占的、排外的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "luxury",
+          "meaning": "n. 奢侈、奢华"
+        },
+        {
+          "word": "confidential",
+          "meaning": "adj. 机密的、保密的"
+        }
+      ],
       "forms": [
         "exclude v.",
         "exclusion n."
@@ -704,7 +1380,16 @@
       "word": "explicit",
       "ipa": "/ɪkˈsplɪsɪt/",
       "meaning": "adj. 直白的、明确的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "ambiguous",
+          "meaning": "adj. 模棱两可的"
+        },
+        {
+          "word": "confidential",
+          "meaning": "adj. 机密的、保密的"
+        }
+      ],
       "forms": []
     },
     {
@@ -712,7 +1397,16 @@
       "word": "federal",
       "ipa": "/ˈfɛdərəl/",
       "meaning": "adj. 联邦的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "administration",
+          "meaning": "n. 管理、行政部门"
+        },
+        {
+          "word": "constitution",
+          "meaning": "n. 宪法"
+        }
+      ],
       "forms": []
     },
     {
@@ -720,7 +1414,20 @@
       "word": "former",
       "ipa": "/ˈfɔːmə/ /ˈfɔrmər/",
       "meaning": "adj. 以前的、前者",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "latter",
+          "meaning": "n. 后者"
+        },
+        {
+          "word": "contemporary",
+          "meaning": "adj. 当代的、同一时期的"
+        },
+        {
+          "word": "subsequent",
+          "meaning": "adj. 随后的、后续的"
+        }
+      ],
       "forms": []
     },
     {
@@ -728,7 +1435,20 @@
       "word": "fragrant",
       "ipa": "/ˈfreɪɡrənt/",
       "meaning": "adj. 芳香的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "perfume",
+          "meaning": "n. 香水"
+        },
+        {
+          "word": "vanilla",
+          "meaning": "n. 香草"
+        },
+        {
+          "word": "mustard",
+          "meaning": "n. 芥末"
+        }
+      ],
       "forms": [
         "fragrance n."
       ]
@@ -738,7 +1458,20 @@
       "word": "fundamental",
       "ipa": "/ˌfʌndəˈmɛntəl/",
       "meaning": "adj. 基本的、基础的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "elementary",
+          "meaning": "adj. 初级的、基础的"
+        },
+        {
+          "word": "primary",
+          "meaning": "adj. 初级的"
+        },
+        {
+          "word": "component",
+          "meaning": "n. 组成部分、部件"
+        }
+      ],
       "forms": []
     },
     {
@@ -746,7 +1479,16 @@
       "word": "furnished",
       "ipa": "/ˈfɜːnɪʃt/ /ˈfɜːrnɪʃt/",
       "meaning": "adj. 配备家具的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "cottage",
+          "meaning": "n. 小屋、村舍"
+        },
+        {
+          "word": "bungalow",
+          "meaning": "n. 平房"
+        }
+      ],
       "forms": []
     },
     {
@@ -762,7 +1504,20 @@
       "word": "genuine",
       "ipa": "/ˈdʒɛnjuːɪn/ /ˈdʒɛnjuˌɪn/",
       "meaning": "adj. 真正的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "authentic",
+          "meaning": "adj. 真正的、真品的"
+        },
+        {
+          "word": "identical",
+          "meaning": "adj. 完全相同的"
+        },
+        {
+          "word": "identity",
+          "meaning": "n. 身份、特征"
+        }
+      ],
       "forms": []
     },
     {
@@ -770,7 +1525,16 @@
       "word": "hence",
       "ipa": "/ˈhɛns/",
       "meaning": "adv. 因此",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "nevertheless",
+          "meaning": "adv. 然而"
+        },
+        {
+          "word": "outcome",
+          "meaning": "n. 结果、效果"
+        }
+      ],
       "forms": []
     },
     {
@@ -778,7 +1542,20 @@
       "word": "horizontal",
       "ipa": "/ˌhɒrɪˈzɒntəl/ /ˌhorəˈzɑntəl/",
       "meaning": "adj. 水平的、横向的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vertical",
+          "meaning": "adj. 垂直的、纵向的"
+        },
+        {
+          "word": "parallel",
+          "meaning": "adj. 平行的"
+        },
+        {
+          "word": "angle",
+          "meaning": "n. 角度"
+        }
+      ],
       "forms": []
     },
     {
@@ -794,7 +1571,20 @@
       "word": "identical",
       "ipa": "/ɪˈdɛntɪkl/",
       "meaning": "adj. 完全相同的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "resemble",
+          "meaning": "v. 看起来像"
+        },
+        {
+          "word": "genuine",
+          "meaning": "adj. 真正的"
+        },
+        {
+          "word": "contrary",
+          "meaning": "adj. 相反的"
+        }
+      ],
       "forms": []
     },
     {
@@ -802,7 +1592,16 @@
       "word": "inland",
       "ipa": "/ˈɪnlənd/",
       "meaning": "adj. 内陆的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "offshore",
+          "meaning": "adj. 近海的、离岸的"
+        },
+        {
+          "word": "strait",
+          "meaning": "n. 海峡"
+        }
+      ],
       "forms": []
     },
     {
@@ -810,7 +1609,20 @@
       "word": "intimate",
       "ipa": "/ˈɪntɪmət/",
       "meaning": "adj. 亲密的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "integrity",
+          "meaning": "n. 诚实、正直"
+        },
+        {
+          "word": "identity",
+          "meaning": "n. 身份、特征"
+        },
+        {
+          "word": "interval",
+          "meaning": "n. 间歇、间隔"
+        }
+      ],
       "forms": [
         "intimacy n."
       ]
@@ -820,7 +1632,20 @@
       "word": "literally",
       "ipa": "/ˈlɪtərəli/",
       "meaning": "adv. 字面意义上、确实",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "idiom",
+          "meaning": "n. 习语、俗语"
+        },
+        {
+          "word": "context",
+          "meaning": "n. 上下文、语境"
+        },
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇"
+        }
+      ],
       "forms": [
         "literal adj."
       ]
@@ -830,7 +1655,16 @@
       "word": "logical",
       "ipa": "/ˈlɒdʒɪkəl/ /ˈlɑdʒɪkəl/",
       "meaning": "adj. 符合逻辑的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "absurd",
+          "meaning": "adj. 荒谬的"
+        },
+        {
+          "word": "ambiguous",
+          "meaning": "adj. 模棱两可的"
+        }
+      ],
       "forms": [
         "logic n.",
         "logically adv."
@@ -841,7 +1675,16 @@
       "word": "lunar",
       "ipa": "/ˈluːnə/ /ˈlunər/",
       "meaning": "adj. 月亮的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "astronomy",
+          "meaning": "n. 天文学"
+        },
+        {
+          "word": "orbit",
+          "meaning": "n. 天体的运行轨道"
+        }
+      ],
       "forms": []
     },
     {
@@ -849,7 +1692,16 @@
       "word": "luxury",
       "ipa": "/ˈlʌkʃəri/ /ˈlʌɡʒəri/",
       "meaning": "n. 奢侈、奢华",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "exclusive",
+          "meaning": "adj. 独占的、排外的"
+        },
+        {
+          "word": "prosperity",
+          "meaning": "n. 繁荣"
+        }
+      ],
       "forms": [
         "luxurious adj."
       ]
@@ -859,7 +1711,16 @@
       "word": "magnificent",
       "ipa": "/mæɡˈnɪfəsənt/",
       "meaning": "adj. 壮丽的、宏伟的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "superb",
+          "meaning": "adj. 卓越的"
+        },
+        {
+          "word": "marvellous",
+          "meaning": "adj. 了不起的、奇迹般的"
+        }
+      ],
       "forms": []
     },
     {
@@ -867,7 +1728,16 @@
       "word": "marvellous",
       "ipa": "/ˈmɑːvələs/ /ˈmɑrvələs/",
       "meaning": "adj. 了不起的、奇迹般的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "magnificent",
+          "meaning": "adj. 壮丽的、宏伟的"
+        },
+        {
+          "word": "superb",
+          "meaning": "adj. 卓越的"
+        }
+      ],
       "forms": []
     },
     {
@@ -875,7 +1745,20 @@
       "word": "maximum",
       "ipa": "/ˈmæksɪməm/",
       "meaning": "adj. 最大程度的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "minimum",
+          "meaning": "adj. 最小程度的"
+        },
+        {
+          "word": "zoom",
+          "meaning": "v. 快速移动、放缩、猛涨"
+        },
+        {
+          "word": "shrink",
+          "meaning": "v. 缩小、缩减"
+        }
+      ],
       "forms": []
     },
     {
@@ -883,7 +1766,16 @@
       "word": "military",
       "ipa": "/ˈmɪlɪtri/ /ˈmɪlɪtɛri/",
       "meaning": "adj. 军队的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "navy",
+          "meaning": "n. 海军"
+        },
+        {
+          "word": "nuclear",
+          "meaning": "adj. 核能的"
+        }
+      ],
       "forms": []
     },
     {
@@ -891,7 +1783,20 @@
       "word": "minimum",
       "ipa": "/ˈmɪnɪməm/ /ˈmɪnəməm/",
       "meaning": "adj. 最小程度的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "maximum",
+          "meaning": "adj. 最大程度的"
+        },
+        {
+          "word": "shrink",
+          "meaning": "v. 缩小、缩减"
+        },
+        {
+          "word": "ample",
+          "meaning": "adj. 充足的、丰裕的"
+        }
+      ],
       "forms": []
     },
     {
@@ -899,7 +1804,12 @@
       "word": "nevertheless",
       "ipa": "/ˌnɛvəðəˈlɛs/ /ˌnɛvərðəˈlɛs/",
       "meaning": "adv. 然而",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "hence",
+          "meaning": "adv. 因此"
+        }
+      ],
       "forms": []
     },
     {
@@ -907,7 +1817,20 @@
       "word": "nuclear",
       "ipa": "/ˈnjuːklɪə/ /ˈnukliər/",
       "meaning": "adj. 核能的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "radioactive",
+          "meaning": "adj. 放射性的"
+        },
+        {
+          "word": "atom",
+          "meaning": "n. 原子"
+        },
+        {
+          "word": "hydrogen",
+          "meaning": "n. 氢"
+        }
+      ],
       "forms": []
     },
     {
@@ -915,7 +1838,16 @@
       "word": "numb",
       "ipa": "/nʌm/",
       "meaning": "adj. 麻木的、迟钝的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "conscious",
+          "meaning": "adj. 有意识的"
+        },
+        {
+          "word": "acute",
+          "meaning": "adj. 严重的、急性病的"
+        }
+      ],
       "forms": [
         "numbness n."
       ]
@@ -925,7 +1857,16 @@
       "word": "offshore",
       "ipa": "/ɒfˈʃɔː/",
       "meaning": "adj. 近海的、离岸的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "inland",
+          "meaning": "adj. 内陆的"
+        },
+        {
+          "word": "strait",
+          "meaning": "n. 海峡"
+        }
+      ],
       "forms": []
     },
     {
@@ -933,7 +1874,20 @@
       "word": "oral",
       "ipa": "/ˈɔːrəl/ /ˈorəl/",
       "meaning": "adj. 口头的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "dictation",
+          "meaning": "n. 听写"
+        },
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇"
+        },
+        {
+          "word": "punctuation",
+          "meaning": "n. 标点符号"
+        }
+      ],
       "forms": []
     },
     {
@@ -941,7 +1895,20 @@
       "word": "parallel",
       "ipa": "/ˈpærəˌlɛl/",
       "meaning": "adj. 平行的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vertical",
+          "meaning": "adj. 垂直的、纵向的"
+        },
+        {
+          "word": "horizontal",
+          "meaning": "adj. 水平的、横向的"
+        },
+        {
+          "word": "angle",
+          "meaning": "n. 角度"
+        }
+      ],
       "forms": []
     },
     {
@@ -949,7 +1916,16 @@
       "word": "passive",
       "ipa": "/ˈpæsɪv/",
       "meaning": "adj. 被动的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "initiative",
+          "meaning": "n. 倡议"
+        },
+        {
+          "word": "intervention",
+          "meaning": "n. 干预、干涉"
+        }
+      ],
       "forms": []
     },
     {
@@ -965,7 +1941,20 @@
       "word": "pregnant",
       "ipa": "/ˈprɛɡnənt/",
       "meaning": "adj. 怀孕的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "abortion",
+          "meaning": "n. 流产、放弃、中止"
+        },
+        {
+          "word": "adolescence",
+          "meaning": "n. 青春、青春期"
+        },
+        {
+          "word": "prescription",
+          "meaning": "n. 处方、药方"
+        }
+      ],
       "forms": []
     },
     {
@@ -973,7 +1962,16 @@
       "word": "primary",
       "ipa": "/ˈpraɪmri/ /ˈpraɪˌmɛri/",
       "meaning": "adj. 初级的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "elementary",
+          "meaning": "adj. 初级的、基础的"
+        },
+        {
+          "word": "fundamental",
+          "meaning": "adj. 基本的、基础的"
+        }
+      ],
       "forms": []
     },
     {
@@ -981,7 +1979,20 @@
       "word": "primitive",
       "ipa": "/ˈprɪmɪtɪv/",
       "meaning": "adj. 原始的、",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "ancient",
+          "meaning": "adj. 古代的、古老的"
+        },
+        {
+          "word": "savage",
+          "meaning": "n. 野蛮人"
+        },
+        {
+          "word": "evolution",
+          "meaning": "n. 进化、演变"
+        }
+      ],
       "forms": []
     },
     {
@@ -989,7 +2000,20 @@
       "word": "radioactive",
       "ipa": "/ˌreɪdiəʊˈaktɪv/ /ˌreɪdioʊˈæktɪv/",
       "meaning": "adj. 放射性的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "nuclear",
+          "meaning": "adj. 核能的"
+        },
+        {
+          "word": "radiation",
+          "meaning": "n. 辐射、放射线"
+        },
+        {
+          "word": "atom",
+          "meaning": "n. 原子"
+        }
+      ],
       "forms": []
     },
     {
@@ -997,7 +2021,16 @@
       "word": "rigid",
       "ipa": "/ˈrɪdʒɪd/",
       "meaning": "adj. 僵硬的、死板的、固执的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "static",
+          "meaning": "adj. 静态的"
+        },
+        {
+          "word": "arbitrary",
+          "meaning": "adj. 专横的、专制的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1005,7 +2038,16 @@
       "word": "rural",
       "ipa": "/ˈrʊərəl/ /ˈrʊrəl/",
       "meaning": "adj. 乡村的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "urban",
+          "meaning": "adj. 城市的"
+        },
+        {
+          "word": "agriculture",
+          "meaning": "n. 农业"
+        }
+      ],
       "forms": []
     },
     {
@@ -1013,7 +2055,16 @@
       "word": "sacred",
       "ipa": "/ˈseɪkrɪd/",
       "meaning": "adj. 神圣的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "religion",
+          "meaning": "n. 宗教"
+        },
+        {
+          "word": "bishop",
+          "meaning": "n. 主教"
+        }
+      ],
       "forms": []
     },
     {
@@ -1021,7 +2072,16 @@
       "word": "static",
       "ipa": "/ˈstætɪk/",
       "meaning": "adj. 静态的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "revolve",
+          "meaning": "v. 旋转、环绕"
+        },
+        {
+          "word": "vibration",
+          "meaning": "n. 振动、摇摆"
+        }
+      ],
       "forms": []
     },
     {
@@ -1029,7 +2089,16 @@
       "word": "steep",
       "ipa": "/stiːp/",
       "meaning": "adj. 险峻的、陡峭的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vertical",
+          "meaning": "adj. 垂直的、纵向的"
+        },
+        {
+          "word": "altitude",
+          "meaning": "n. 海拔高度"
+        }
+      ],
       "forms": []
     },
     {
@@ -1045,7 +2114,20 @@
       "word": "subsequent",
       "ipa": "/ˈsʌbsɪkwənt/",
       "meaning": "adj. 随后的、后续的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "former",
+          "meaning": "adj. 以前的、前者"
+        },
+        {
+          "word": "latter",
+          "meaning": "n. 后者"
+        },
+        {
+          "word": "phase",
+          "meaning": "n. 阶段、时期"
+        }
+      ],
       "forms": [
         "subsequently adv."
       ]
@@ -1055,7 +2137,16 @@
       "word": "sufficient",
       "ipa": "/səˈfɪʃənt/",
       "meaning": "adj. 足够的、充分的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "ample",
+          "meaning": "adj. 充足的、丰裕的"
+        },
+        {
+          "word": "surplus",
+          "meaning": "n. 过剩、剩余"
+        }
+      ],
       "forms": [
         "sufficiency n."
       ]
@@ -1065,7 +2156,16 @@
       "word": "superb",
       "ipa": "/suːˈpɜːb/ /suˈpɜːrb/",
       "meaning": "adj. 卓越的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "magnificent",
+          "meaning": "adj. 壮丽的、宏伟的"
+        },
+        {
+          "word": "marvellous",
+          "meaning": "adj. 了不起的、奇迹般的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1073,7 +2173,16 @@
       "word": "superior",
       "ipa": "/suːˈpɪəriə/ /sʊˈpɪriər/",
       "meaning": "adj. 更胜一筹的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "supreme",
+          "meaning": "adj. 至高无上的"
+        },
+        {
+          "word": "superb",
+          "meaning": "adj. 卓越的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1081,7 +2190,16 @@
       "word": "supreme",
       "ipa": "/ˌsuːˈpriːm/ /ˌsuˈprim/",
       "meaning": "adj. 至高无上的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "superior",
+          "meaning": "adj. 更胜一筹的"
+        },
+        {
+          "word": "absolute",
+          "meaning": "adj. 绝对的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1089,7 +2207,20 @@
       "word": "swift",
       "ipa": "/swɪft/",
       "meaning": "adj. 迅速的、敏捷的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "zoom",
+          "meaning": "v. 快速移动、放缩、猛涨"
+        },
+        {
+          "word": "accelerate",
+          "meaning": "v. 加速"
+        },
+        {
+          "word": "abrupt",
+          "meaning": "adj. 突然的、意外的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1097,7 +2228,20 @@
       "word": "transparent",
       "ipa": "/trænsˈpærənt/ /tɾansˈpaɾənt/",
       "meaning": "adj. 透明的、清澈的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "visual",
+          "meaning": "adj. 视力的、视觉的"
+        },
+        {
+          "word": "optics",
+          "meaning": "n. 光学"
+        },
+        {
+          "word": "smog",
+          "meaning": "n. 烟雾、雾霾"
+        }
+      ],
       "forms": []
     },
     {
@@ -1105,7 +2249,16 @@
       "word": "urban",
       "ipa": "/ˈɜːbən/ /ˈɜːrbən/",
       "meaning": "adj. 城市的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "rural",
+          "meaning": "adj. 乡村的"
+        },
+        {
+          "word": "freeway",
+          "meaning": "n. 高速公路"
+        }
+      ],
       "forms": []
     },
     {
@@ -1113,7 +2266,16 @@
       "word": "vacant",
       "ipa": "/ˈveɪkənt/",
       "meaning": "adj. 空缺的、未被占用的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "dormitory",
+          "meaning": "n. 学生宿舍"
+        },
+        {
+          "word": "booth",
+          "meaning": "n. 单间、小隔间"
+        }
+      ],
       "forms": [
         "vacancy n."
       ]
@@ -1123,7 +2285,16 @@
       "word": "valid",
       "ipa": "/ˈvælɪd/",
       "meaning": "adj. 有效的、合理的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "logical",
+          "meaning": "adj. 符合逻辑的"
+        },
+        {
+          "word": "criterion",
+          "meaning": "n. 标准、准则"
+        }
+      ],
       "forms": [
         "validity n."
       ]
@@ -1133,7 +2304,20 @@
       "word": "vast",
       "ipa": "/vɑːst/ /væst/",
       "meaning": "adj. 巨大的、广阔的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "enormous",
+          "meaning": "adj. 巨大的"
+        },
+        {
+          "word": "scale",
+          "meaning": "n. 大小、规模、刻度"
+        },
+        {
+          "word": "maximum",
+          "meaning": "adj. 最大程度的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1141,7 +2325,20 @@
       "word": "vertical",
       "ipa": "/ˈvɜːtɪkəl/ /ˈvɜːrtɪkəl/",
       "meaning": "adj. 垂直的、纵向的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "horizontal",
+          "meaning": "adj. 水平的、横向的"
+        },
+        {
+          "word": "parallel",
+          "meaning": "adj. 平行的"
+        },
+        {
+          "word": "steep",
+          "meaning": "adj. 险峻的、陡峭的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1149,7 +2346,16 @@
       "word": "visual",
       "ipa": "/ˈvɪʒuːəl/ /ˈvɪʒuəl/",
       "meaning": "adj. 视力的、视觉的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "optics",
+          "meaning": "n. 光学"
+        },
+        {
+          "word": "perceive",
+          "meaning": "v. 感知、认为、注意到"
+        }
+      ],
       "forms": []
     },
     {
@@ -1157,7 +2363,20 @@
       "word": "accountant",
       "ipa": "/əˈkaʊntənt/",
       "meaning": "n. 会计",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "administration",
+          "meaning": "n. 管理、行政部门"
+        },
+        {
+          "word": "personnel",
+          "meaning": "n. 全体人员、职员"
+        },
+        {
+          "word": "wage",
+          "meaning": "n. 工资"
+        }
+      ],
       "forms": []
     },
     {
@@ -1165,7 +2384,20 @@
       "word": "acid",
       "ipa": "/ˈæsɪd/",
       "meaning": "n. 酸",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "mineral",
+          "meaning": "n. 矿物质"
+        },
+        {
+          "word": "hydrogen",
+          "meaning": "n. 氢"
+        },
+        {
+          "word": "dioxide",
+          "meaning": "n. 二氧化物"
+        }
+      ],
       "forms": [
         "acidic adj."
       ]
@@ -1175,7 +2407,20 @@
       "word": "acre",
       "ipa": "/ˈeɪkə/ /ˈeɪkər/",
       "meaning": "n. 英亩",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "gallon",
+          "meaning": "n. 加仑"
+        },
+        {
+          "word": "pint",
+          "meaning": "n. 品脱"
+        },
+        {
+          "word": "centimetre",
+          "meaning": "n. 厘米"
+        }
+      ],
       "forms": []
     },
     {
@@ -1183,7 +2428,20 @@
       "word": "administration",
       "ipa": "/ədˌmɪnɪˈstreɪʃən/ /ədˌmɪnəˈstreɪʃən/",
       "meaning": "n. 管理、行政部门",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "accountant",
+          "meaning": "n. 会计"
+        },
+        {
+          "word": "authority",
+          "meaning": "n. 权力、权威、官方"
+        },
+        {
+          "word": "personnel",
+          "meaning": "n. 全体人员、职员"
+        }
+      ],
       "forms": [
         "administrative adj.",
         "administrator n."
@@ -1194,7 +2452,16 @@
       "word": "adolescence",
       "ipa": "/ˌædəˈlɛsəns/",
       "meaning": "n. 青春、青春期",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "pregnant",
+          "meaning": "adj. 怀孕的"
+        },
+        {
+          "word": "bachelor",
+          "meaning": "n. 本科学士、单身汉"
+        }
+      ],
       "forms": [
         "adolescent n. adj."
       ]
@@ -1204,7 +2471,20 @@
       "word": "agriculture",
       "ipa": "/ˈæɡrɪˌkʌltʃə/ /ˈæɡrɪˌkʌltʃər/",
       "meaning": "n. 农业",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "irrigate",
+          "meaning": "v. 灌溉"
+        },
+        {
+          "word": "grain",
+          "meaning": "n. 谷物"
+        },
+        {
+          "word": "botany",
+          "meaning": "n. 植物学"
+        }
+      ],
       "forms": [
         "agricultural adj."
       ]
@@ -1214,7 +2494,20 @@
       "word": "algebra",
       "ipa": "/ˈældʒɪbrə/",
       "meaning": "n. 代数",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "geometry",
+          "meaning": "n. 几何学"
+        },
+        {
+          "word": "arithmetic",
+          "meaning": "n. 算术"
+        },
+        {
+          "word": "angle",
+          "meaning": "n. 角度"
+        }
+      ],
       "forms": []
     },
     {
@@ -1222,7 +2515,20 @@
       "word": "alphabet",
       "ipa": "/ˈælfəˌbɛt/",
       "meaning": "n. 字母",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇"
+        },
+        {
+          "word": "punctuation",
+          "meaning": "n. 标点符号"
+        },
+        {
+          "word": "idiom",
+          "meaning": "n. 习语、俗语"
+        }
+      ],
       "forms": []
     },
     {
@@ -1230,7 +2536,16 @@
       "word": "altitude",
       "ipa": "/ˈæltɪˌtjuːd/",
       "meaning": "n. 海拔高度",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "horizon",
+          "meaning": "n. 地平线、眼界"
+        },
+        {
+          "word": "gravity",
+          "meaning": "n. 重力、引力"
+        }
+      ],
       "forms": []
     },
     {
@@ -1238,7 +2553,20 @@
       "word": "aluminium",
       "ipa": "/ˌælʊˈmɪniəm/ /ˌæluˈmɪniəm/",
       "meaning": "n. 铝",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "mineral",
+          "meaning": "n. 矿物质"
+        },
+        {
+          "word": "clay",
+          "meaning": "n. 黏土"
+        },
+        {
+          "word": "nylon",
+          "meaning": "n. 尼龙"
+        }
+      ],
       "forms": []
     },
     {
@@ -1246,7 +2574,20 @@
       "word": "ambassador",
       "ipa": "/æmˈbæsədə/ /æmˈbæsədər/",
       "meaning": "n. 大使",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "embassy",
+          "meaning": "n. 大使馆"
+        },
+        {
+          "word": "premier",
+          "meaning": "n. 首相、总理"
+        },
+        {
+          "word": "statesman",
+          "meaning": "n. 政治家"
+        }
+      ],
       "forms": [
         "ambassadress n."
       ]
@@ -1256,7 +2597,20 @@
       "word": "ancestor",
       "ipa": "/ˈænsɛstə/ /ˈænsɛstər/",
       "meaning": "n. 祖先",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "evolution",
+          "meaning": "n. 进化、演变"
+        },
+        {
+          "word": "biography",
+          "meaning": "n. 人物传记"
+        },
+        {
+          "word": "monument",
+          "meaning": "n. 纪念碑"
+        }
+      ],
       "forms": []
     },
     {
@@ -1264,7 +2618,20 @@
       "word": "anchor",
       "ipa": "/ˈæŋkəː/ /ˈæŋkər/",
       "meaning": "n. 锚",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "navy",
+          "meaning": "n. 海军"
+        },
+        {
+          "word": "tanker",
+          "meaning": "n. 油轮"
+        },
+        {
+          "word": "paddle",
+          "meaning": "n. 船桨、v. 涉水"
+        }
+      ],
       "forms": []
     },
     {
@@ -1272,7 +2639,16 @@
       "word": "anecdote",
       "ipa": "/ˈænɪkˌdəʊt/ /ˈænɪkˌdoʊt/",
       "meaning": "n. 逸事、趣闻",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "biography",
+          "meaning": "n. 人物传记"
+        },
+        {
+          "word": "episode",
+          "meaning": "n. 电视剧的一集"
+        }
+      ],
       "forms": []
     },
     {
@@ -1280,7 +2656,20 @@
       "word": "angle",
       "ipa": "/ˈæŋɡəl/ /ˈeɪŋɡəl/",
       "meaning": "n. 角度",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "geometry",
+          "meaning": "n. 几何学"
+        },
+        {
+          "word": "oval",
+          "meaning": "n. 椭圆、adj. 椭圆形的"
+        },
+        {
+          "word": "rectangle",
+          "meaning": "n. 长方形"
+        }
+      ],
       "forms": []
     },
     {
@@ -1288,7 +2677,20 @@
       "word": "ankle",
       "ipa": "/ˈæŋkəl/ /ˈeɪŋkəl/",
       "meaning": "n. 脚踝",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "heel",
+          "meaning": "n. 脚后跟"
+        },
+        {
+          "word": "pulse",
+          "meaning": "n. 脉搏"
+        },
+        {
+          "word": "backache",
+          "meaning": "n. 后背痛"
+        }
+      ],
       "forms": []
     },
     {
@@ -1296,7 +2698,20 @@
       "word": "anniversary",
       "ipa": "/ˌænɪˈvɜːsri/ /ˌænɪˈvɜːrsri/",
       "meaning": "n. 周年纪念日",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "annual",
+          "meaning": "adj. 每年的、一年一度的"
+        },
+        {
+          "word": "fortnight",
+          "meaning": "n. 两周、十四天"
+        },
+        {
+          "word": "monument",
+          "meaning": "n. 纪念碑"
+        }
+      ],
       "forms": []
     },
     {
@@ -1304,7 +2719,20 @@
       "word": "appendix",
       "ipa": "/əˈpɛndɪks/",
       "meaning": "n. 附录",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "directory",
+          "meaning": "n. 目录、名录"
+        },
+        {
+          "word": "paragraph",
+          "meaning": "n. 文章段落"
+        },
+        {
+          "word": "context",
+          "meaning": "n. 上下文、语境"
+        }
+      ],
       "forms": []
     },
     {
@@ -1312,7 +2740,20 @@
       "word": "appetite",
       "ipa": "/ˈæpɪtaɪt/ /ˈæpəˌtaɪt/",
       "meaning": "n. 食欲、胃口",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "digest",
+          "meaning": "v. 消化、吸收"
+        },
+        {
+          "word": "swallow",
+          "meaning": "v. 吞咽"
+        },
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        }
+      ],
       "forms": []
     },
     {
@@ -1320,7 +2761,20 @@
       "word": "apron",
       "ipa": "/ˈeɪprən/",
       "meaning": "n. 围裙",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "blouse",
+          "meaning": "n. 女式短上衣"
+        },
+        {
+          "word": "garment",
+          "meaning": "n. 服装"
+        },
+        {
+          "word": "vest",
+          "meaning": "n. 背心"
+        }
+      ],
       "forms": []
     },
     {
@@ -1328,7 +2782,20 @@
       "word": "arch",
       "ipa": "/ɑːtʃ/ /ɑrtʃ/",
       "meaning": "n. 拱门",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "architecture",
+          "meaning": "n. 建筑"
+        },
+        {
+          "word": "cathedral",
+          "meaning": "n. 大教堂"
+        },
+        {
+          "word": "pyramid",
+          "meaning": "n. 金字塔"
+        }
+      ],
       "forms": []
     },
     {
@@ -1336,7 +2803,20 @@
       "word": "architecture",
       "ipa": "/ˈɑːkɪˌtɛktʃə/ /ˈɑrkɪˌtɛktʃər/",
       "meaning": "n. 建筑",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "arch",
+          "meaning": "n. 拱门"
+        },
+        {
+          "word": "cathedral",
+          "meaning": "n. 大教堂"
+        },
+        {
+          "word": "sculpture",
+          "meaning": "n. 雕塑"
+        }
+      ],
       "forms": [
         "architect n."
       ]
@@ -1346,7 +2826,20 @@
       "word": "arithmetic",
       "ipa": "/əˈrɪθmətɪk/",
       "meaning": "n. 算术",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "algebra",
+          "meaning": "n. 代数"
+        },
+        {
+          "word": "geometry",
+          "meaning": "n. 几何学"
+        },
+        {
+          "word": "quantity",
+          "meaning": "n. 数量"
+        }
+      ],
       "forms": []
     },
     {
@@ -1354,7 +2847,20 @@
       "word": "astronomy",
       "ipa": "/əˈstrɒnəmi/ /əˈstrɑnəmi/",
       "meaning": "n. 天文学",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "lunar",
+          "meaning": "adj. 月亮的"
+        },
+        {
+          "word": "orbit",
+          "meaning": "n. 天体的运行轨道"
+        },
+        {
+          "word": "telescope",
+          "meaning": "n. 望远镜"
+        }
+      ],
       "forms": [
         "astronomer n."
       ]
@@ -1364,7 +2870,20 @@
       "word": "atom",
       "ipa": "/ˈætəm/",
       "meaning": "n. 原子",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "hydrogen",
+          "meaning": "n. 氢"
+        },
+        {
+          "word": "dioxide",
+          "meaning": "n. 二氧化物"
+        },
+        {
+          "word": "nuclear",
+          "meaning": "adj. 核能的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1372,7 +2891,20 @@
       "word": "authority",
       "ipa": "/ɔːˈθɒrəti/ /əˈθɔrədi/",
       "meaning": "n. 权力、权威、官方",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "administration",
+          "meaning": "n. 管理、行政部门"
+        },
+        {
+          "word": "constitution",
+          "meaning": "n. 宪法"
+        },
+        {
+          "word": "liberty",
+          "meaning": "n. 自由"
+        }
+      ],
       "forms": []
     },
     {
@@ -1380,7 +2912,20 @@
       "word": "bachelor",
       "ipa": "/ˈbætʃələ/ /ˈbætʃələr/",
       "meaning": "n. 本科学士、单身汉",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "diploma",
+          "meaning": "n. 文凭、证书"
+        },
+        {
+          "word": "gown",
+          "meaning": "n. 长袍、长外衣、长裙"
+        },
+        {
+          "word": "adolescence",
+          "meaning": "n. 青春、青春期"
+        }
+      ],
       "forms": []
     },
     {
@@ -1388,7 +2933,20 @@
       "word": "backache",
       "ipa": "/ˈbækeɪk/",
       "meaning": "n. 后背痛",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "ankle",
+          "meaning": "n. 脚踝"
+        },
+        {
+          "word": "heel",
+          "meaning": "n. 脚后跟"
+        },
+        {
+          "word": "prescription",
+          "meaning": "n. 处方、药方"
+        }
+      ],
       "forms": []
     },
     {
@@ -1396,7 +2954,20 @@
       "word": "bacteria",
       "ipa": "/bakˈtɪəriə/ /bækˈtɪriə/",
       "meaning": "n. 细菌",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "biochemistry",
+          "meaning": "n. 生物化学"
+        },
+        {
+          "word": "botany",
+          "meaning": "n. 植物学"
+        },
+        {
+          "word": "organ",
+          "meaning": "n. 器官"
+        }
+      ],
       "forms": []
     },
     {
@@ -1404,7 +2975,20 @@
       "word": "badminton",
       "ipa": "/ˈbædmɪntən/",
       "meaning": "n. 羽毛球",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "rugby",
+          "meaning": "n. 橄榄球"
+        },
+        {
+          "word": "sneaker",
+          "meaning": "n. 运动鞋"
+        },
+        {
+          "word": "relay",
+          "meaning": "n. 接力、v. 中转"
+        }
+      ],
       "forms": []
     },
     {
@@ -1412,7 +2996,20 @@
       "word": "ballpoint",
       "ipa": "/ˈbɔːlˌpɔɪnt pɛn/",
       "meaning": "n. 圆珠笔",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "crayon",
+          "meaning": "n. 蜡笔"
+        },
+        {
+          "word": "punctuation",
+          "meaning": "n. 标点符号"
+        },
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇"
+        }
+      ],
       "forms": []
     },
     {
@@ -1420,7 +3017,20 @@
       "word": "bandage",
       "ipa": "/ˈbændɪdʒ/",
       "meaning": "n. 绷带",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "prescription",
+          "meaning": "n. 处方、药方"
+        },
+        {
+          "word": "tissue",
+          "meaning": "n. 纸巾、细胞组织"
+        },
+        {
+          "word": "ankle",
+          "meaning": "n. 脚踝"
+        }
+      ],
       "forms": []
     },
     {
@@ -1428,7 +3038,20 @@
       "word": "beam",
       "ipa": "/ˈbiːm/",
       "meaning": "n. 光束",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "lantern",
+          "meaning": "n. 灯笼"
+        },
+        {
+          "word": "optics",
+          "meaning": "n. 光学"
+        },
+        {
+          "word": "visual",
+          "meaning": "adj. 视力的、视觉的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1436,7 +3059,20 @@
       "word": "beancurd",
       "ipa": "/ˈtəʊfuː/ /ˈtoʊfu/",
       "meaning": "n. 豆腐",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "gruel",
+          "meaning": "n. 粥"
+        },
+        {
+          "word": "porridge",
+          "meaning": "n. 粥"
+        },
+        {
+          "word": "bun",
+          "meaning": "n. 馒头、小面包"
+        }
+      ],
       "forms": []
     },
     {
@@ -1444,7 +3080,16 @@
       "word": "behalf",
       "ipa": "/bɪˈhɑːf/ /bɪˈhæf/",
       "meaning": "n. 代表某人",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "ambassador",
+          "meaning": "n. 大使"
+        },
+        {
+          "word": "personnel",
+          "meaning": "n. 全体人员、职员"
+        }
+      ],
       "forms": []
     },
     {
@@ -1452,7 +3097,20 @@
       "word": "bestseller",
       "ipa": "/ˈbɛstˌsɛlə/ /ˈbɛstˌsɛlɚ/",
       "meaning": "n. 畅销书",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "subscribe",
+          "meaning": "v. 订阅、订购"
+        },
+        {
+          "word": "brochure",
+          "meaning": "n. 广告手册"
+        },
+        {
+          "word": "biography",
+          "meaning": "n. 人物传记"
+        }
+      ],
       "forms": []
     },
     {
@@ -1460,7 +3118,20 @@
       "word": "biochemistry",
       "ipa": "/ˌbaɪəʊˈkɛmɪstri/",
       "meaning": "n. 生物化学",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "botany",
+          "meaning": "n. 植物学"
+        },
+        {
+          "word": "bacteria",
+          "meaning": "n. 细菌"
+        },
+        {
+          "word": "acid",
+          "meaning": "n. 酸"
+        }
+      ],
       "forms": []
     },
     {
@@ -1468,7 +3139,20 @@
       "word": "biography",
       "ipa": "/baɪˈɒɡrəfi/ /baɪˈɑɡrəfi/",
       "meaning": "n. 人物传记",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "anecdote",
+          "meaning": "n. 逸事、趣闻"
+        },
+        {
+          "word": "bestseller",
+          "meaning": "n. 畅销书"
+        },
+        {
+          "word": "episode",
+          "meaning": "n. 电视剧的一集"
+        }
+      ],
       "forms": []
     },
     {
@@ -1476,7 +3160,20 @@
       "word": "bishop",
       "ipa": "/ˈbɪʃəp/",
       "meaning": "n. 主教",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "religion",
+          "meaning": "n. 宗教"
+        },
+        {
+          "word": "catholic",
+          "meaning": "adj. 天主教的"
+        },
+        {
+          "word": "sacred",
+          "meaning": "adj. 神圣的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1484,7 +3181,20 @@
       "word": "blouse",
       "ipa": "/ˈblaʊz/ /ˈblaʊs/",
       "meaning": "n. 女式短上衣",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vest",
+          "meaning": "n. 背心"
+        },
+        {
+          "word": "garment",
+          "meaning": "n. 服装"
+        },
+        {
+          "word": "apron",
+          "meaning": "n. 围裙"
+        }
+      ],
       "forms": []
     },
     {
@@ -1492,7 +3202,20 @@
       "word": "booth",
       "ipa": "/buːð/ /buθ/",
       "meaning": "n. 单间、小隔间",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "snackbar",
+          "meaning": "n. 快餐店"
+        },
+        {
+          "word": "cottage",
+          "meaning": "n. 小屋、村舍"
+        },
+        {
+          "word": "cellar",
+          "meaning": "n. 地窖"
+        }
+      ],
       "forms": []
     },
     {
@@ -1500,7 +3223,20 @@
       "word": "botany",
       "ipa": "/ˈbɒtəni/ /ˈbɑtəni/",
       "meaning": "n. 植物学",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "maple",
+          "meaning": "n. 枫树"
+        },
+        {
+          "word": "grain",
+          "meaning": "n. 谷物"
+        },
+        {
+          "word": "agriculture",
+          "meaning": "n. 农业"
+        }
+      ],
       "forms": [
         "botanical adj."
       ]
@@ -1510,7 +3246,20 @@
       "word": "breakthrough",
       "ipa": "/ˈbreɪkθruː/ /ˈbreɪkθru/",
       "meaning": "n. 重大进展、突破",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "revolution",
+          "meaning": "n. 革命、变革"
+        },
+        {
+          "word": "initiative",
+          "meaning": "n. 倡议"
+        },
+        {
+          "word": "evolution",
+          "meaning": "n. 进化、演变"
+        }
+      ],
       "forms": []
     },
     {
@@ -1518,7 +3267,20 @@
       "word": "brewery",
       "ipa": "/ˈbruːəri/",
       "meaning": "n. 酿酒厂",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "snackbar",
+          "meaning": "n. 快餐店"
+        },
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        },
+        {
+          "word": "industry",
+          "meaning": "n. 工业、产业"
+        }
+      ],
       "forms": []
     },
     {
@@ -1526,7 +3288,20 @@
       "word": "brochure",
       "ipa": "/ˈbrəʊʃə/ /broʊˈʃʊər/",
       "meaning": "n. 广告手册",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "bestseller",
+          "meaning": "n. 畅销书"
+        },
+        {
+          "word": "directory",
+          "meaning": "n. 目录、名录"
+        },
+        {
+          "word": "questionnaire",
+          "meaning": "n. 调查问卷"
+        }
+      ],
       "forms": []
     },
     {
@@ -1534,7 +3309,20 @@
       "word": "broom",
       "ipa": "/bruːm/ /brum/",
       "meaning": "n. 扫帚",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "laundry",
+          "meaning": "n. 洗衣店"
+        },
+        {
+          "word": "carpet",
+          "meaning": "n. 地毯"
+        },
+        {
+          "word": "stain",
+          "meaning": "n. 污点、污渍"
+        }
+      ],
       "forms": []
     },
     {
@@ -1542,7 +3330,20 @@
       "word": "buddhism",
       "ipa": "/ˈbʊdɪzəm/ /ˈbudɪzəm/",
       "meaning": "n. 佛教",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "religion",
+          "meaning": "n. 宗教"
+        },
+        {
+          "word": "catholic",
+          "meaning": "adj. 天主教的"
+        },
+        {
+          "word": "bishop",
+          "meaning": "n. 主教"
+        }
+      ],
       "forms": [
         "buddhist n. adj."
       ]
@@ -1552,7 +3353,20 @@
       "word": "buffet",
       "ipa": "/ˈbʊfeɪ/ /bəˈfeɪ/",
       "meaning": "n. 自助餐",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "feast",
+          "meaning": "n. 盛宴"
+        },
+        {
+          "word": "snackbar",
+          "meaning": "n. 快餐店"
+        },
+        {
+          "word": "appetite",
+          "meaning": "n. 食欲、胃口"
+        }
+      ],
       "forms": []
     },
     {
@@ -1560,7 +3374,20 @@
       "word": "bun",
       "ipa": "/bʌn/",
       "meaning": "n. 馒头、小面包",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "loaf",
+          "meaning": "n. 面包"
+        },
+        {
+          "word": "porridge",
+          "meaning": "n. 粥"
+        },
+        {
+          "word": "gruel",
+          "meaning": "n. 粥"
+        }
+      ],
       "forms": []
     },
     {
@@ -1568,7 +3395,20 @@
       "word": "bunch",
       "ipa": "/bʌntʃ/",
       "meaning": "n. 一束、大量",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "heap",
+          "meaning": "n. 一堆"
+        },
+        {
+          "word": "quantity",
+          "meaning": "n. 数量"
+        },
+        {
+          "word": "surplus",
+          "meaning": "n. 过剩、剩余"
+        }
+      ],
       "forms": []
     },
     {
@@ -1576,7 +3416,20 @@
       "word": "bungalow",
       "ipa": "/ˈbʌŋɡələʊ/ /ˈbʌŋɡəloʊ/",
       "meaning": "n. 平房",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "cottage",
+          "meaning": "n. 小屋、村舍"
+        },
+        {
+          "word": "cellar",
+          "meaning": "n. 地窖"
+        },
+        {
+          "word": "estate",
+          "meaning": "n. 私有土地、庄园"
+        }
+      ],
       "forms": []
     },
     {
@@ -1584,7 +3437,20 @@
       "word": "burglar",
       "ipa": "/ˈbɜːɡlə/ /ˈbɜːrɡlər/",
       "meaning": "n. 窃贼",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "victim",
+          "meaning": "n. 受害者、牺牲品"
+        },
+        {
+          "word": "murder",
+          "meaning": "v. 谋杀"
+        },
+        {
+          "word": "vice",
+          "meaning": "n. 邪恶、罪行"
+        }
+      ],
       "forms": []
     },
     {
@@ -1592,7 +3458,20 @@
       "word": "butcher",
       "ipa": "/ˈbʊtʃə/ /ˈbʊtʃər/",
       "meaning": "n. 屠夫",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "mutton",
+          "meaning": "n. 羊肉"
+        },
+        {
+          "word": "veal",
+          "meaning": "n. 小牛肉"
+        },
+        {
+          "word": "murder",
+          "meaning": "v. 谋杀"
+        }
+      ],
       "forms": []
     },
     {
@@ -1600,7 +3479,20 @@
       "word": "calligraphy",
       "ipa": "/kəˈlɪɡrəfi/",
       "meaning": "n. 书法",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "rhyme",
+          "meaning": "n. 押韵"
+        },
+        {
+          "word": "alphabet",
+          "meaning": "n. 字母"
+        },
+        {
+          "word": "idiom",
+          "meaning": "n. 习语、俗语"
+        }
+      ],
       "forms": []
     },
     {
@@ -1608,7 +3500,20 @@
       "word": "caption",
       "ipa": "/ˈkæpʃən/",
       "meaning": "n. 说明文字、字幕",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "episode",
+          "meaning": "n. 电视剧的一集"
+        },
+        {
+          "word": "paragraph",
+          "meaning": "n. 文章段落"
+        },
+        {
+          "word": "preview",
+          "meaning": "v. 预览、预告"
+        }
+      ],
       "forms": []
     },
     {
@@ -1616,7 +3521,20 @@
       "word": "carpenter",
       "ipa": "/ˈkɑːpəntə/ /ˈkɑrpəntər/",
       "meaning": "n. 木匠",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "clay",
+          "meaning": "n. 黏土"
+        },
+        {
+          "word": "sculpture",
+          "meaning": "n. 雕塑"
+        },
+        {
+          "word": "marble",
+          "meaning": "n. 大理石"
+        }
+      ],
       "forms": []
     },
     {
@@ -1624,7 +3542,20 @@
       "word": "carpet",
       "ipa": "/ˈkɑːpɪt/ /ˈkɑrpət/",
       "meaning": "n. 地毯",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "fabric",
+          "meaning": "n. 纺织物、布料"
+        },
+        {
+          "word": "wool",
+          "meaning": "n. 羊毛、羊绒"
+        },
+        {
+          "word": "nylon",
+          "meaning": "n. 尼龙"
+        }
+      ],
       "forms": []
     },
     {
@@ -1632,7 +3563,20 @@
       "word": "carriage",
       "ipa": "/ˈkærɪdʒ/",
       "meaning": "n. 四轮马车",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "tram",
+          "meaning": "n. 有轨电车"
+        },
+        {
+          "word": "trolley",
+          "meaning": "n. 手推车"
+        },
+        {
+          "word": "freeway",
+          "meaning": "n. 高速公路"
+        }
+      ],
       "forms": []
     },
     {
@@ -1640,7 +3584,20 @@
       "word": "cassette",
       "ipa": "/kəˈsɛt/",
       "meaning": "n. 磁带",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "modem",
+          "meaning": "n. 调制解调器"
+        },
+        {
+          "word": "telegraph",
+          "meaning": "n. 电报"
+        },
+        {
+          "word": "rewind",
+          "meaning": "v. 倒带"
+        }
+      ],
       "forms": []
     },
     {
@@ -1648,7 +3605,20 @@
       "word": "catastrophe",
       "ipa": "/kəˈtæstrəfi/",
       "meaning": "n. 灾祸",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "emergency",
+          "meaning": "n. 紧急状况"
+        },
+        {
+          "word": "hurricane",
+          "meaning": "n. 飓风"
+        },
+        {
+          "word": "volcano",
+          "meaning": "n. 火山"
+        }
+      ],
       "forms": []
     },
     {
@@ -1656,7 +3626,20 @@
       "word": "cathedral",
       "ipa": "/kəˈθiːdrəl/ /kəˈθidrəl/",
       "meaning": "n. 大教堂",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "catholic",
+          "meaning": "adj. 天主教的"
+        },
+        {
+          "word": "bishop",
+          "meaning": "n. 主教"
+        },
+        {
+          "word": "arch",
+          "meaning": "n. 拱门"
+        }
+      ],
       "forms": []
     },
     {
@@ -1664,7 +3647,20 @@
       "word": "cellar",
       "ipa": "/ˈsɛlə/ /ˈsɛlər/",
       "meaning": "n. 地窖",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "bungalow",
+          "meaning": "n. 平房"
+        },
+        {
+          "word": "cottage",
+          "meaning": "n. 小屋、村舍"
+        },
+        {
+          "word": "booth",
+          "meaning": "n. 单间、小隔间"
+        }
+      ],
       "forms": []
     },
     {
@@ -1672,7 +3668,20 @@
       "word": "centimetre",
       "ipa": "/ˈsɛntɪmiːtə/",
       "meaning": "n. 厘米",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "gallon",
+          "meaning": "n. 加仑"
+        },
+        {
+          "word": "pint",
+          "meaning": "n. 品脱"
+        },
+        {
+          "word": "acre",
+          "meaning": "n. 英亩"
+        }
+      ],
       "forms": []
     },
     {
@@ -1680,7 +3689,20 @@
       "word": "chimney",
       "ipa": "/ˈtʃɪmni/",
       "meaning": "n. 烟囱",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "smog",
+          "meaning": "n. 烟雾、雾霾"
+        },
+        {
+          "word": "cottage",
+          "meaning": "n. 小屋、村舍"
+        },
+        {
+          "word": "bungalow",
+          "meaning": "n. 平房"
+        }
+      ],
       "forms": []
     },
     {
@@ -1688,7 +3710,20 @@
       "word": "choir",
       "ipa": "/kwaɪə/ /kwaɪər/",
       "meaning": "n. 合唱团",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "symphony",
+          "meaning": "n. 交响乐"
+        },
+        {
+          "word": "rhyme",
+          "meaning": "n. 押韵"
+        },
+        {
+          "word": "cathedral",
+          "meaning": "n. 大教堂"
+        }
+      ],
       "forms": []
     },
     {
@@ -1696,7 +3731,20 @@
       "word": "circuit",
       "ipa": "/ˈsɜːkɪt/ /ˈsɜːrkɪt/",
       "meaning": "n. 电路、环形路线",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "socket",
+          "meaning": "n. 电源插座"
+        },
+        {
+          "word": "modem",
+          "meaning": "n. 调制解调器"
+        },
+        {
+          "word": "interface",
+          "meaning": "n. 人机交互界面"
+        }
+      ],
       "forms": []
     },
     {
@@ -1704,7 +3752,20 @@
       "word": "claw",
       "ipa": "/klɔː/ /klɔ/",
       "meaning": "n. 爪子",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "scratch",
+          "meaning": "n. 划痕、v. 划伤"
+        },
+        {
+          "word": "locust",
+          "meaning": "n. 蝗虫"
+        },
+        {
+          "word": "hive",
+          "meaning": "n. 蜂箱"
+        }
+      ],
       "forms": []
     },
     {
@@ -1712,7 +3773,20 @@
       "word": "clay",
       "ipa": "/kleɪ/",
       "meaning": "n. 黏土",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "marble",
+          "meaning": "n. 大理石"
+        },
+        {
+          "word": "mineral",
+          "meaning": "n. 矿物质"
+        },
+        {
+          "word": "straw",
+          "meaning": "n. 稻草"
+        }
+      ],
       "forms": []
     },
     {
@@ -1720,7 +3794,20 @@
       "word": "collision",
       "ipa": "/kəˈlɪʒn/",
       "meaning": "n. 碰撞、冲突",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "interference",
+          "meaning": "n. 干扰、干涉、妨碍"
+        },
+        {
+          "word": "friction",
+          "meaning": "n. 摩擦"
+        },
+        {
+          "word": "vibration",
+          "meaning": "n. 振动、摇摆"
+        }
+      ],
       "forms": [
         "collide v."
       ]
@@ -1730,7 +3817,20 @@
       "word": "communism",
       "ipa": "/ˈkɒmjʊnɪzm/ /ˈkɑmjunɪzm/",
       "meaning": "n. 共产主义",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "revolution",
+          "meaning": "n. 革命、变革"
+        },
+        {
+          "word": "constitution",
+          "meaning": "n. 宪法"
+        },
+        {
+          "word": "liberty",
+          "meaning": "n. 自由"
+        }
+      ],
       "forms": [
         "communist n. adj."
       ]
@@ -1740,7 +3840,20 @@
       "word": "compass",
       "ipa": "/ˈkʌmpəs/",
       "meaning": "n. 罗盘、指南针",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "navy",
+          "meaning": "n. 海军"
+        },
+        {
+          "word": "orbit",
+          "meaning": "n. 天体的运行轨道"
+        },
+        {
+          "word": "angle",
+          "meaning": "n. 角度"
+        }
+      ],
       "forms": []
     },
     {
@@ -1748,7 +3861,20 @@
       "word": "component",
       "ipa": "/kəmˈpəʊnənt/ /kəmˈpoʊnənt/",
       "meaning": "n. 组成部分、部件",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "section",
+          "meaning": "n. 一段、部分"
+        },
+        {
+          "word": "socket",
+          "meaning": "n. 电源插座"
+        },
+        {
+          "word": "circuit",
+          "meaning": "n. 电路、环形路线"
+        }
+      ],
       "forms": []
     },
     {
@@ -1756,7 +3882,20 @@
       "word": "conference",
       "ipa": "/ˈkɒnfrəns/ /ˈkɑnfrəns/",
       "meaning": "n. 大型会议",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "council",
+          "meaning": "n. 委员会"
+        },
+        {
+          "word": "consensus",
+          "meaning": "n. 一致意见、共识"
+        },
+        {
+          "word": "session",
+          "meaning": "n. 一场、一段时间、会议"
+        }
+      ],
       "forms": []
     },
     {
@@ -1764,7 +3903,20 @@
       "word": "conscience",
       "ipa": "/ˈkɒnʃəns/ /ˈkɑnʃəns/",
       "meaning": "n. 良心、良知",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "consensus",
+          "meaning": "n. 一致意见、共识"
+        },
+        {
+          "word": "integrity",
+          "meaning": "n. 诚实、正直"
+        },
+        {
+          "word": "vice",
+          "meaning": "n. 邪恶、罪行"
+        }
+      ],
       "forms": []
     },
     {
@@ -1772,7 +3924,20 @@
       "word": "consensus",
       "ipa": "/kənˈsɛnsəs/",
       "meaning": "n. 一致意见、共识",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "conscience",
+          "meaning": "n. 良心、良知"
+        },
+        {
+          "word": "conference",
+          "meaning": "n. 大型会议"
+        },
+        {
+          "word": "council",
+          "meaning": "n. 委员会"
+        }
+      ],
       "forms": []
     },
     {
@@ -1780,7 +3945,20 @@
       "word": "constitution",
       "ipa": "/ˌkɒnstɪˈtjuːʃn/ /ˌkɑnstɪˈtuʃn/",
       "meaning": "n. 宪法",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "federal",
+          "meaning": "adj. 联邦的"
+        },
+        {
+          "word": "liberty",
+          "meaning": "n. 自由"
+        },
+        {
+          "word": "administration",
+          "meaning": "n. 管理、行政部门"
+        }
+      ],
       "forms": []
     },
     {
@@ -1788,7 +3966,20 @@
       "word": "context",
       "ipa": "/ˈkɒntɛkst/ /ˈkɑntɛkst/",
       "meaning": "n. 上下文、语境",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "paragraph",
+          "meaning": "n. 文章段落"
+        },
+        {
+          "word": "phrase",
+          "meaning": "n. 短语、词组"
+        },
+        {
+          "word": "idiom",
+          "meaning": "n. 习语、俗语"
+        }
+      ],
       "forms": []
     },
     {
@@ -1796,7 +3987,20 @@
       "word": "cottage",
       "ipa": "/ˈkɒtɪdʒ/ /ˈkɑtɪdʒ/",
       "meaning": "n. 小屋、村舍",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "bungalow",
+          "meaning": "n. 平房"
+        },
+        {
+          "word": "cellar",
+          "meaning": "n. 地窖"
+        },
+        {
+          "word": "rural",
+          "meaning": "adj. 乡村的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1804,7 +4008,20 @@
       "word": "council",
       "ipa": "/ˈkaʊnsəl/",
       "meaning": "n. 委员会",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "conference",
+          "meaning": "n. 大型会议"
+        },
+        {
+          "word": "consensus",
+          "meaning": "n. 一致意见、共识"
+        },
+        {
+          "word": "administration",
+          "meaning": "n. 管理、行政部门"
+        }
+      ],
       "forms": []
     },
     {
@@ -1812,7 +4029,20 @@
       "word": "crayon",
       "ipa": "/ˈkreɪɒn/ /ˈkreɪɑn/",
       "meaning": "n. 蜡笔",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "ballpoint",
+          "meaning": "n. 圆珠笔"
+        },
+        {
+          "word": "sculpture",
+          "meaning": "n. 雕塑"
+        },
+        {
+          "word": "clay",
+          "meaning": "n. 黏土"
+        }
+      ],
       "forms": []
     },
     {
@@ -1820,7 +4050,20 @@
       "word": "criterion",
       "ipa": "/kraɪˈtɪəriən/ /kraɪˈtɪriən/",
       "meaning": "n. 标准、准则",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "scale",
+          "meaning": "n. 大小、规模、刻度"
+        },
+        {
+          "word": "valid",
+          "meaning": "adj. 有效的、合理的"
+        },
+        {
+          "word": "classify",
+          "meaning": "v. 分类"
+        }
+      ],
       "forms": [
         "criteria n."
       ]
@@ -1830,7 +4073,20 @@
       "word": "curriculum",
       "ipa": "/kəˈrɪkjʊləm/ /kəˈrɪkjələm/",
       "meaning": "n. 课程",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "dictation",
+          "meaning": "n. 听写"
+        },
+        {
+          "word": "arithmetic",
+          "meaning": "n. 算术"
+        },
+        {
+          "word": "elementary",
+          "meaning": "adj. 初级的、基础的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1838,7 +4094,20 @@
       "word": "diagram",
       "ipa": "/ˈdaɪəɡræm/",
       "meaning": "n. 示意图",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "rectangle",
+          "meaning": "n. 长方形"
+        },
+        {
+          "word": "oval",
+          "meaning": "n. 椭圆、adj. 椭圆形的"
+        },
+        {
+          "word": "geometry",
+          "meaning": "n. 几何学"
+        }
+      ],
       "forms": []
     },
     {
@@ -1846,7 +4115,20 @@
       "word": "dictation",
       "ipa": "/dɪkˈteɪʃən/",
       "meaning": "n. 听写",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "oral",
+          "meaning": "adj. 口头的"
+        },
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇"
+        },
+        {
+          "word": "punctuation",
+          "meaning": "n. 标点符号"
+        }
+      ],
       "forms": [
         "dictate v. n."
       ]
@@ -1856,7 +4138,20 @@
       "word": "dimension",
       "ipa": "/daɪˈmɛnʃən/ /dɪˈmɛnʃən/",
       "meaning": "n. 维度、尺寸、规模",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "scale",
+          "meaning": "n. 大小、规模、刻度"
+        },
+        {
+          "word": "volume",
+          "meaning": "n. 体积、容量、音量、大量"
+        },
+        {
+          "word": "quantity",
+          "meaning": "n. 数量"
+        }
+      ],
       "forms": [
         "dimensional adj."
       ]
@@ -1866,7 +4161,20 @@
       "word": "dinosaur",
       "ipa": "/ˈdaɪnəsɔː/ /ˈdaɪnəsor/",
       "meaning": "n. 恐龙",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "evolution",
+          "meaning": "n. 进化、演变"
+        },
+        {
+          "word": "primitive",
+          "meaning": "adj. 原始的、"
+        },
+        {
+          "word": "hibernate",
+          "meaning": "v. 冬眠"
+        }
+      ],
       "forms": []
     },
     {
@@ -1874,7 +4182,20 @@
       "word": "dioxide",
       "ipa": "/daɪˈɒksaɪd/ /daɪˈɑksaɪd/",
       "meaning": "n. 二氧化物",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "hydrogen",
+          "meaning": "n. 氢"
+        },
+        {
+          "word": "atom",
+          "meaning": "n. 原子"
+        },
+        {
+          "word": "acid",
+          "meaning": "n. 酸"
+        }
+      ],
       "forms": []
     },
     {
@@ -1882,7 +4203,20 @@
       "word": "diploma",
       "ipa": "/dɪˈpləʊmə/ /dɪˈploʊmə/",
       "meaning": "n. 文凭、证书",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "bachelor",
+          "meaning": "n. 本科学士、单身汉"
+        },
+        {
+          "word": "gown",
+          "meaning": "n. 长袍、长外衣、长裙"
+        },
+        {
+          "word": "curriculum",
+          "meaning": "n. 课程"
+        }
+      ],
       "forms": []
     },
     {
@@ -1890,7 +4224,20 @@
       "word": "directory",
       "ipa": "/dɪˈrɛktəri/",
       "meaning": "n. 目录、名录",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "appendix",
+          "meaning": "n. 附录"
+        },
+        {
+          "word": "personnel",
+          "meaning": "n. 全体人员、职员"
+        },
+        {
+          "word": "questionnaire",
+          "meaning": "n. 调查问卷"
+        }
+      ],
       "forms": []
     },
     {
@@ -1898,7 +4245,20 @@
       "word": "discrimination",
       "ipa": "/dɪskrɪmɪˈneɪʃən/ /dɪˌskrɪməˈneɪʃən/",
       "meaning": "n. 歧视",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "immigration",
+          "meaning": "n. 移民"
+        },
+        {
+          "word": "liberty",
+          "meaning": "n. 自由"
+        },
+        {
+          "word": "protest",
+          "meaning": "v. 抗议、反对"
+        }
+      ],
       "forms": [
         "discriminate v."
       ]
@@ -1908,7 +4268,20 @@
       "word": "domain",
       "ipa": "/ˌdəʊˈmeɪn/ /ˌdoʊˈmeɪn/",
       "meaning": "n. 领域",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "industry",
+          "meaning": "n. 工业、产业"
+        },
+        {
+          "word": "interface",
+          "meaning": "n. 人机交互界面"
+        },
+        {
+          "word": "circuit",
+          "meaning": "n. 电路、环形路线"
+        }
+      ],
       "forms": []
     },
     {
@@ -1916,7 +4289,20 @@
       "word": "dormitory",
       "ipa": "/ˈdɔːmɪtri/ /ˈdɔrmɪˌtɔri/",
       "meaning": "n. 学生宿舍",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "laundry",
+          "meaning": "n. 洗衣店"
+        },
+        {
+          "word": "lavatory",
+          "meaning": "n. 厕所"
+        },
+        {
+          "word": "cottage",
+          "meaning": "n. 小屋、村舍"
+        }
+      ],
       "forms": [
         "dorm n."
       ]
@@ -1926,7 +4312,20 @@
       "word": "drawback",
       "ipa": "/ˈdrɔːˌbæk/ /ˈdrɔˌbæk/",
       "meaning": "n. 缺点",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "interference",
+          "meaning": "n. 干扰、干涉、妨碍"
+        },
+        {
+          "word": "collision",
+          "meaning": "n. 碰撞、冲突"
+        },
+        {
+          "word": "friction",
+          "meaning": "n. 摩擦"
+        }
+      ],
       "forms": []
     },
     {
@@ -1934,7 +4333,20 @@
       "word": "embassy",
       "ipa": "/ˈɛmbəsi/",
       "meaning": "n. 大使馆",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "ambassador",
+          "meaning": "n. 大使"
+        },
+        {
+          "word": "visa",
+          "meaning": "n. 签证"
+        },
+        {
+          "word": "immigration",
+          "meaning": "n. 移民"
+        }
+      ],
       "forms": []
     },
     {
@@ -1942,7 +4354,20 @@
       "word": "emergency",
       "ipa": "/ɪˈmɜːdʒənsi/ /ɪˈmɜːrdʒənsi/",
       "meaning": "n. 紧急状况",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "catastrophe",
+          "meaning": "n. 灾祸"
+        },
+        {
+          "word": "abrupt",
+          "meaning": "adj. 突然的、意外的"
+        },
+        {
+          "word": "acute",
+          "meaning": "adj. 严重的、急性病的"
+        }
+      ],
       "forms": []
     },
     {
@@ -1950,7 +4375,20 @@
       "word": "emperor",
       "ipa": "/ˈɛmprə/ /ˈɛmprər/",
       "meaning": "n. 皇帝",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "empire",
+          "meaning": "n. 帝国"
+        },
+        {
+          "word": "premier",
+          "meaning": "n. 首相、总理"
+        },
+        {
+          "word": "statesman",
+          "meaning": "n. 政治家"
+        }
+      ],
       "forms": []
     },
     {
@@ -1958,7 +4396,20 @@
       "word": "empire",
       "ipa": "/ˈɛmpaɪə/ /ˈɛmˌpaɪr/",
       "meaning": "n. 帝国",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "emperor",
+          "meaning": "n. 皇帝"
+        },
+        {
+          "word": "federal",
+          "meaning": "adj. 联邦的"
+        },
+        {
+          "word": "premier",
+          "meaning": "n. 首相、总理"
+        }
+      ],
       "forms": []
     },
     {
@@ -1966,7 +4417,20 @@
       "word": "episode",
       "ipa": "/ˈɛpɪsəʊd/ /ˈɛpəsoʊd/",
       "meaning": "n. 电视剧的一集",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "preview",
+          "meaning": "v. 预览、预告"
+        },
+        {
+          "word": "version",
+          "meaning": "n. 版本"
+        },
+        {
+          "word": "caption",
+          "meaning": "n. 说明文字、字幕"
+        }
+      ],
       "forms": []
     },
     {
@@ -1974,7 +4438,20 @@
       "word": "estate",
       "ipa": "/ɪˈsteɪt/",
       "meaning": "n. 私有土地、庄园",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "bungalow",
+          "meaning": "n. 平房"
+        },
+        {
+          "word": "cottage",
+          "meaning": "n. 小屋、村舍"
+        },
+        {
+          "word": "acre",
+          "meaning": "n. 英亩"
+        }
+      ],
       "forms": []
     },
     {
@@ -1982,7 +4459,20 @@
       "word": "evolution",
       "ipa": "/ˌiːvəˈluːʃn/ /ˌɛvəˈluʃn/",
       "meaning": "n. 进化、演变",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "primitive",
+          "meaning": "adj. 原始的、"
+        },
+        {
+          "word": "dinosaur",
+          "meaning": "n. 恐龙"
+        },
+        {
+          "word": "revolution",
+          "meaning": "n. 革命、变革"
+        }
+      ],
       "forms": [
         "evolve v."
       ]
@@ -1992,7 +4482,20 @@
       "word": "fabric",
       "ipa": "/ˈfæbrɪk/",
       "meaning": "n. 纺织物、布料",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "nylon",
+          "meaning": "n. 尼龙"
+        },
+        {
+          "word": "wool",
+          "meaning": "n. 羊毛、羊绒"
+        },
+        {
+          "word": "garment",
+          "meaning": "n. 服装"
+        }
+      ],
       "forms": []
     },
     {
@@ -2000,7 +4503,20 @@
       "word": "feast",
       "ipa": "/ˈfiːst/",
       "meaning": "n. 盛宴",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        },
+        {
+          "word": "appetite",
+          "meaning": "n. 食欲、胃口"
+        },
+        {
+          "word": "porridge",
+          "meaning": "n. 粥"
+        }
+      ],
       "forms": []
     },
     {
@@ -2008,7 +4524,20 @@
       "word": "fibre",
       "ipa": "/ˈfaɪbə/",
       "meaning": "n. 纤维",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "nylon",
+          "meaning": "n. 尼龙"
+        },
+        {
+          "word": "fabric",
+          "meaning": "n. 纺织物、布料"
+        },
+        {
+          "word": "wool",
+          "meaning": "n. 羊毛、羊绒"
+        }
+      ],
       "forms": [
         "fiber n."
       ]
@@ -2018,7 +4547,20 @@
       "word": "fortnight",
       "ipa": "/ˈfɔːtnaɪt/ /ˈfɔrtnaɪt/",
       "meaning": "n. 两周、十四天",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "annual",
+          "meaning": "adj. 每年的、一年一度的"
+        },
+        {
+          "word": "anniversary",
+          "meaning": "n. 周年纪念日"
+        },
+        {
+          "word": "session",
+          "meaning": "n. 一场、一段时间、会议"
+        }
+      ],
       "forms": []
     },
     {
@@ -2026,7 +4568,20 @@
       "word": "freeway",
       "ipa": "/ˈfrɪjwɛj/ /ˈfriːweɪ/",
       "meaning": "n. 高速公路",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "tram",
+          "meaning": "n. 有轨电车"
+        },
+        {
+          "word": "trolley",
+          "meaning": "n. 手推车"
+        },
+        {
+          "word": "carriage",
+          "meaning": "n. 四轮马车"
+        }
+      ],
       "forms": []
     },
     {
@@ -2034,7 +4589,20 @@
       "word": "friction",
       "ipa": "/ˈfrɪkʃən/",
       "meaning": "n. 摩擦",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "collision",
+          "meaning": "n. 碰撞、冲突"
+        },
+        {
+          "word": "vibration",
+          "meaning": "n. 振动、摇摆"
+        },
+        {
+          "word": "interference",
+          "meaning": "n. 干扰、干涉、妨碍"
+        }
+      ],
       "forms": []
     },
     {
@@ -2042,7 +4610,20 @@
       "word": "frontier",
       "ipa": "/ˈfrʌntɪə/ /frʌnˈtɪr/",
       "meaning": "n. 前沿、前线",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "military",
+          "meaning": "adj. 军队的"
+        },
+        {
+          "word": "domain",
+          "meaning": "n. 领域"
+        },
+        {
+          "word": "horizon",
+          "meaning": "n. 地平线、眼界"
+        }
+      ],
       "forms": []
     },
     {
@@ -2050,7 +4631,20 @@
       "word": "frost",
       "ipa": "/frɒst/ /frɔst/",
       "meaning": "n. 霜",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "smog",
+          "meaning": "n. 烟雾、雾霾"
+        },
+        {
+          "word": "gale",
+          "meaning": "n. 强风"
+        },
+        {
+          "word": "typhoon",
+          "meaning": "n. 台风"
+        }
+      ],
       "forms": []
     },
     {
@@ -2058,7 +4652,20 @@
       "word": "gale",
       "ipa": "/ɡeɪl/",
       "meaning": "n. 强风",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "hurricane",
+          "meaning": "n. 飓风"
+        },
+        {
+          "word": "typhoon",
+          "meaning": "n. 台风"
+        },
+        {
+          "word": "frost",
+          "meaning": "n. 霜"
+        }
+      ],
       "forms": []
     },
     {
@@ -2066,7 +4673,20 @@
       "word": "gallon",
       "ipa": "/ˈɡælən/",
       "meaning": "n. 加仑",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "pint",
+          "meaning": "n. 品脱"
+        },
+        {
+          "word": "centimetre",
+          "meaning": "n. 厘米"
+        },
+        {
+          "word": "acre",
+          "meaning": "n. 英亩"
+        }
+      ],
       "forms": []
     },
     {
@@ -2074,7 +4694,20 @@
       "word": "garment",
       "ipa": "/ˈɡɑːmənt/ /ˈɡɑrmənt/",
       "meaning": "n. 服装",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "windbreaker",
+          "meaning": "n. 风衣"
+        },
+        {
+          "word": "vest",
+          "meaning": "n. 背心"
+        },
+        {
+          "word": "gown",
+          "meaning": "n. 长袍、长外衣、长裙"
+        }
+      ],
       "forms": []
     },
     {
@@ -2082,7 +4715,20 @@
       "word": "geography",
       "ipa": "/dʒiˈɒɡrəfi/ /dʒiˈɑɡrəfi/",
       "meaning": "n. 地理学",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "geometry",
+          "meaning": "n. 几何学"
+        },
+        {
+          "word": "astronomy",
+          "meaning": "n. 天文学"
+        },
+        {
+          "word": "horizon",
+          "meaning": "n. 地平线、眼界"
+        }
+      ],
       "forms": []
     },
     {
@@ -2090,7 +4736,20 @@
       "word": "geometry",
       "ipa": "/dʒiːˈɒmɪtri/ /dʒiˈɑmətri/",
       "meaning": "n. 几何学",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "algebra",
+          "meaning": "n. 代数"
+        },
+        {
+          "word": "arithmetic",
+          "meaning": "n. 算术"
+        },
+        {
+          "word": "geography",
+          "meaning": "n. 地理学"
+        }
+      ],
       "forms": []
     },
     {
@@ -2098,7 +4757,20 @@
       "word": "gown",
       "ipa": "/ˈɡaʊn/",
       "meaning": "n. 长袍、长外衣、长裙",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vest",
+          "meaning": "n. 背心"
+        },
+        {
+          "word": "garment",
+          "meaning": "n. 服装"
+        },
+        {
+          "word": "apron",
+          "meaning": "n. 围裙"
+        }
+      ],
       "forms": []
     },
     {
@@ -2106,7 +4778,20 @@
       "word": "grain",
       "ipa": "/ɡreɪn/",
       "meaning": "n. 谷物",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "agriculture",
+          "meaning": "n. 农业"
+        },
+        {
+          "word": "porridge",
+          "meaning": "n. 粥"
+        },
+        {
+          "word": "straw",
+          "meaning": "n. 稻草"
+        }
+      ],
       "forms": []
     },
     {
@@ -2114,7 +4799,20 @@
       "word": "gravity",
       "ipa": "/ˈɡrævɪti/",
       "meaning": "n. 重力、引力",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "orbit",
+          "meaning": "n. 天体的运行轨道"
+        },
+        {
+          "word": "revolve",
+          "meaning": "v. 旋转、环绕"
+        },
+        {
+          "word": "vibration",
+          "meaning": "n. 振动、摇摆"
+        }
+      ],
       "forms": []
     },
     {
@@ -2122,7 +4820,20 @@
       "word": "gruel",
       "ipa": "/ˈɡruːəl/",
       "meaning": "n. 粥",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "porridge",
+          "meaning": "n. 粥"
+        },
+        {
+          "word": "beancurd",
+          "meaning": "n. 豆腐"
+        },
+        {
+          "word": "bun",
+          "meaning": "n. 馒头、小面包"
+        }
+      ],
       "forms": []
     },
     {
@@ -2130,7 +4841,20 @@
       "word": "heap",
       "ipa": "/hiːp/",
       "meaning": "n. 一堆",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "bunch",
+          "meaning": "n. 一束、大量"
+        },
+        {
+          "word": "surplus",
+          "meaning": "n. 过剩、剩余"
+        },
+        {
+          "word": "quantity",
+          "meaning": "n. 数量"
+        }
+      ],
       "forms": []
     },
     {
@@ -2138,7 +4862,20 @@
       "word": "heel",
       "ipa": "/hiːl/ /hil/",
       "meaning": "n. 脚后跟",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "ankle",
+          "meaning": "n. 脚踝"
+        },
+        {
+          "word": "sneaker",
+          "meaning": "n. 运动鞋"
+        },
+        {
+          "word": "backache",
+          "meaning": "n. 后背痛"
+        }
+      ],
       "forms": []
     },
     {
@@ -2146,7 +4883,20 @@
       "word": "hive",
       "ipa": "/haɪv/",
       "meaning": "n. 蜂箱",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "locust",
+          "meaning": "n. 蝗虫"
+        },
+        {
+          "word": "dinosaur",
+          "meaning": "n. 恐龙"
+        },
+        {
+          "word": "hibernate",
+          "meaning": "v. 冬眠"
+        }
+      ],
       "forms": [
         "beehive n."
       ]
@@ -2156,7 +4906,20 @@
       "word": "hook",
       "ipa": "/hʊk/",
       "meaning": "n. 钩子",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "anchor",
+          "meaning": "n. 锚"
+        },
+        {
+          "word": "claw",
+          "meaning": "n. 爪子"
+        },
+        {
+          "word": "string",
+          "meaning": "n. 细线、琴弦、一连串"
+        }
+      ],
       "forms": []
     },
     {
@@ -2164,7 +4927,20 @@
       "word": "horizon",
       "ipa": "/həˈraɪzən/",
       "meaning": "n. 地平线、眼界",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "altitude",
+          "meaning": "n. 海拔高度"
+        },
+        {
+          "word": "frontier",
+          "meaning": "n. 前沿、前线"
+        },
+        {
+          "word": "horizontal",
+          "meaning": "adj. 水平的、横向的"
+        }
+      ],
       "forms": []
     },
     {
@@ -2172,7 +4948,20 @@
       "word": "hurricane",
       "ipa": "/ˈhʌrɪkən/ /ˈhʌrɪkeɪn/",
       "meaning": "n. 飓风",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "typhoon",
+          "meaning": "n. 台风"
+        },
+        {
+          "word": "gale",
+          "meaning": "n. 强风"
+        },
+        {
+          "word": "volcano",
+          "meaning": "n. 火山"
+        }
+      ],
       "forms": []
     },
     {
@@ -2180,7 +4969,20 @@
       "word": "hydrogen",
       "ipa": "/ˈhaɪdrədʒn/",
       "meaning": "n. 氢",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "dioxide",
+          "meaning": "n. 二氧化物"
+        },
+        {
+          "word": "atom",
+          "meaning": "n. 原子"
+        },
+        {
+          "word": "acid",
+          "meaning": "n. 酸"
+        }
+      ],
       "forms": []
     },
     {
@@ -2188,7 +4990,20 @@
       "word": "identity",
       "ipa": "/aɪˈdɛntɪti/ /aɪˈdɛnɪti/",
       "meaning": "n. 身份、特征",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "identical",
+          "meaning": "adj. 完全相同的"
+        },
+        {
+          "word": "authentic",
+          "meaning": "adj. 真正的、真品的"
+        },
+        {
+          "word": "visa",
+          "meaning": "n. 签证"
+        }
+      ],
       "forms": []
     },
     {
@@ -2196,7 +5011,20 @@
       "word": "idiom",
       "ipa": "/ˈɪdiəm/",
       "meaning": "n. 习语、俗语",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "phrase",
+          "meaning": "n. 短语、词组"
+        },
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇"
+        },
+        {
+          "word": "context",
+          "meaning": "n. 上下文、语境"
+        }
+      ],
       "forms": []
     },
     {
@@ -2204,7 +5032,20 @@
       "word": "immigration",
       "ipa": "/ɪmɪˈɡreɪʃn/ /ˌɪmɪˈɡreɪʃən/",
       "meaning": "n. 移民",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "visa",
+          "meaning": "n. 签证"
+        },
+        {
+          "word": "embassy",
+          "meaning": "n. 大使馆"
+        },
+        {
+          "word": "discrimination",
+          "meaning": "n. 歧视"
+        }
+      ],
       "forms": [
         "immigrate v."
       ]
@@ -2214,7 +5055,20 @@
       "word": "industry",
       "ipa": "/ˈɪndəstri/",
       "meaning": "n. 工业、产业",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "agriculture",
+          "meaning": "n. 农业"
+        },
+        {
+          "word": "mineral",
+          "meaning": "n. 矿物质"
+        },
+        {
+          "word": "export",
+          "meaning": "v. 出口、输出"
+        }
+      ],
       "forms": [
         "industrial adj."
       ]
@@ -2224,7 +5078,16 @@
       "word": "initiative",
       "ipa": "/ɪˈnɪʃətɪv/",
       "meaning": "n. 倡议",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "intervention",
+          "meaning": "n. 干预、干涉"
+        },
+        {
+          "word": "interference",
+          "meaning": "n. 干扰、干涉、妨碍"
+        }
+      ],
       "forms": []
     },
     {
@@ -2232,7 +5095,20 @@
       "word": "integrity",
       "ipa": "/ɪnˈtɛɡrəti/",
       "meaning": "n. 诚实、正直",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "conscience",
+          "meaning": "n. 良心、良知"
+        },
+        {
+          "word": "corrupt",
+          "meaning": "adj. 贪污的、腐败的"
+        },
+        {
+          "word": "genuine",
+          "meaning": "adj. 真正的"
+        }
+      ],
       "forms": []
     },
     {
@@ -2240,7 +5116,20 @@
       "word": "interface",
       "ipa": "/ˈɪntəfeɪs/ /ˈɪnərˌfeɪs/",
       "meaning": "n. 人机交互界面",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "modem",
+          "meaning": "n. 调制解调器"
+        },
+        {
+          "word": "circuit",
+          "meaning": "n. 电路、环形路线"
+        },
+        {
+          "word": "cordless",
+          "meaning": "adj. 无线的"
+        }
+      ],
       "forms": []
     },
     {
@@ -2248,7 +5137,20 @@
       "word": "interference",
       "ipa": "/ˌɪntəˈfɪərəns/ /ˌɪntərˈfɪrɪns/",
       "meaning": "n. 干扰、干涉、妨碍",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "intervention",
+          "meaning": "n. 干预、干涉"
+        },
+        {
+          "word": "collision",
+          "meaning": "n. 碰撞、冲突"
+        },
+        {
+          "word": "friction",
+          "meaning": "n. 摩擦"
+        }
+      ],
       "forms": [
         "interfere v."
       ]
@@ -2258,7 +5160,20 @@
       "word": "interval",
       "ipa": "/ˈɪntəvəl/ /ˈɪntərvəl/",
       "meaning": "n. 间歇、间隔",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "session",
+          "meaning": "n. 一场、一段时间、会议"
+        },
+        {
+          "word": "phase",
+          "meaning": "n. 阶段、时期"
+        },
+        {
+          "word": "fortnight",
+          "meaning": "n. 两周、十四天"
+        }
+      ],
       "forms": []
     },
     {
@@ -2266,7 +5181,20 @@
       "word": "intervention",
       "ipa": "/ɪntəˈvɛnʃən/ /ɪntərˈvɛnʃən/",
       "meaning": "n. 干预、干涉",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "interference",
+          "meaning": "n. 干扰、干涉、妨碍"
+        },
+        {
+          "word": "initiative",
+          "meaning": "n. 倡议"
+        },
+        {
+          "word": "administration",
+          "meaning": "n. 管理、行政部门"
+        }
+      ],
       "forms": [
         "intervene v."
       ]
@@ -2276,7 +5204,20 @@
       "word": "isolation",
       "ipa": "/ˌaɪsəˈleɪʃən/",
       "meaning": "n. 隔离、孤立",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "liberty",
+          "meaning": "n. 自由"
+        },
+        {
+          "word": "booth",
+          "meaning": "n. 单间、小隔间"
+        },
+        {
+          "word": "vacant",
+          "meaning": "adj. 空缺的、未被占用的"
+        }
+      ],
       "forms": [
         "isolate v."
       ]
@@ -2286,7 +5227,20 @@
       "word": "lantern",
       "ipa": "/ˈlæntən/ /ˈlæntərn/",
       "meaning": "n. 灯笼",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "beam",
+          "meaning": "n. 光束"
+        },
+        {
+          "word": "socket",
+          "meaning": "n. 电源插座"
+        },
+        {
+          "word": "thermos",
+          "meaning": "n. 热水瓶"
+        }
+      ],
       "forms": []
     },
     {
@@ -2294,7 +5248,20 @@
       "word": "latter",
       "ipa": "/ˈlætə/ /ˈlætər/",
       "meaning": "n. 后者",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "former",
+          "meaning": "adj. 以前的、前者"
+        },
+        {
+          "word": "subsequent",
+          "meaning": "adj. 随后的、后续的"
+        },
+        {
+          "word": "phase",
+          "meaning": "n. 阶段、时期"
+        }
+      ],
       "forms": []
     },
     {
@@ -2302,7 +5269,20 @@
       "word": "laundry",
       "ipa": "/ˈlɔːndri/",
       "meaning": "n. 洗衣店",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "lavatory",
+          "meaning": "n. 厕所"
+        },
+        {
+          "word": "broom",
+          "meaning": "n. 扫帚"
+        },
+        {
+          "word": "stain",
+          "meaning": "n. 污点、污渍"
+        }
+      ],
       "forms": []
     },
     {
@@ -2310,7 +5290,20 @@
       "word": "lavatory",
       "ipa": "/ˈlævətri/",
       "meaning": "n. 厕所",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "laundry",
+          "meaning": "n. 洗衣店"
+        },
+        {
+          "word": "cellar",
+          "meaning": "n. 地窖"
+        },
+        {
+          "word": "booth",
+          "meaning": "n. 单间、小隔间"
+        }
+      ],
       "forms": []
     },
     {
@@ -2318,7 +5311,20 @@
       "word": "liberty",
       "ipa": "/ˈlɪbəti/",
       "meaning": "n. 自由",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "interference",
+          "meaning": "n. 干扰、干涉、妨碍"
+        },
+        {
+          "word": "intervention",
+          "meaning": "n. 干预、干涉"
+        },
+        {
+          "word": "vice",
+          "meaning": "n. 邪恶、罪行"
+        }
+      ],
       "forms": []
     },
     {
@@ -2326,7 +5332,20 @@
       "word": "loaf",
       "ipa": "/ləʊf/ /loʊf/",
       "meaning": "n. 面包",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "bun",
+          "meaning": "n. 馒头、小面包"
+        },
+        {
+          "word": "gruel",
+          "meaning": "n. 粥"
+        },
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        }
+      ],
       "forms": []
     },
     {
@@ -2334,7 +5353,20 @@
       "word": "locust",
       "ipa": "/ˈləʊkəst/ /ˈloʊkəst/",
       "meaning": "n. 蝗虫",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "hive",
+          "meaning": "n. 蜂箱"
+        },
+        {
+          "word": "grain",
+          "meaning": "n. 谷物"
+        },
+        {
+          "word": "prairie",
+          "meaning": "n. 大草原"
+        }
+      ],
       "forms": []
     },
     {
@@ -2342,7 +5374,20 @@
       "word": "maple",
       "ipa": "/ˈmeɪpl/",
       "meaning": "n. 枫树",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "botany",
+          "meaning": "n. 植物学"
+        },
+        {
+          "word": "straw",
+          "meaning": "n. 稻草"
+        },
+        {
+          "word": "grain",
+          "meaning": "n. 谷物"
+        }
+      ],
       "forms": []
     },
     {
@@ -2350,7 +5395,20 @@
       "word": "marble",
       "ipa": "/ˈmɑːbəl/ /ˈmɑrbəl/",
       "meaning": "n. 大理石",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "clay",
+          "meaning": "n. 黏土"
+        },
+        {
+          "word": "sculpture",
+          "meaning": "n. 雕塑"
+        },
+        {
+          "word": "mineral",
+          "meaning": "n. 矿物质"
+        }
+      ],
       "forms": []
     },
     {
@@ -2358,7 +5416,20 @@
       "word": "mine",
       "ipa": "/maɪn/",
       "meaning": "n. 矿",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "mineral",
+          "meaning": "n. 矿物质"
+        },
+        {
+          "word": "marble",
+          "meaning": "n. 大理石"
+        },
+        {
+          "word": "clay",
+          "meaning": "n. 黏土"
+        }
+      ],
       "forms": []
     },
     {
@@ -2366,7 +5437,20 @@
       "word": "mineral",
       "ipa": "/ˈmɪnərəl/",
       "meaning": "n. 矿物质",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "mine",
+          "meaning": "n. 矿"
+        },
+        {
+          "word": "aluminium",
+          "meaning": "n. 铝"
+        },
+        {
+          "word": "acid",
+          "meaning": "n. 酸"
+        }
+      ],
       "forms": []
     },
     {
@@ -2374,7 +5458,20 @@
       "word": "modem",
       "ipa": "/ˈməʊdəm/ /ˈmoʊdəm/",
       "meaning": "n. 调制解调器",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "circuit",
+          "meaning": "n. 电路、环形路线"
+        },
+        {
+          "word": "interface",
+          "meaning": "n. 人机交互界面"
+        },
+        {
+          "word": "cassette",
+          "meaning": "n. 磁带"
+        }
+      ],
       "forms": []
     },
     {
@@ -2382,7 +5479,20 @@
       "word": "monument",
       "ipa": "/ˈmɒnjʊmənt/ /ˈmɑnjʊmənt/",
       "meaning": "n. 纪念碑",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "sculpture",
+          "meaning": "n. 雕塑"
+        },
+        {
+          "word": "pyramid",
+          "meaning": "n. 金字塔"
+        },
+        {
+          "word": "anniversary",
+          "meaning": "n. 周年纪念日"
+        }
+      ],
       "forms": []
     },
     {
@@ -2390,7 +5500,20 @@
       "word": "moustache",
       "ipa": "/məˈstɑːʃ/ /ˈmʌstæʃ/",
       "meaning": "n. 小胡子",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "gown",
+          "meaning": "n. 长袍、长外衣、长裙"
+        },
+        {
+          "word": "ankle",
+          "meaning": "n. 脚踝"
+        },
+        {
+          "word": "heel",
+          "meaning": "n. 脚后跟"
+        }
+      ],
       "forms": []
     },
     {
@@ -2398,7 +5521,20 @@
       "word": "mustard",
       "ipa": "/ˈmʌstərd/",
       "meaning": "n. 芥末",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vanilla",
+          "meaning": "n. 香草"
+        },
+        {
+          "word": "perfume",
+          "meaning": "n. 香水"
+        },
+        {
+          "word": "beancurd",
+          "meaning": "n. 豆腐"
+        }
+      ],
       "forms": []
     },
     {
@@ -2406,7 +5542,20 @@
       "word": "mutton",
       "ipa": "/ˈmʌtn/",
       "meaning": "n. 羊肉",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "veal",
+          "meaning": "n. 小牛肉"
+        },
+        {
+          "word": "butcher",
+          "meaning": "n. 屠夫"
+        },
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        }
+      ],
       "forms": []
     },
     {
@@ -2414,7 +5563,20 @@
       "word": "navy",
       "ipa": "/ˈneɪvi/",
       "meaning": "n. 海军",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "military",
+          "meaning": "adj. 军队的"
+        },
+        {
+          "word": "tanker",
+          "meaning": "n. 油轮"
+        },
+        {
+          "word": "offshore",
+          "meaning": "adj. 近海的、离岸的"
+        }
+      ],
       "forms": []
     },
     {
@@ -2422,7 +5584,20 @@
       "word": "nylon",
       "ipa": "/ˈnaɪlɒn/ /ˈnaɪlɑn/",
       "meaning": "n. 尼龙",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "fabric",
+          "meaning": "n. 纺织物、布料"
+        },
+        {
+          "word": "wool",
+          "meaning": "n. 羊毛、羊绒"
+        },
+        {
+          "word": "fibre",
+          "meaning": "n. 纤维"
+        }
+      ],
       "forms": []
     },
     {
@@ -2430,7 +5605,20 @@
       "word": "omelette",
       "ipa": "/ˈɒmlɪt/ /ˈɑmlət/",
       "meaning": "n. 蛋卷、蛋饼",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "porridge",
+          "meaning": "n. 粥"
+        },
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        },
+        {
+          "word": "beancurd",
+          "meaning": "n. 豆腐"
+        }
+      ],
       "forms": []
     },
     {
@@ -2438,7 +5626,20 @@
       "word": "optics",
       "ipa": "/ˈɒptɪks/ /ˈɑptɪks/",
       "meaning": "n. 光学",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "beam",
+          "meaning": "n. 光束"
+        },
+        {
+          "word": "visual",
+          "meaning": "adj. 视力的、视觉的"
+        },
+        {
+          "word": "transparent",
+          "meaning": "adj. 透明的、清澈的"
+        }
+      ],
       "forms": [
         "optical adj."
       ]
@@ -2448,7 +5649,20 @@
       "word": "orbit",
       "ipa": "/ˈɔːbɪt/ /ˈɔrbɪt/",
       "meaning": "n. 天体的运行轨道",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "astronomy",
+          "meaning": "n. 天文学"
+        },
+        {
+          "word": "lunar",
+          "meaning": "adj. 月亮的"
+        },
+        {
+          "word": "revolve",
+          "meaning": "v. 旋转、环绕"
+        }
+      ],
       "forms": []
     },
     {
@@ -2456,7 +5670,20 @@
       "word": "organ",
       "ipa": "/ˈɔːɡən/ /ˈorɡən/",
       "meaning": "n. 器官",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "pulse",
+          "meaning": "n. 脉搏"
+        },
+        {
+          "word": "tissue",
+          "meaning": "n. 纸巾、细胞组织"
+        },
+        {
+          "word": "bacteria",
+          "meaning": "n. 细菌"
+        }
+      ],
       "forms": []
     },
     {
@@ -2464,7 +5691,20 @@
       "word": "outcome",
       "ipa": "/ˈaʊtkʌm/",
       "meaning": "n. 结果、效果",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "tendency",
+          "meaning": "n. 倾向"
+        },
+        {
+          "word": "consensus",
+          "meaning": "n. 一致意见、共识"
+        },
+        {
+          "word": "sequence",
+          "meaning": "n. 序列、顺序"
+        }
+      ],
       "forms": []
     },
     {
@@ -2472,7 +5712,20 @@
       "word": "oval",
       "ipa": "/ˈəʊvəl/ /ˈoʊvəl/",
       "meaning": "n. 椭圆、adj. 椭圆形的",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "rectangle",
+          "meaning": "n. 长方形"
+        },
+        {
+          "word": "angle",
+          "meaning": "n. 角度"
+        },
+        {
+          "word": "diagram",
+          "meaning": "n. 示意图"
+        }
+      ],
       "forms": []
     },
     {
@@ -2480,7 +5733,20 @@
       "word": "paddle",
       "ipa": "/ˈpædl/",
       "meaning": "n. 船桨、v. 涉水",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "anchor",
+          "meaning": "n. 锚"
+        },
+        {
+          "word": "tanker",
+          "meaning": "n. 油轮"
+        },
+        {
+          "word": "strait",
+          "meaning": "n. 海峡"
+        }
+      ],
       "forms": []
     },
     {
@@ -2488,7 +5754,20 @@
       "word": "paragraph",
       "ipa": "/ˈpærəɡrɑːf/ /ˈpærəɡræf/",
       "meaning": "n. 文章段落",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "phrase",
+          "meaning": "n. 短语、词组"
+        },
+        {
+          "word": "context",
+          "meaning": "n. 上下文、语境"
+        },
+        {
+          "word": "punctuation",
+          "meaning": "n. 标点符号"
+        }
+      ],
       "forms": []
     },
     {
@@ -2496,7 +5775,20 @@
       "word": "pedestrian",
       "ipa": "/pəˈdɛstriən/",
       "meaning": "n. 行人",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "freeway",
+          "meaning": "n. 高速公路"
+        },
+        {
+          "word": "tram",
+          "meaning": "n. 有轨电车"
+        },
+        {
+          "word": "trolley",
+          "meaning": "n. 手推车"
+        }
+      ],
       "forms": []
     },
     {
@@ -2504,7 +5796,20 @@
       "word": "pension",
       "ipa": "/ˈpɛnʃən/",
       "meaning": "n. 养老金",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "welfare",
+          "meaning": "n. 幸福、福利"
+        },
+        {
+          "word": "wage",
+          "meaning": "n. 工资"
+        },
+        {
+          "word": "personnel",
+          "meaning": "n. 全体人员、职员"
+        }
+      ],
       "forms": []
     },
     {
@@ -2512,7 +5817,20 @@
       "word": "perfume",
       "ipa": "/ˈpɜːfjuːm/ /ˈpɜːrfjuːm/",
       "meaning": "n. 香水",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "fragrant",
+          "meaning": "adj. 芳香的"
+        },
+        {
+          "word": "vanilla",
+          "meaning": "n. 香草"
+        },
+        {
+          "word": "mustard",
+          "meaning": "n. 芥末"
+        }
+      ],
       "forms": []
     },
     {
@@ -2520,7 +5838,20 @@
       "word": "personnel",
       "ipa": "/pɜːsəˈnɛl/ /pɜːrsəˈnɛl/",
       "meaning": "n. 全体人员、职员",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "accountant",
+          "meaning": "n. 会计"
+        },
+        {
+          "word": "wage",
+          "meaning": "n. 工资"
+        },
+        {
+          "word": "administration",
+          "meaning": "n. 管理、行政部门"
+        }
+      ],
       "forms": []
     },
     {
@@ -2528,7 +5859,20 @@
       "word": "phase",
       "ipa": "/feɪz/",
       "meaning": "n. 阶段、时期",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "interval",
+          "meaning": "n. 间歇、间隔"
+        },
+        {
+          "word": "session",
+          "meaning": "n. 一场、一段时间、会议"
+        },
+        {
+          "word": "subsequent",
+          "meaning": "adj. 随后的、后续的"
+        }
+      ],
       "forms": []
     },
     {
@@ -2536,7 +5880,20 @@
       "word": "phenomenon",
       "ipa": "/fəˈnɒmɪnən/ /fəˈnɑməˌnɑn/",
       "meaning": "n. 现象",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "gravity",
+          "meaning": "n. 重力、引力"
+        },
+        {
+          "word": "optics",
+          "meaning": "n. 光学"
+        },
+        {
+          "word": "evolution",
+          "meaning": "n. 进化、演变"
+        }
+      ],
       "forms": [
         "phenomena n."
       ]
@@ -2546,7 +5903,20 @@
       "word": "phrase",
       "ipa": "/ˈfreɪz/",
       "meaning": "n. 短语、词组",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "idiom",
+          "meaning": "n. 习语、俗语"
+        },
+        {
+          "word": "paragraph",
+          "meaning": "n. 文章段落"
+        },
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇"
+        }
+      ],
       "forms": []
     },
     {
@@ -2554,7 +5924,20 @@
       "word": "pint",
       "ipa": "/paɪnt/",
       "meaning": "n. 品脱",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "gallon",
+          "meaning": "n. 加仑"
+        },
+        {
+          "word": "centimetre",
+          "meaning": "n. 厘米"
+        },
+        {
+          "word": "acre",
+          "meaning": "n. 英亩"
+        }
+      ],
       "forms": []
     },
     {
@@ -2562,7 +5945,20 @@
       "word": "porridge",
       "ipa": "/ˈpɒrɪdʒ/ /ˈpɔrɪdʒ/",
       "meaning": "n. 粥",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "gruel",
+          "meaning": "n. 粥"
+        },
+        {
+          "word": "beancurd",
+          "meaning": "n. 豆腐"
+        },
+        {
+          "word": "omelette",
+          "meaning": "n. 蛋卷、蛋饼"
+        }
+      ],
       "forms": []
     },
     {
@@ -2570,7 +5966,20 @@
       "word": "porter",
       "ipa": "/ˈpɔːtə/ /ˈpɔrtər/",
       "meaning": "n. 搬运工",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "trolley",
+          "meaning": "n. 手推车"
+        },
+        {
+          "word": "personnel",
+          "meaning": "n. 全体人员、职员"
+        },
+        {
+          "word": "wage",
+          "meaning": "n. 工资"
+        }
+      ],
       "forms": []
     },
     {
@@ -2578,7 +5987,20 @@
       "word": "prairie",
       "ipa": "/ˈprɛəri/",
       "meaning": "n. 大草原",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "rural",
+          "meaning": "adj. 乡村的"
+        },
+        {
+          "word": "agriculture",
+          "meaning": "n. 农业"
+        },
+        {
+          "word": "acre",
+          "meaning": "n. 英亩"
+        }
+      ],
       "forms": []
     },
     {
@@ -2586,7 +6008,20 @@
       "word": "premier",
       "ipa": "/ˈprɛmiːə/ /prɪˈmɪər/",
       "meaning": "n. 首相、总理",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "emperor",
+          "meaning": "n. 皇帝"
+        },
+        {
+          "word": "statesman",
+          "meaning": "n. 政治家"
+        },
+        {
+          "word": "ambassador",
+          "meaning": "n. 大使"
+        }
+      ],
       "forms": []
     },
     {
@@ -2594,7 +6029,20 @@
       "word": "prescription",
       "ipa": "/prəˈskrɪpʃən/",
       "meaning": "n. 处方、药方",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "bandage",
+          "meaning": "n. 绷带"
+        },
+        {
+          "word": "acute",
+          "meaning": "adj. 严重的、急性病的"
+        },
+        {
+          "word": "backache",
+          "meaning": "n. 后背痛"
+        }
+      ],
       "forms": []
     },
     {
@@ -2602,7 +6050,20 @@
       "word": "profession",
       "ipa": "/prəˈfɛʃən/",
       "meaning": "n. 职业",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "accountant",
+          "meaning": "n. 会计"
+        },
+        {
+          "word": "carpenter",
+          "meaning": "n. 木匠"
+        },
+        {
+          "word": "personnel",
+          "meaning": "n. 全体人员、职员"
+        }
+      ],
       "forms": []
     },
     {
@@ -2610,7 +6071,20 @@
       "word": "prosperity",
       "ipa": "/prɒˈspɛrɪti/ /prɑˈspɛrɪti/",
       "meaning": "n. 繁荣",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "luxury",
+          "meaning": "n. 奢侈、奢华"
+        },
+        {
+          "word": "welfare",
+          "meaning": "n. 幸福、福利"
+        },
+        {
+          "word": "surplus",
+          "meaning": "n. 过剩、剩余"
+        }
+      ],
       "forms": [
         "prosperous adj.",
         "prospect n. v."
@@ -2621,7 +6095,20 @@
       "word": "pulse",
       "ipa": "/pʌls/",
       "meaning": "n. 脉搏",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "organ",
+          "meaning": "n. 器官"
+        },
+        {
+          "word": "tissue",
+          "meaning": "n. 纸巾、细胞组织"
+        },
+        {
+          "word": "ankle",
+          "meaning": "n. 脚踝"
+        }
+      ],
       "forms": []
     },
     {
@@ -2629,7 +6116,20 @@
       "word": "pump",
       "ipa": "/pʌmp/",
       "meaning": "n. 抽水机、水泵",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "thermos",
+          "meaning": "n. 热水瓶"
+        },
+        {
+          "word": "tanker",
+          "meaning": "n. 油轮"
+        },
+        {
+          "word": "socket",
+          "meaning": "n. 电源插座"
+        }
+      ],
       "forms": []
     },
     {
@@ -2637,7 +6137,20 @@
       "word": "punctuation",
       "ipa": "/ˌpʌŋktʃuˈeɪʃən/",
       "meaning": "n. 标点符号",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "alphabet",
+          "meaning": "n. 字母"
+        },
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇"
+        },
+        {
+          "word": "dictation",
+          "meaning": "n. 听写"
+        }
+      ],
       "forms": [
         "punctuate v."
       ]
@@ -2647,7 +6160,20 @@
       "word": "pyramid",
       "ipa": "/ˈpɪrəmɪd/",
       "meaning": "n. 金字塔",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "monument",
+          "meaning": "n. 纪念碑"
+        },
+        {
+          "word": "emperor",
+          "meaning": "n. 皇帝"
+        },
+        {
+          "word": "arch",
+          "meaning": "n. 拱门"
+        }
+      ],
       "forms": []
     },
     {
@@ -2655,7 +6181,20 @@
       "word": "quantity",
       "ipa": "/ˈkwɒntɪti/ /ˈkwɑnɪti/",
       "meaning": "n. 数量",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "scale",
+          "meaning": "n. 大小、规模、刻度"
+        },
+        {
+          "word": "volume",
+          "meaning": "n. 体积、容量、音量、大量"
+        },
+        {
+          "word": "surplus",
+          "meaning": "n. 过剩、剩余"
+        }
+      ],
       "forms": []
     },
     {
@@ -2663,7 +6202,20 @@
       "word": "questionnaire",
       "ipa": "/ˌkɛstʃəˈnɛə/ /ˌkwɛstʃəˈnɛr/",
       "meaning": "n. 调查问卷",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "brochure",
+          "meaning": "n. 广告手册"
+        },
+        {
+          "word": "directory",
+          "meaning": "n. 目录、名录"
+        },
+        {
+          "word": "consensus",
+          "meaning": "n. 一致意见、共识"
+        }
+      ],
       "forms": []
     },
     {
@@ -2671,7 +6223,20 @@
       "word": "radiation",
       "ipa": "/ˌreɪdiˈeɪʃən/",
       "meaning": "n. 辐射、放射线",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "radioactive",
+          "meaning": "adj. 放射性的"
+        },
+        {
+          "word": "nuclear",
+          "meaning": "adj. 核能的"
+        },
+        {
+          "word": "atom",
+          "meaning": "n. 原子"
+        }
+      ],
       "forms": []
     },
     {
@@ -2679,7 +6244,20 @@
       "word": "rectangle",
       "ipa": "/ˈrɛktæŋɡl/",
       "meaning": "n. 长方形",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "oval",
+          "meaning": "n. 椭圆、adj. 椭圆形的"
+        },
+        {
+          "word": "angle",
+          "meaning": "n. 角度"
+        },
+        {
+          "word": "dimension",
+          "meaning": "n. 维度、尺寸、规模"
+        }
+      ],
       "forms": []
     },
     {
@@ -2687,7 +6265,20 @@
       "word": "relay",
       "ipa": "/ˈriːleɪ/",
       "meaning": "n. 接力、v. 中转",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "badminton",
+          "meaning": "n. 羽毛球"
+        },
+        {
+          "word": "rugby",
+          "meaning": "n. 橄榄球"
+        },
+        {
+          "word": "telegraph",
+          "meaning": "n. 电报"
+        }
+      ],
       "forms": []
     },
     {
@@ -2695,7 +6286,20 @@
       "word": "religion",
       "ipa": "/rɪˈlɪdʒən/",
       "meaning": "n. 宗教",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "catholic",
+          "meaning": "adj. 天主教的"
+        },
+        {
+          "word": "buddhism",
+          "meaning": "n. 佛教"
+        },
+        {
+          "word": "bishop",
+          "meaning": "n. 主教"
+        }
+      ],
       "forms": [
         "religious adj."
       ]
@@ -2705,7 +6309,20 @@
       "word": "revolution",
       "ipa": "/ˌrɛvəˈluːʃən/",
       "meaning": "n. 革命、变革",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "evolution",
+          "meaning": "n. 进化、演变"
+        },
+        {
+          "word": "breakthrough",
+          "meaning": "n. 重大进展、突破"
+        },
+        {
+          "word": "liberty",
+          "meaning": "n. 自由"
+        }
+      ],
       "forms": []
     },
     {
@@ -2713,7 +6330,20 @@
       "word": "rhyme",
       "ipa": "/raɪm/",
       "meaning": "n. 押韵",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "idiom",
+          "meaning": "n. 习语、俗语"
+        },
+        {
+          "word": "vocabulary",
+          "meaning": "n. 词汇"
+        },
+        {
+          "word": "alphabet",
+          "meaning": "n. 字母"
+        }
+      ],
       "forms": []
     },
     {
@@ -2721,7 +6351,20 @@
       "word": "rugby",
       "ipa": "/ˈrʌɡbi/",
       "meaning": "n. 橄榄球",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "badminton",
+          "meaning": "n. 羽毛球"
+        },
+        {
+          "word": "sneaker",
+          "meaning": "n. 运动鞋"
+        },
+        {
+          "word": "wrestle",
+          "meaning": "v. 摔跤"
+        }
+      ],
       "forms": []
     },
     {
@@ -2729,7 +6372,20 @@
       "word": "savage",
       "ipa": "/ˈsævɪdʒ/",
       "meaning": "n. 野蛮人",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "primitive",
+          "meaning": "adj. 原始的、"
+        },
+        {
+          "word": "vice",
+          "meaning": "n. 邪恶、罪行"
+        },
+        {
+          "word": "wrestle",
+          "meaning": "v. 摔跤"
+        }
+      ],
       "forms": []
     },
     {
@@ -2737,7 +6393,20 @@
       "word": "scale",
       "ipa": "/skeɪl/",
       "meaning": "n. 大小、规模、刻度",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "dimension",
+          "meaning": "n. 维度、尺寸、规模"
+        },
+        {
+          "word": "quantity",
+          "meaning": "n. 数量"
+        },
+        {
+          "word": "volume",
+          "meaning": "n. 体积、容量、音量、大量"
+        }
+      ],
       "forms": []
     },
     {
@@ -2745,7 +6414,20 @@
       "word": "sculpture",
       "ipa": "/ˈskʌlptjə/ /ˈskʌlptʃər/",
       "meaning": "n. 雕塑",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "monument",
+          "meaning": "n. 纪念碑"
+        },
+        {
+          "word": "marble",
+          "meaning": "n. 大理石"
+        },
+        {
+          "word": "clay",
+          "meaning": "n. 黏土"
+        }
+      ],
       "forms": []
     },
     {
@@ -2753,7 +6435,20 @@
       "word": "section",
       "ipa": "/ˈsɛkʃən/",
       "meaning": "n. 一段、部分",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "component",
+          "meaning": "n. 组成部分、部件"
+        },
+        {
+          "word": "paragraph",
+          "meaning": "n. 文章段落"
+        },
+        {
+          "word": "phrase",
+          "meaning": "n. 短语、词组"
+        }
+      ],
       "forms": []
     },
     {
@@ -2761,7 +6456,20 @@
       "word": "sequence",
       "ipa": "/ˈsiːkwəns/ /ˈsikwəns/",
       "meaning": "n. 序列、顺序",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "interval",
+          "meaning": "n. 间歇、间隔"
+        },
+        {
+          "word": "phase",
+          "meaning": "n. 阶段、时期"
+        },
+        {
+          "word": "subsequent",
+          "meaning": "adj. 随后的、后续的"
+        }
+      ],
       "forms": [
         "sequent adj."
       ]
@@ -2771,7 +6479,20 @@
       "word": "session",
       "ipa": "/ˈsɛʃən/",
       "meaning": "n. 一场、一段时间、会议",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "conference",
+          "meaning": "n. 大型会议"
+        },
+        {
+          "word": "interval",
+          "meaning": "n. 间歇、间隔"
+        },
+        {
+          "word": "phase",
+          "meaning": "n. 阶段、时期"
+        }
+      ],
       "forms": []
     },
     {
@@ -2779,7 +6500,20 @@
       "word": "smog",
       "ipa": "/smɒɡ/ /smɑɡ/",
       "meaning": "n. 烟雾、雾霾",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "frost",
+          "meaning": "n. 霜"
+        },
+        {
+          "word": "chimney",
+          "meaning": "n. 烟囱"
+        },
+        {
+          "word": "transparent",
+          "meaning": "adj. 透明的、清澈的"
+        }
+      ],
       "forms": []
     },
     {
@@ -2787,7 +6521,20 @@
       "word": "snackbar",
       "ipa": "/ˈsnækbɑː/ /ˈsnækbɑr/",
       "meaning": "n. 快餐店",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        },
+        {
+          "word": "booth",
+          "meaning": "n. 单间、小隔间"
+        },
+        {
+          "word": "feast",
+          "meaning": "n. 盛宴"
+        }
+      ],
       "forms": []
     },
     {
@@ -2795,7 +6542,20 @@
       "word": "sneaker",
       "ipa": "/ˈsnikər/",
       "meaning": "n. 运动鞋",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "heel",
+          "meaning": "n. 脚后跟"
+        },
+        {
+          "word": "badminton",
+          "meaning": "n. 羽毛球"
+        },
+        {
+          "word": "rugby",
+          "meaning": "n. 橄榄球"
+        }
+      ],
       "forms": []
     },
     {
@@ -2803,7 +6563,20 @@
       "word": "socket",
       "ipa": "/ˈsɒkɪt/ /ˈsɑkɪt/",
       "meaning": "n. 电源插座",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "circuit",
+          "meaning": "n. 电路、环形路线"
+        },
+        {
+          "word": "modem",
+          "meaning": "n. 调制解调器"
+        },
+        {
+          "word": "cordless",
+          "meaning": "adj. 无线的"
+        }
+      ],
       "forms": []
     },
     {
@@ -2811,7 +6584,16 @@
       "word": "spray",
       "ipa": "/spreɪ/",
       "meaning": "n. 喷雾、v. 喷洒",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "perfume",
+          "meaning": "n. 香水"
+        },
+        {
+          "word": "smog",
+          "meaning": "n. 烟雾、雾霾"
+        }
+      ],
       "forms": []
     },
     {
@@ -2819,7 +6601,20 @@
       "word": "stain",
       "ipa": "/steɪn/",
       "meaning": "n. 污点、污渍",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "laundry",
+          "meaning": "n. 洗衣店"
+        },
+        {
+          "word": "scratch",
+          "meaning": "n. 划痕、v. 划伤"
+        },
+        {
+          "word": "polish",
+          "meaning": "v. 抛光、打磨"
+        }
+      ],
       "forms": [
         "stainless adj."
       ]
@@ -2829,7 +6624,20 @@
       "word": "starvation",
       "ipa": "/stɑːˈveɪʃən/ /stɑrˈveɪʃən/",
       "meaning": "n. 饥荒",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "appetite",
+          "meaning": "n. 食欲、胃口"
+        },
+        {
+          "word": "welfare",
+          "meaning": "n. 幸福、福利"
+        },
+        {
+          "word": "catastrophe",
+          "meaning": "n. 灾祸"
+        }
+      ],
       "forms": []
     },
     {
@@ -2837,7 +6645,20 @@
       "word": "statesman",
       "ipa": "/ˈsteɪtsmən/",
       "meaning": "n. 政治家",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "premier",
+          "meaning": "n. 首相、总理"
+        },
+        {
+          "word": "emperor",
+          "meaning": "n. 皇帝"
+        },
+        {
+          "word": "ambassador",
+          "meaning": "n. 大使"
+        }
+      ],
       "forms": []
     },
     {
@@ -2845,7 +6666,20 @@
       "word": "stepmother",
       "ipa": "/ˈstɛpmʌðə/",
       "meaning": "n. 继母",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "anecdote",
+          "meaning": "n. 逸事、趣闻"
+        },
+        {
+          "word": "episode",
+          "meaning": "n. 电视剧的一集"
+        },
+        {
+          "word": "adolescence",
+          "meaning": "n. 青春、青春期"
+        }
+      ],
       "forms": []
     },
     {
@@ -2853,7 +6687,20 @@
       "word": "steward",
       "ipa": "/ˈstjuːəːd/ /ˈstuərd/",
       "meaning": "n. 乘务员",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "porter",
+          "meaning": "n. 搬运工"
+        },
+        {
+          "word": "personnel",
+          "meaning": "n. 全体人员、职员"
+        },
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        }
+      ],
       "forms": [
         "stewardess n."
       ]
@@ -2863,7 +6710,20 @@
       "word": "strait",
       "ipa": "/streɪt/",
       "meaning": "n. 海峡",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "offshore",
+          "meaning": "adj. 近海的、离岸的"
+        },
+        {
+          "word": "inland",
+          "meaning": "adj. 内陆的"
+        },
+        {
+          "word": "navy",
+          "meaning": "n. 海军"
+        }
+      ],
       "forms": []
     },
     {
@@ -2871,7 +6731,20 @@
       "word": "straw",
       "ipa": "/strɔː/ /strɔ/",
       "meaning": "n. 稻草",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "grain",
+          "meaning": "n. 谷物"
+        },
+        {
+          "word": "maple",
+          "meaning": "n. 枫树"
+        },
+        {
+          "word": "prairie",
+          "meaning": "n. 大草原"
+        }
+      ],
       "forms": []
     },
     {
@@ -2879,7 +6752,20 @@
       "word": "string",
       "ipa": "/strɪŋ/",
       "meaning": "n. 细线、琴弦、一连串",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "hook",
+          "meaning": "n. 钩子"
+        },
+        {
+          "word": "symphony",
+          "meaning": "n. 交响乐"
+        },
+        {
+          "word": "bind",
+          "meaning": "v. 捆绑、绑定"
+        }
+      ],
       "forms": []
     },
     {
@@ -2887,7 +6773,20 @@
       "word": "substance",
       "ipa": "/ˈsʌbstəns/",
       "meaning": "n. 物质、实质",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "mineral",
+          "meaning": "n. 矿物质"
+        },
+        {
+          "word": "acid",
+          "meaning": "n. 酸"
+        },
+        {
+          "word": "component",
+          "meaning": "n. 组成部分、部件"
+        }
+      ],
       "forms": [
         "substantial adj."
       ]
@@ -2897,7 +6796,20 @@
       "word": "subtract",
       "ipa": "/səbˈtrækt/",
       "meaning": "v. 减去",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "algebra",
+          "meaning": "n. 代数"
+        },
+        {
+          "word": "arithmetic",
+          "meaning": "n. 算术"
+        },
+        {
+          "word": "geometry",
+          "meaning": "n. 几何学"
+        }
+      ],
       "forms": [
         "subtraction n."
       ]
@@ -2907,7 +6819,20 @@
       "word": "surplus",
       "ipa": "/ˈsɜːpləs/ /ˈsɜːrˌplʌs/",
       "meaning": "n. 过剩、剩余",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "quantity",
+          "meaning": "n. 数量"
+        },
+        {
+          "word": "heap",
+          "meaning": "n. 一堆"
+        },
+        {
+          "word": "ample",
+          "meaning": "adj. 充足的、丰裕的"
+        }
+      ],
       "forms": []
     },
     {
@@ -2915,7 +6840,16 @@
       "word": "suspend",
       "ipa": "/səsˈpɛnd/",
       "meaning": "v. 暂停、悬浮",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "abolish",
+          "meaning": "v. 废除、废止"
+        },
+        {
+          "word": "static",
+          "meaning": "adj. 静态的"
+        }
+      ],
       "forms": [
         "suspension n."
       ]
@@ -2925,7 +6859,20 @@
       "word": "symphony",
       "ipa": "/ˈsɪmfəni/",
       "meaning": "n. 交响乐",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "choir",
+          "meaning": "n. 合唱团"
+        },
+        {
+          "word": "rhyme",
+          "meaning": "n. 押韵"
+        },
+        {
+          "word": "string",
+          "meaning": "n. 细线、琴弦、一连串"
+        }
+      ],
       "forms": []
     },
     {
@@ -2933,7 +6880,20 @@
       "word": "tanker",
       "ipa": "/ˈtæŋkə/ /ˈtæŋkər/",
       "meaning": "n. 油轮",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "navy",
+          "meaning": "n. 海军"
+        },
+        {
+          "word": "offshore",
+          "meaning": "adj. 近海的、离岸的"
+        },
+        {
+          "word": "pump",
+          "meaning": "n. 抽水机、水泵"
+        }
+      ],
       "forms": []
     },
     {
@@ -2941,7 +6901,20 @@
       "word": "telescope",
       "ipa": "/ˈtɛlɪskəʊp/ /ˈtɛləˌskoʊp/",
       "meaning": "n. 望远镜",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "astronomy",
+          "meaning": "n. 天文学"
+        },
+        {
+          "word": "orbit",
+          "meaning": "n. 天体的运行轨道"
+        },
+        {
+          "word": "horizon",
+          "meaning": "n. 地平线、眼界"
+        }
+      ],
       "forms": []
     },
     {
@@ -2949,7 +6922,20 @@
       "word": "temptation",
       "ipa": "/ˌtɛmpˈteɪʃən/",
       "meaning": "n. 诱惑",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "vice",
+          "meaning": "n. 邪恶、罪行"
+        },
+        {
+          "word": "appetite",
+          "meaning": "n. 食欲、胃口"
+        },
+        {
+          "word": "conscience",
+          "meaning": "n. 良心、良知"
+        }
+      ],
       "forms": []
     },
     {
@@ -2957,7 +6943,20 @@
       "word": "tendency",
       "ipa": "/ˈtɛndənsi/",
       "meaning": "n. 倾向",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "outcome",
+          "meaning": "n. 结果、效果"
+        },
+        {
+          "word": "phase",
+          "meaning": "n. 阶段、时期"
+        },
+        {
+          "word": "evolution",
+          "meaning": "n. 进化、演变"
+        }
+      ],
       "forms": []
     },
     {
@@ -2965,7 +6964,20 @@
       "word": "thermos",
       "ipa": "/ˈθɜːmɒs/ /ˈθɜːrməs/",
       "meaning": "n. 热水瓶",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "pump",
+          "meaning": "n. 抽水机、水泵"
+        },
+        {
+          "word": "tanker",
+          "meaning": "n. 油轮"
+        },
+        {
+          "word": "portable",
+          "meaning": "adj. 便携的"
+        }
+      ],
       "forms": []
     },
     {
@@ -2973,7 +6985,20 @@
       "word": "tissue",
       "ipa": "/ˈtɪsjuː/ /ˈtɪʃu/",
       "meaning": "n. 纸巾、细胞组织",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "organ",
+          "meaning": "n. 器官"
+        },
+        {
+          "word": "bacteria",
+          "meaning": "n. 细菌"
+        },
+        {
+          "word": "laundry",
+          "meaning": "n. 洗衣店"
+        }
+      ],
       "forms": []
     },
     {
@@ -2981,7 +7006,20 @@
       "word": "tram",
       "ipa": "/tram/ /træm/",
       "meaning": "n. 有轨电车",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "trolley",
+          "meaning": "n. 手推车"
+        },
+        {
+          "word": "carriage",
+          "meaning": "n. 四轮马车"
+        },
+        {
+          "word": "freeway",
+          "meaning": "n. 高速公路"
+        }
+      ],
       "forms": []
     },
     {
@@ -2989,7 +7027,20 @@
       "word": "trolley",
       "ipa": "/ˈtrɒli/ /ˈtrɑli/",
       "meaning": "n. 手推车",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "tram",
+          "meaning": "n. 有轨电车"
+        },
+        {
+          "word": "carriage",
+          "meaning": "n. 四轮马车"
+        },
+        {
+          "word": "porter",
+          "meaning": "n. 搬运工"
+        }
+      ],
       "forms": []
     },
     {
@@ -2997,7 +7048,20 @@
       "word": "typhoon",
       "ipa": "/taɪˈfuːn/ /taɪˈfun/",
       "meaning": "n. 台风",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "hurricane",
+          "meaning": "n. 飓风"
+        },
+        {
+          "word": "gale",
+          "meaning": "n. 强风"
+        },
+        {
+          "word": "volcano",
+          "meaning": "n. 火山"
+        }
+      ],
       "forms": []
     },
     {
@@ -3005,7 +7069,20 @@
       "word": "vanilla",
       "ipa": "/vəˈnɪlə/",
       "meaning": "n. 香草",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "perfume",
+          "meaning": "n. 香水"
+        },
+        {
+          "word": "mustard",
+          "meaning": "n. 芥末"
+        },
+        {
+          "word": "fragrant",
+          "meaning": "adj. 芳香的"
+        }
+      ],
       "forms": []
     },
     {
@@ -3013,7 +7090,20 @@
       "word": "veal",
       "ipa": "/viːl/",
       "meaning": "n. 小牛肉",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "mutton",
+          "meaning": "n. 羊肉"
+        },
+        {
+          "word": "butcher",
+          "meaning": "n. 屠夫"
+        },
+        {
+          "word": "buffet",
+          "meaning": "n. 自助餐"
+        }
+      ],
       "forms": []
     },
     {
@@ -3021,7 +7111,20 @@
       "word": "venue",
       "ipa": "/ˈvɛnjuː/",
       "meaning": "n. 地点、场所",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "conference",
+          "meaning": "n. 大型会议"
+        },
+        {
+          "word": "estate",
+          "meaning": "n. 私有土地、庄园"
+        },
+        {
+          "word": "booth",
+          "meaning": "n. 单间、小隔间"
+        }
+      ],
       "forms": []
     },
     {
@@ -3029,7 +7132,20 @@
       "word": "version",
       "ipa": "/ˈvɜːʒn/ /ˈvɜːrʒən/",
       "meaning": "n. 版本",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "episode",
+          "meaning": "n. 电视剧的一集"
+        },
+        {
+          "word": "preview",
+          "meaning": "v. 预览、预告"
+        },
+        {
+          "word": "caption",
+          "meaning": "n. 说明文字、字幕"
+        }
+      ],
       "forms": []
     },
     {
@@ -3037,7 +7153,20 @@
       "word": "vest",
       "ipa": "/vɛst/",
       "meaning": "n. 背心",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "blouse",
+          "meaning": "n. 女式短上衣"
+        },
+        {
+          "word": "garment",
+          "meaning": "n. 服装"
+        },
+        {
+          "word": "apron",
+          "meaning": "n. 围裙"
+        }
+      ],
       "forms": []
     },
     {
@@ -3045,7 +7174,20 @@
       "word": "vibration",
       "ipa": "/vaɪˈbreɪʃən/",
       "meaning": "n. 振动、摇摆",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "quake",
+          "meaning": "v. 震动、颤抖"
+        },
+        {
+          "word": "wag",
+          "meaning": "v. 摇动、摇摆"
+        },
+        {
+          "word": "static",
+          "meaning": "adj. 静态的"
+        }
+      ],
       "forms": [
         "vibrate v."
       ]
@@ -3055,7 +7197,20 @@
       "word": "vice",
       "ipa": "/vaɪs/",
       "meaning": "n. 邪恶、罪行",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "corrupt",
+          "meaning": "adj. 贪污的、腐败的"
+        },
+        {
+          "word": "conscience",
+          "meaning": "n. 良心、良知"
+        },
+        {
+          "word": "murder",
+          "meaning": "v. 谋杀"
+        }
+      ],
       "forms": []
     },
     {
@@ -3063,7 +7218,20 @@
       "word": "victim",
       "ipa": "/ˈvɪktɪm/",
       "meaning": "n. 受害者、牺牲品",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "murder",
+          "meaning": "v. 谋杀"
+        },
+        {
+          "word": "burglar",
+          "meaning": "n. 窃贼"
+        },
+        {
+          "word": "catastrophe",
+          "meaning": "n. 灾祸"
+        }
+      ],
       "forms": []
     },
     {
@@ -3071,7 +7239,20 @@
       "word": "visa",
       "ipa": "/ˈviːzə/",
       "meaning": "n. 签证",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "embassy",
+          "meaning": "n. 大使馆"
+        },
+        {
+          "word": "immigration",
+          "meaning": "n. 移民"
+        },
+        {
+          "word": "identity",
+          "meaning": "n. 身份、特征"
+        }
+      ],
       "forms": []
     },
     {
@@ -3079,7 +7260,20 @@
       "word": "vocabulary",
       "ipa": "/vəˈkæbjələri/ /voʊˈkæbjəˌlɛri/",
       "meaning": "n. 词汇",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "idiom",
+          "meaning": "n. 习语、俗语"
+        },
+        {
+          "word": "alphabet",
+          "meaning": "n. 字母"
+        },
+        {
+          "word": "phrase",
+          "meaning": "n. 短语、词组"
+        }
+      ],
       "forms": []
     },
     {
@@ -3087,7 +7281,20 @@
       "word": "volcano",
       "ipa": "/vɒlˈkeɪnəʊ/ /vɑlˈkeɪnoʊ/",
       "meaning": "n. 火山",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "quake",
+          "meaning": "v. 震动、颤抖"
+        },
+        {
+          "word": "hurricane",
+          "meaning": "n. 飓风"
+        },
+        {
+          "word": "typhoon",
+          "meaning": "n. 台风"
+        }
+      ],
       "forms": []
     },
     {
@@ -3095,7 +7302,20 @@
       "word": "volume",
       "ipa": "/ˈvɒljuːm/ /ˈvɑljum/",
       "meaning": "n. 体积、容量、音量、大量",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "quantity",
+          "meaning": "n. 数量"
+        },
+        {
+          "word": "scale",
+          "meaning": "n. 大小、规模、刻度"
+        },
+        {
+          "word": "dimension",
+          "meaning": "n. 维度、尺寸、规模"
+        }
+      ],
       "forms": []
     },
     {
@@ -3103,7 +7323,20 @@
       "word": "wage",
       "ipa": "/weɪdʒ/",
       "meaning": "n. 工资",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "pension",
+          "meaning": "n. 养老金"
+        },
+        {
+          "word": "bid",
+          "meaning": "v. 出价"
+        },
+        {
+          "word": "accountant",
+          "meaning": "n. 会计"
+        }
+      ],
       "forms": []
     },
     {
@@ -3111,7 +7344,20 @@
       "word": "welfare",
       "ipa": "/ˈwɛlˌfɛə/ /ˈwɛlˌfɛər/",
       "meaning": "n. 幸福、福利",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "pension",
+          "meaning": "n. 养老金"
+        },
+        {
+          "word": "liberty",
+          "meaning": "n. 自由"
+        },
+        {
+          "word": "prosperity",
+          "meaning": "n. 繁荣"
+        }
+      ],
       "forms": []
     },
     {
@@ -3119,7 +7365,20 @@
       "word": "windbreaker",
       "ipa": "/ˈwɪndbreɪkə/",
       "meaning": "n. 风衣",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "garment",
+          "meaning": "n. 服装"
+        },
+        {
+          "word": "vest",
+          "meaning": "n. 背心"
+        },
+        {
+          "word": "blouse",
+          "meaning": "n. 女式短上衣"
+        }
+      ],
       "forms": []
     },
     {
@@ -3127,7 +7386,20 @@
       "word": "wool",
       "ipa": "/wʊl/",
       "meaning": "n. 羊毛、羊绒",
-      "distractors": [],
+      "distractors": [
+        {
+          "word": "fabric",
+          "meaning": "n. 纺织物、布料"
+        },
+        {
+          "word": "nylon",
+          "meaning": "n. 尼龙"
+        },
+        {
+          "word": "fibre",
+          "meaning": "n. 纤维"
+        }
+      ],
       "forms": [
         "woollen adj."
       ]
