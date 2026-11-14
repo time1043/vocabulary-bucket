@@ -54,10 +54,6 @@
         {
           "word": "stimulate",
           "meaning": "v. 促进、刺激"
-        },
-        {
-          "word": "facilitate",
-          "meaning": "v. 促进、促使"
         }
       ],
       "forms": [
@@ -355,10 +351,6 @@
       "meaning": "v. 促进、促使",
       "distractors": [
         {
-          "word": "stimulate",
-          "meaning": "v. 促进、刺激"
-        },
-        {
           "word": "accelerate",
           "meaning": "v. 加速"
         }
@@ -575,10 +567,6 @@
         {
           "word": "authentic",
           "meaning": "adj. 真正的、真品的"
-        },
-        {
-          "word": "genuine",
-          "meaning": "adj. 真正的"
         }
       ],
       "forms": []
@@ -666,8 +654,12 @@
           "meaning": "adj. 巨大的、广阔的"
         },
         {
-          "word": "maximum",
-          "meaning": "adj. 最大程度的"
+          "word": "string",
+          "meaning": "n. 细线、琴弦、一连串"
+        },
+        {
+          "word": "stain",
+          "meaning": "n. 污点、污渍"
         }
       ],
       "forms": [
@@ -715,10 +707,6 @@
       "ipa": "/ˈstɪmjʊleɪt/ /ˈstɪmjəˌleɪt/",
       "meaning": "v. 促进、刺激",
       "distractors": [
-        {
-          "word": "facilitate",
-          "meaning": "v. 促进、促使"
-        },
         {
           "word": "accelerate",
           "meaning": "v. 加速"
@@ -858,8 +846,16 @@
           "meaning": "v. 旋转、环绕"
         },
         {
-          "word": "vibration",
-          "meaning": "n. 振动、摇摆"
+          "word": "wage",
+          "meaning": "n. 工资"
+        },
+        {
+          "word": "gay",
+          "meaning": "adj. 快乐的"
+        },
+        {
+          "word": "swap",
+          "meaning": "v. 交换"
         }
       ],
       "forms": []
@@ -1023,10 +1019,6 @@
       "meaning": "adj. 古代的、古老的",
       "distractors": [
         {
-          "word": "contemporary",
-          "meaning": "adj. 当代的、同一时期的"
-        },
-        {
           "word": "primitive",
           "meaning": "adj. 原始的、"
         },
@@ -1083,10 +1075,6 @@
       "ipa": "/ɒˈθɛntɪk/ /ɔˈθɛntɪk/",
       "meaning": "adj. 真正的、真品的",
       "distractors": [
-        {
-          "word": "genuine",
-          "meaning": "adj. 真正的"
-        },
         {
           "word": "identical",
           "meaning": "adj. 完全相同的"
@@ -1192,16 +1180,20 @@
       "meaning": "adj. 当代的、同一时期的",
       "distractors": [
         {
-          "word": "ancient",
-          "meaning": "adj. 古代的、古老的"
-        },
-        {
           "word": "former",
           "meaning": "adj. 以前的、前者"
         },
         {
           "word": "subsequent",
           "meaning": "adj. 随后的、后续的"
+        },
+        {
+          "word": "context",
+          "meaning": "n. 上下文、语境"
+        },
+        {
+          "word": "contrary",
+          "meaning": "adj. 相反的"
         }
       ],
       "forms": []
@@ -1228,10 +1220,6 @@
         {
           "word": "contemporary",
           "meaning": "adj. 当代的、同一时期的"
-        },
-        {
-          "word": "ancient",
-          "meaning": "adj. 古代的、古老的"
         }
       ],
       "forms": []
@@ -1320,14 +1308,6 @@
       "meaning": "adj. 初级的、基础的",
       "distractors": [
         {
-          "word": "primary",
-          "meaning": "adj. 初级的"
-        },
-        {
-          "word": "fundamental",
-          "meaning": "adj. 基本的、基础的"
-        },
-        {
           "word": "arithmetic",
           "meaning": "n. 算术"
         }
@@ -1341,16 +1321,8 @@
       "meaning": "adj. 巨大的",
       "distractors": [
         {
-          "word": "vast",
-          "meaning": "adj. 巨大的、广阔的"
-        },
-        {
           "word": "maximum",
           "meaning": "adj. 最大程度的"
-        },
-        {
-          "word": "minimum",
-          "meaning": "adj. 最小程度的"
         }
       ],
       "forms": []
@@ -1460,10 +1432,6 @@
       "meaning": "adj. 基本的、基础的",
       "distractors": [
         {
-          "word": "elementary",
-          "meaning": "adj. 初级的、基础的"
-        },
-        {
           "word": "primary",
           "meaning": "adj. 初级的"
         },
@@ -1506,16 +1474,16 @@
       "meaning": "adj. 真正的",
       "distractors": [
         {
-          "word": "authentic",
-          "meaning": "adj. 真正的、真品的"
-        },
-        {
           "word": "identical",
           "meaning": "adj. 完全相同的"
         },
         {
           "word": "identity",
           "meaning": "n. 身份、特征"
+        },
+        {
+          "word": "venue",
+          "meaning": "n. 地点、场所"
         }
       ],
       "forms": []
@@ -1544,16 +1512,16 @@
       "meaning": "adj. 水平的、横向的",
       "distractors": [
         {
-          "word": "vertical",
-          "meaning": "adj. 垂直的、纵向的"
-        },
-        {
           "word": "parallel",
           "meaning": "adj. 平行的"
         },
         {
           "word": "angle",
           "meaning": "n. 角度"
+        },
+        {
+          "word": "horizon",
+          "meaning": "n. 地平线、眼界"
         }
       ],
       "forms": []
@@ -1747,10 +1715,6 @@
       "meaning": "adj. 最大程度的",
       "distractors": [
         {
-          "word": "minimum",
-          "meaning": "adj. 最小程度的"
-        },
-        {
           "word": "zoom",
           "meaning": "v. 快速移动、放缩、猛涨"
         },
@@ -1784,10 +1748,6 @@
       "ipa": "/ˈmɪnɪməm/ /ˈmɪnəməm/",
       "meaning": "adj. 最小程度的",
       "distractors": [
-        {
-          "word": "maximum",
-          "meaning": "adj. 最大程度的"
-        },
         {
           "word": "shrink",
           "meaning": "v. 缩小、缩减"
@@ -1901,10 +1861,6 @@
           "meaning": "adj. 垂直的、纵向的"
         },
         {
-          "word": "horizontal",
-          "meaning": "adj. 水平的、横向的"
-        },
-        {
           "word": "angle",
           "meaning": "n. 角度"
         }
@@ -1964,10 +1920,6 @@
       "meaning": "adj. 初级的",
       "distractors": [
         {
-          "word": "elementary",
-          "meaning": "adj. 初级的、基础的"
-        },
-        {
           "word": "fundamental",
           "meaning": "adj. 基本的、基础的"
         }
@@ -2004,10 +1956,6 @@
         {
           "word": "nuclear",
           "meaning": "adj. 核能的"
-        },
-        {
-          "word": "radiation",
-          "meaning": "n. 辐射、放射线"
         },
         {
           "word": "atom",
@@ -2306,16 +2254,24 @@
       "meaning": "adj. 巨大的、广阔的",
       "distractors": [
         {
-          "word": "enormous",
-          "meaning": "adj. 巨大的"
-        },
-        {
           "word": "scale",
           "meaning": "n. 大小、规模、刻度"
         },
         {
           "word": "maximum",
           "meaning": "adj. 最大程度的"
+        },
+        {
+          "word": "vest",
+          "meaning": "n. 背心"
+        },
+        {
+          "word": "feast",
+          "meaning": "n. 盛宴"
+        },
+        {
+          "word": "visa",
+          "meaning": "n. 签证"
         }
       ],
       "forms": []
@@ -2327,16 +2283,16 @@
       "meaning": "adj. 垂直的、纵向的",
       "distractors": [
         {
-          "word": "horizontal",
-          "meaning": "adj. 水平的、横向的"
-        },
-        {
           "word": "parallel",
           "meaning": "adj. 平行的"
         },
         {
           "word": "steep",
           "meaning": "adj. 险峻的、陡峭的"
+        },
+        {
+          "word": "identical",
+          "meaning": "adj. 完全相同的"
         }
       ],
       "forms": []
@@ -2576,10 +2532,6 @@
       "meaning": "n. 大使",
       "distractors": [
         {
-          "word": "embassy",
-          "meaning": "n. 大使馆"
-        },
-        {
           "word": "premier",
           "meaning": "n. 首相、总理"
         },
@@ -2706,10 +2658,6 @@
         {
           "word": "fortnight",
           "meaning": "n. 两周、十四天"
-        },
-        {
-          "word": "monument",
-          "meaning": "n. 纪念碑"
         }
       ],
       "forms": []
@@ -3166,10 +3114,6 @@
           "meaning": "n. 宗教"
         },
         {
-          "word": "catholic",
-          "meaning": "adj. 天主教的"
-        },
-        {
           "word": "sacred",
           "meaning": "adj. 神圣的"
         }
@@ -3338,10 +3282,6 @@
         {
           "word": "catholic",
           "meaning": "adj. 天主教的"
-        },
-        {
-          "word": "bishop",
-          "meaning": "n. 主教"
         }
       ],
       "forms": [
@@ -3376,16 +3316,24 @@
       "meaning": "n. 馒头、小面包",
       "distractors": [
         {
-          "word": "loaf",
-          "meaning": "n. 面包"
-        },
-        {
           "word": "porridge",
           "meaning": "n. 粥"
         },
         {
-          "word": "gruel",
-          "meaning": "n. 粥"
+          "word": "bid",
+          "meaning": "v. 出价"
+        },
+        {
+          "word": "bind",
+          "meaning": "v. 捆绑、绑定"
+        },
+        {
+          "word": "bunch",
+          "meaning": "n. 一束、大量"
+        },
+        {
+          "word": "beam",
+          "meaning": "n. 光束"
         }
       ],
       "forms": []
@@ -3632,10 +3580,6 @@
           "meaning": "adj. 天主教的"
         },
         {
-          "word": "bishop",
-          "meaning": "n. 主教"
-        },
-        {
           "word": "arch",
           "meaning": "n. 拱门"
         }
@@ -3863,10 +3807,6 @@
       "meaning": "n. 组成部分、部件",
       "distractors": [
         {
-          "word": "section",
-          "meaning": "n. 一段、部分"
-        },
-        {
           "word": "socket",
           "meaning": "n. 电源插座"
         },
@@ -3892,8 +3832,8 @@
           "meaning": "n. 一致意见、共识"
         },
         {
-          "word": "session",
-          "meaning": "n. 一场、一段时间、会议"
+          "word": "conscience",
+          "meaning": "n. 良心、良知"
         }
       ],
       "forms": []
@@ -4140,16 +4080,16 @@
       "meaning": "n. 维度、尺寸、规模",
       "distractors": [
         {
-          "word": "scale",
-          "meaning": "n. 大小、规模、刻度"
-        },
-        {
           "word": "volume",
           "meaning": "n. 体积、容量、音量、大量"
         },
         {
           "word": "quantity",
           "meaning": "n. 数量"
+        },
+        {
+          "word": "pension",
+          "meaning": "n. 养老金"
         }
       ],
       "forms": [
@@ -4334,10 +4274,6 @@
       "ipa": "/ˈɛmbəsi/",
       "meaning": "n. 大使馆",
       "distractors": [
-        {
-          "word": "ambassador",
-          "meaning": "n. 大使"
-        },
         {
           "word": "visa",
           "meaning": "n. 签证"
@@ -4822,16 +4758,24 @@
       "meaning": "n. 粥",
       "distractors": [
         {
-          "word": "porridge",
-          "meaning": "n. 粥"
-        },
-        {
           "word": "beancurd",
           "meaning": "n. 豆腐"
         },
         {
           "word": "bun",
           "meaning": "n. 馒头、小面包"
+        },
+        {
+          "word": "gale",
+          "meaning": "n. 强风"
+        },
+        {
+          "word": "grain",
+          "meaning": "n. 谷物"
+        },
+        {
+          "word": "heel",
+          "meaning": "n. 脚后跟"
         }
       ],
       "forms": []
@@ -5082,10 +5026,6 @@
         {
           "word": "intervention",
           "meaning": "n. 干预、干涉"
-        },
-        {
-          "word": "interference",
-          "meaning": "n. 干扰、干涉、妨碍"
         }
       ],
       "forms": []
@@ -5139,16 +5079,24 @@
       "meaning": "n. 干扰、干涉、妨碍",
       "distractors": [
         {
-          "word": "intervention",
-          "meaning": "n. 干预、干涉"
-        },
-        {
           "word": "collision",
           "meaning": "n. 碰撞、冲突"
         },
         {
           "word": "friction",
           "meaning": "n. 摩擦"
+        },
+        {
+          "word": "integrity",
+          "meaning": "n. 诚实、正直"
+        },
+        {
+          "word": "interface",
+          "meaning": "n. 人机交互界面"
+        },
+        {
+          "word": "interval",
+          "meaning": "n. 间歇、间隔"
         }
       ],
       "forms": [
@@ -5183,16 +5131,24 @@
       "meaning": "n. 干预、干涉",
       "distractors": [
         {
-          "word": "interference",
-          "meaning": "n. 干扰、干涉、妨碍"
-        },
-        {
           "word": "initiative",
           "meaning": "n. 倡议"
         },
         {
           "word": "administration",
           "meaning": "n. 管理、行政部门"
+        },
+        {
+          "word": "integrity",
+          "meaning": "n. 诚实、正直"
+        },
+        {
+          "word": "interface",
+          "meaning": "n. 人机交互界面"
+        },
+        {
+          "word": "interval",
+          "meaning": "n. 间歇、间隔"
         }
       ],
       "forms": [
@@ -5317,10 +5273,6 @@
           "meaning": "n. 干扰、干涉、妨碍"
         },
         {
-          "word": "intervention",
-          "meaning": "n. 干预、干涉"
-        },
-        {
           "word": "vice",
           "meaning": "n. 邪恶、罪行"
         }
@@ -5334,16 +5286,24 @@
       "meaning": "n. 面包",
       "distractors": [
         {
-          "word": "bun",
-          "meaning": "n. 馒头、小面包"
-        },
-        {
           "word": "gruel",
           "meaning": "n. 粥"
         },
         {
           "word": "buffet",
           "meaning": "n. 自助餐"
+        },
+        {
+          "word": "beam",
+          "meaning": "n. 光束"
+        },
+        {
+          "word": "boil",
+          "meaning": "v. 沸腾、煮"
+        },
+        {
+          "word": "claw",
+          "meaning": "n. 爪子"
         }
       ],
       "forms": []
@@ -5487,10 +5447,6 @@
         {
           "word": "pyramid",
           "meaning": "n. 金字塔"
-        },
-        {
-          "word": "anniversary",
-          "meaning": "n. 周年纪念日"
         }
       ],
       "forms": []
@@ -5947,16 +5903,16 @@
       "meaning": "n. 粥",
       "distractors": [
         {
-          "word": "gruel",
-          "meaning": "n. 粥"
-        },
-        {
           "word": "beancurd",
           "meaning": "n. 豆腐"
         },
         {
           "word": "omelette",
           "meaning": "n. 蛋卷、蛋饼"
+        },
+        {
+          "word": "carriage",
+          "meaning": "n. 四轮马车"
         }
       ],
       "forms": []
@@ -6225,10 +6181,6 @@
       "meaning": "n. 辐射、放射线",
       "distractors": [
         {
-          "word": "radioactive",
-          "meaning": "adj. 放射性的"
-        },
-        {
           "word": "nuclear",
           "meaning": "adj. 核能的"
         },
@@ -6294,10 +6246,6 @@
         {
           "word": "buddhism",
           "meaning": "n. 佛教"
-        },
-        {
-          "word": "bishop",
-          "meaning": "n. 主教"
         }
       ],
       "forms": [
@@ -6395,16 +6343,24 @@
       "meaning": "n. 大小、规模、刻度",
       "distractors": [
         {
-          "word": "dimension",
-          "meaning": "n. 维度、尺寸、规模"
-        },
-        {
           "word": "quantity",
           "meaning": "n. 数量"
         },
         {
           "word": "volume",
           "meaning": "n. 体积、容量、音量、大量"
+        },
+        {
+          "word": "gale",
+          "meaning": "n. 强风"
+        },
+        {
+          "word": "acre",
+          "meaning": "n. 英亩"
+        },
+        {
+          "word": "acute",
+          "meaning": "adj. 严重的、急性病的"
         }
       ],
       "forms": []
@@ -6437,16 +6393,24 @@
       "meaning": "n. 一段、部分",
       "distractors": [
         {
-          "word": "component",
-          "meaning": "n. 组成部分、部件"
-        },
-        {
           "word": "paragraph",
           "meaning": "n. 文章段落"
         },
         {
           "word": "phrase",
           "meaning": "n. 短语、词组"
+        },
+        {
+          "word": "caption",
+          "meaning": "n. 说明文字、字幕"
+        },
+        {
+          "word": "friction",
+          "meaning": "n. 摩擦"
+        },
+        {
+          "word": "pension",
+          "meaning": "n. 养老金"
         }
       ],
       "forms": []
@@ -6481,16 +6445,20 @@
       "meaning": "n. 一场、一段时间、会议",
       "distractors": [
         {
-          "word": "conference",
-          "meaning": "n. 大型会议"
-        },
-        {
           "word": "interval",
           "meaning": "n. 间歇、间隔"
         },
         {
           "word": "phase",
           "meaning": "n. 阶段、时期"
+        },
+        {
+          "word": "pension",
+          "meaning": "n. 养老金"
+        },
+        {
+          "word": "version",
+          "meaning": "n. 版本"
         }
       ],
       "forms": []
@@ -6774,10 +6742,6 @@
       "ipa": "/ˈsʌbstəns/",
       "meaning": "n. 物质、实质",
       "distractors": [
-        {
-          "word": "mineral",
-          "meaning": "n. 矿物质"
-        },
         {
           "word": "acid",
           "meaning": "n. 酸"
@@ -7180,12 +7144,12 @@
           "meaning": "v. 震动、颤抖"
         },
         {
-          "word": "wag",
-          "meaning": "v. 摇动、摇摆"
-        },
-        {
           "word": "static",
           "meaning": "adj. 静态的"
+        },
+        {
+          "word": "dictation",
+          "meaning": "n. 听写"
         }
       ],
       "forms": [
@@ -7312,8 +7276,16 @@
           "meaning": "n. 大小、规模、刻度"
         },
         {
-          "word": "dimension",
-          "meaning": "n. 维度、尺寸、规模"
+          "word": "consume",
+          "meaning": "v. 消耗、花费、消费"
+        },
+        {
+          "word": "salute",
+          "meaning": "v. 敬礼"
+        },
+        {
+          "word": "venue",
+          "meaning": "n. 地点、场所"
         }
       ],
       "forms": []

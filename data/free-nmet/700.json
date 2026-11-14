@@ -157,16 +157,24 @@
       "meaning": "n. 军队",
       "distractors": [
         {
-          "word": "troop",
-          "meaning": "n. 军队"
-        },
-        {
           "word": "gun",
           "meaning": "n. 枪"
         },
         {
           "word": "missile",
           "meaning": "n. 导弹"
+        },
+        {
+          "word": "a.m.",
+          "meaning": "n. 午前、上午"
+        },
+        {
+          "word": "fry",
+          "meaning": "v. 煎、炸"
+        },
+        {
+          "word": "ray",
+          "meaning": "n. 光线"
         }
       ],
       "forms": []
@@ -207,8 +215,16 @@
           "meaning": "n. 废旧物品、垃圾"
         },
         {
-          "word": "rubbish",
-          "meaning": "n. 垃圾"
+          "word": "a",
+          "meaning": "art. 一个、pron. 某个"
+        },
+        {
+          "word": "ago",
+          "meaning": "adv. 以前"
+        },
+        {
+          "word": "ant",
+          "meaning": "n. 蚂蚁"
         }
       ],
       "forms": []
@@ -472,16 +488,24 @@
       "meaning": "n. 一条、一块、酒吧",
       "distractors": [
         {
-          "word": "pub",
-          "meaning": "n. 酒吧"
-        },
-        {
           "word": "café",
           "meaning": "n. 咖啡馆"
         },
         {
           "word": "beer",
           "meaning": "n. 啤酒"
+        },
+        {
+          "word": "ban",
+          "meaning": "v. 禁止、n. 禁令"
+        },
+        {
+          "word": "bat",
+          "meaning": "n. 球棒、蝙蝠"
+        },
+        {
+          "word": "bay",
+          "meaning": "n. 海湾"
         }
       ],
       "forms": []
@@ -493,16 +517,16 @@
       "meaning": "n. 烧烤",
       "distractors": [
         {
-          "word": "grill",
-          "meaning": "n. 烧烤架"
-        },
-        {
           "word": "roast",
           "meaning": "v. 烤"
         },
         {
           "word": "picnic",
           "meaning": "n. 野餐"
+        },
+        {
+          "word": "barber",
+          "meaning": "n. 理发师"
         }
       ],
       "forms": []
@@ -514,16 +538,24 @@
       "meaning": "n. 理发师",
       "distractors": [
         {
-          "word": "haircut",
-          "meaning": "n. 理发"
-        },
-        {
           "word": "shave",
           "meaning": "v. 剃须"
         },
         {
           "word": "tailor",
           "meaning": "n. 裁缝"
+        },
+        {
+          "word": "bake",
+          "meaning": "v. 烘焙"
+        },
+        {
+          "word": "ballet",
+          "meaning": "n. 芭蕾舞"
+        },
+        {
+          "word": "bamboo",
+          "meaning": "n. 竹子"
         }
       ],
       "forms": [
@@ -1007,8 +1039,16 @@
           "meaning": "n. 三明治"
         },
         {
-          "word": "toast",
-          "meaning": "v. 干杯、n. 吐司面包、v. 烤"
+          "word": "abroad",
+          "meaning": "adv. 在国外"
+        },
+        {
+          "word": "bean",
+          "meaning": "n. 豆"
+        },
+        {
+          "word": "beard",
+          "meaning": "n. 胡须"
         }
       ],
       "forms": []
@@ -1211,16 +1251,24 @@
       "meaning": "n. 出租车",
       "distractors": [
         {
-          "word": "taxi",
-          "meaning": "n. 出租车"
-        },
-        {
           "word": "jeep",
           "meaning": "n. 吉普车"
         },
         {
           "word": "minibus",
           "meaning": "n. 小型公共汽车"
+        },
+        {
+          "word": "cap",
+          "meaning": "n. 帽子、瓶盖、笔帽"
+        },
+        {
+          "word": "cat",
+          "meaning": "n. 猫"
+        },
+        {
+          "word": "a",
+          "meaning": "art. 一个、pron. 某个"
         }
       ],
       "forms": []
@@ -1257,12 +1305,20 @@
           "meaning": "n. 一条、一块、酒吧"
         },
         {
-          "word": "pub",
-          "meaning": "n. 酒吧"
-        },
-        {
           "word": "wine",
           "meaning": "n. 酒"
+        },
+        {
+          "word": "cab",
+          "meaning": "n. 出租车"
+        },
+        {
+          "word": "cap",
+          "meaning": "n. 帽子、瓶盖、笔帽"
+        },
+        {
+          "word": "card",
+          "meaning": "n. 卡片、名片、纸牌"
         }
       ],
       "forms": [
@@ -1675,10 +1731,6 @@
       "meaning": "n. 主席",
       "distractors": [
         {
-          "word": "president",
-          "meaning": "n. 总统、主席"
-        },
-        {
           "word": "minister",
           "meaning": "n. 部长"
         },
@@ -1786,12 +1838,20 @@
           "meaning": "n. 烧烤"
         },
         {
-          "word": "grill",
-          "meaning": "n. 烧烤架"
-        },
-        {
           "word": "roast",
           "meaning": "v. 烤"
+        },
+        {
+          "word": "chew",
+          "meaning": "v. 咀嚼"
+        },
+        {
+          "word": "chief",
+          "meaning": "adj. 主要的、首要的"
+        },
+        {
+          "word": "beef",
+          "meaning": "n. 牛肉"
         }
       ],
       "forms": []
@@ -2162,16 +2222,24 @@
       "meaning": "n. 公鸡",
       "distractors": [
         {
-          "word": "rooster",
-          "meaning": "n. 公鸡"
-        },
-        {
           "word": "hen",
           "meaning": "n. 母鸡"
         },
         {
           "word": "chicken",
           "meaning": "n. 鸡肉"
+        },
+        {
+          "word": "clock",
+          "meaning": "n. 钟"
+        },
+        {
+          "word": "coal",
+          "meaning": "n. 煤"
+        },
+        {
+          "word": "cocoa",
+          "meaning": "n. 可可粉"
         }
       ],
       "forms": []
@@ -2271,12 +2339,20 @@
           "meaning": "n. 剃须刀"
         },
         {
-          "word": "shave",
-          "meaning": "v. 剃须"
-        },
-        {
           "word": "haircut",
           "meaning": "n. 理发"
+        },
+        {
+          "word": "tomb",
+          "meaning": "n. 坟墓"
+        },
+        {
+          "word": "Mom",
+          "meaning": "n. 妈妈"
+        },
+        {
+          "word": "cab",
+          "meaning": "n. 出租车"
         }
       ],
       "forms": []
@@ -2588,12 +2664,20 @@
           "meaning": "n. 侄子、外甥"
         },
         {
-          "word": "niece",
-          "meaning": "n. 侄女、外甥女"
-        },
-        {
           "word": "uncle",
           "meaning": "n. 叔叔"
+        },
+        {
+          "word": "coin",
+          "meaning": "n. 硬币"
+        },
+        {
+          "word": "basin",
+          "meaning": "n. 水盆、盆地"
+        },
+        {
+          "word": "coast",
+          "meaning": "n. 海岸"
         }
       ],
       "forms": []
@@ -3326,20 +3410,7 @@
       "word": "dustbin",
       "ipa": "/ˈdʌstbɪn/",
       "meaning": "n. 垃圾箱",
-      "distractors": [
-        {
-          "word": "junk",
-          "meaning": "n. 废旧物品、垃圾"
-        },
-        {
-          "word": "rubbish",
-          "meaning": "n. 垃圾"
-        },
-        {
-          "word": "litter",
-          "meaning": "n. 垃圾"
-        }
-      ],
+      "distractors": [],
       "forms": []
     },
     {
@@ -3370,16 +3441,24 @@
       "meaning": "n. 鹰",
       "distractors": [
         {
-          "word": "hawk",
-          "meaning": "n. 鹰"
-        },
-        {
           "word": "parrot",
           "meaning": "n. 鹦鹉"
         },
         {
           "word": "sparrow",
           "meaning": "n. 麻雀"
+        },
+        {
+          "word": "male",
+          "meaning": "adj. 男性的、雄性的"
+        },
+        {
+          "word": "tale",
+          "meaning": "n. 故事、传说"
+        },
+        {
+          "word": "ago",
+          "meaning": "adv. 以前"
         }
       ],
       "forms": []
@@ -3391,16 +3470,24 @@
       "meaning": "n. 地球、泥土、大地",
       "distractors": [
         {
-          "word": "globe",
-          "meaning": "n. 地球、世界、地球仪"
-        },
-        {
           "word": "moon",
           "meaning": "n. 月亮"
         },
         {
           "word": "mud",
           "meaning": "n. 淤泥、泥浆"
+        },
+        {
+          "word": "east",
+          "meaning": "n. 东方"
+        },
+        {
+          "word": "north",
+          "meaning": "n. 北方"
+        },
+        {
+          "word": "ant",
+          "meaning": "n. 蚂蚁"
         }
       ],
       "forms": []
@@ -3592,12 +3679,8 @@
           "meaning": "n. 地球、世界、地球仪"
         },
         {
-          "word": "earth",
-          "meaning": "n. 地球、泥土、大地"
-        },
-        {
-          "word": "pole",
-          "meaning": "n. 杆子、地球极点"
+          "word": "quarter",
+          "meaning": "n. 四分之一、一刻钟"
         }
       ],
       "forms": []
@@ -4243,16 +4326,24 @@
       "meaning": "n. 性别",
       "distractors": [
         {
-          "word": "sex",
-          "meaning": "n. 性、性别"
-        },
-        {
           "word": "male",
           "meaning": "adj. 男性的、雄性的"
         },
         {
-          "word": "female",
-          "meaning": "adj. 女性的、雌性的"
+          "word": "beer",
+          "meaning": "n. 啤酒"
+        },
+        {
+          "word": "deer",
+          "meaning": "n. 鹿"
+        },
+        {
+          "word": "fence",
+          "meaning": "n. 栅栏、篱笆"
+        },
+        {
+          "word": "fever",
+          "meaning": "n. 发烧、发热"
         }
       ],
       "forms": []
@@ -4329,16 +4420,24 @@
       "meaning": "n. 地球、世界、地球仪",
       "distractors": [
         {
-          "word": "earth",
-          "meaning": "n. 地球、泥土、大地"
-        },
-        {
           "word": "moon",
           "meaning": "n. 月亮"
         },
         {
           "word": "planet",
           "meaning": "n. 行星"
+        },
+        {
+          "word": "clone",
+          "meaning": "n. 克隆"
+        },
+        {
+          "word": "goose",
+          "meaning": "n. 鹅"
+        },
+        {
+          "word": "be",
+          "meaning": "v. 是"
         }
       ],
       "forms": [
@@ -4557,8 +4656,16 @@
           "meaning": "n. 夫人、女士"
         },
         {
-          "word": "lady",
-          "meaning": "n. 女士"
+          "word": "branch",
+          "meaning": "n. 树枝、分支"
+        },
+        {
+          "word": "candy",
+          "meaning": "n. 糖果"
+        },
+        {
+          "word": "gram",
+          "meaning": "n. 克"
         }
       ],
       "forms": []
@@ -4591,16 +4698,24 @@
       "meaning": "n. 烧烤架",
       "distractors": [
         {
-          "word": "barbecue",
-          "meaning": "n. 烧烤"
-        },
-        {
           "word": "roast",
           "meaning": "v. 烤"
         },
         {
           "word": "bake",
           "meaning": "v. 烘焙"
+        },
+        {
+          "word": "pill",
+          "meaning": "n. 药丸"
+        },
+        {
+          "word": "ball",
+          "meaning": "n. 球、舞会"
+        },
+        {
+          "word": "brick",
+          "meaning": "n. 砖块"
         }
       ],
       "forms": []
@@ -4675,16 +4790,16 @@
       "meaning": "n. 理发",
       "distractors": [
         {
-          "word": "barber",
-          "meaning": "n. 理发师"
-        },
-        {
           "word": "shave",
           "meaning": "v. 剃须"
         },
         {
           "word": "comb",
           "meaning": "n. 梳子、v. 梳"
+        },
+        {
+          "word": "circus",
+          "meaning": "n. 马戏团"
         }
       ],
       "forms": []
@@ -4801,16 +4916,24 @@
       "meaning": "n. 鹰",
       "distractors": [
         {
-          "word": "eagle",
-          "meaning": "n. 鹰"
-        },
-        {
           "word": "sparrow",
           "meaning": "n. 麻雀"
         },
         {
           "word": "parrot",
           "meaning": "n. 鹦鹉"
+        },
+        {
+          "word": "chalk",
+          "meaning": "n. 粉笔"
+        },
+        {
+          "word": "dawn",
+          "meaning": "n. 黎明"
+        },
+        {
+          "word": "ham",
+          "meaning": "n. 火腿"
         }
       ],
       "forms": []
@@ -4885,10 +5008,6 @@
       "meaning": "n. 直升飞机",
       "distractors": [
         {
-          "word": "jet",
-          "meaning": "n. 喷气式飞机"
-        },
-        {
           "word": "rocket",
           "meaning": "n. 火箭"
         },
@@ -4931,12 +5050,20 @@
           "meaning": "n. 公鸡"
         },
         {
-          "word": "cock",
-          "meaning": "n. 公鸡"
-        },
-        {
           "word": "duck",
           "meaning": "n. 鸭子"
+        },
+        {
+          "word": "ten",
+          "meaning": "num. 十"
+        },
+        {
+          "word": "ban",
+          "meaning": "v. 禁止、n. 禁令"
+        },
+        {
+          "word": "be",
+          "meaning": "v. 是"
         }
       ],
       "forms": []
@@ -5269,16 +5396,24 @@
       "meaning": "n. 喷气式飞机",
       "distractors": [
         {
-          "word": "helicopter",
-          "meaning": "n. 直升飞机"
-        },
-        {
           "word": "rocket",
           "meaning": "n. 火箭"
         },
         {
           "word": "spaceship",
           "meaning": "n. 宇宙飞船"
+        },
+        {
+          "word": "ant",
+          "meaning": "n. 蚂蚁"
+        },
+        {
+          "word": "bat",
+          "meaning": "n. 球棒、蝙蝠"
+        },
+        {
+          "word": "be",
+          "meaning": "v. 是"
         }
       ],
       "forms": []
@@ -5355,16 +5490,24 @@
       "meaning": "n. 废旧物品、垃圾",
       "distractors": [
         {
-          "word": "rubbish",
-          "meaning": "n. 垃圾"
+          "word": "aunt",
+          "meaning": "n. 姑姑"
         },
         {
-          "word": "litter",
-          "meaning": "n. 垃圾"
+          "word": "duck",
+          "meaning": "n. 鸭子"
         },
         {
-          "word": "dustbin",
-          "meaning": "n. 垃圾箱"
+          "word": "dusk",
+          "meaning": "n. 黄昏"
+        },
+        {
+          "word": "gun",
+          "meaning": "n. 枪"
+        },
+        {
+          "word": "ink",
+          "meaning": "n. 墨水、油墨"
         }
       ],
       "forms": [
@@ -5568,16 +5711,24 @@
       "meaning": "n. 女士",
       "distractors": [
         {
-          "word": "madam",
-          "meaning": "n. 夫人、女士"
-        },
-        {
           "word": "sir",
           "meaning": "n. 先生、阁下"
         },
         {
           "word": "granny",
           "meaning": "n. 老奶奶、外婆"
+        },
+        {
+          "word": "bay",
+          "meaning": "n. 海湾"
+        },
+        {
+          "word": "candy",
+          "meaning": "n. 糖果"
+        },
+        {
+          "word": "dad",
+          "meaning": "n. 爸爸"
         }
       ],
       "forms": []
@@ -5719,12 +5870,8 @@
           "meaning": "n. 垃圾"
         },
         {
-          "word": "junk",
-          "meaning": "n. 废旧物品、垃圾"
-        },
-        {
-          "word": "litter",
-          "meaning": "n. 垃圾"
+          "word": "leather",
+          "meaning": "n. 皮革"
         }
       ],
       "forms": []
@@ -5927,16 +6074,24 @@
       "meaning": "n. 垃圾",
       "distractors": [
         {
-          "word": "rubbish",
-          "meaning": "n. 垃圾"
+          "word": "butter",
+          "meaning": "n. 黄油"
         },
         {
-          "word": "junk",
-          "meaning": "n. 废旧物品、垃圾"
+          "word": "litre",
+          "meaning": "n. 公升"
         },
         {
-          "word": "dustbin",
-          "meaning": "n. 垃圾箱"
+          "word": "winter",
+          "meaning": "n. 冬天"
+        },
+        {
+          "word": "battery",
+          "meaning": "n. 电池"
+        },
+        {
+          "word": "finger",
+          "meaning": "n. 手指"
         }
       ],
       "forms": []
@@ -6015,12 +6170,20 @@
           "meaning": "n. 先生、阁下"
         },
         {
-          "word": "lady",
-          "meaning": "n. 女士"
-        },
-        {
           "word": "granny",
           "meaning": "n. 老奶奶、外婆"
+        },
+        {
+          "word": "dam",
+          "meaning": "n. 水坝"
+        },
+        {
+          "word": "medal",
+          "meaning": "n. 奖牌"
+        },
+        {
+          "word": "canal",
+          "meaning": "n. 运河"
         }
       ],
       "forms": [
@@ -6467,8 +6630,12 @@
           "meaning": "n. 拖拉机"
         },
         {
-          "word": "shuttle",
-          "meaning": "n. 穿梭班机或汽车"
+          "word": "minus",
+          "meaning": "prep. 减"
+        },
+        {
+          "word": "genius",
+          "meaning": "n. 天才"
         }
       ],
       "forms": []
@@ -6484,12 +6651,20 @@
           "meaning": "n. 总统、主席"
         },
         {
-          "word": "chairman",
-          "meaning": "n. 主席"
-        },
-        {
           "word": "committee",
           "meaning": "n. 委员会"
+        },
+        {
+          "word": "ministry",
+          "meaning": "n. 政府部门"
+        },
+        {
+          "word": "minute",
+          "meaning": "n. 分钟"
+        },
+        {
+          "word": "winter",
+          "meaning": "n. 冬天"
         }
       ],
       "forms": []
@@ -6744,8 +6919,8 @@
           "meaning": "n. 小型公共汽车"
         },
         {
-          "word": "shuttle",
-          "meaning": "n. 穿梭班机或汽车"
+          "word": "motor",
+          "meaning": "n. 发动机"
         }
       ],
       "forms": [
@@ -6759,16 +6934,24 @@
       "meaning": "n. 老鼠、鼠标",
       "distractors": [
         {
-          "word": "rat",
-          "meaning": "n. 老鼠"
-        },
-        {
           "word": "keyboard",
           "meaning": "n. 键盘"
         },
         {
           "word": "squirrel",
           "meaning": "n. 松鼠"
+        },
+        {
+          "word": "goose",
+          "meaning": "n. 鹅"
+        },
+        {
+          "word": "horse",
+          "meaning": "n. 马"
+        },
+        {
+          "word": "pose",
+          "meaning": "n. 姿势"
         }
       ],
       "forms": [
@@ -6913,16 +7096,20 @@
       "meaning": "n. 侄子、外甥",
       "distractors": [
         {
-          "word": "niece",
-          "meaning": "n. 侄女、外甥女"
-        },
-        {
           "word": "cousin",
           "meaning": "n. 堂表亲"
         },
         {
           "word": "uncle",
           "meaning": "n. 叔叔"
+        },
+        {
+          "word": "chew",
+          "meaning": "v. 咀嚼"
+        },
+        {
+          "word": "pepper",
+          "meaning": "n. 胡椒粉"
         }
       ],
       "forms": []
@@ -6978,16 +7165,24 @@
       "meaning": "n. 侄女、外甥女",
       "distractors": [
         {
-          "word": "nephew",
-          "meaning": "n. 侄子、外甥"
-        },
-        {
           "word": "cousin",
           "meaning": "n. 堂表亲"
         },
         {
           "word": "aunt",
           "meaning": "n. 姑姑"
+        },
+        {
+          "word": "piece",
+          "meaning": "n. 一块、一片、一张"
+        },
+        {
+          "word": "neck",
+          "meaning": "n. 脖子"
+        },
+        {
+          "word": "nine",
+          "meaning": "num. 九"
         }
       ],
       "forms": []
@@ -7028,8 +7223,16 @@
           "meaning": "n. 下午"
         },
         {
-          "word": "a.m.",
-          "meaning": "n. 午前、上午"
+          "word": "moon",
+          "meaning": "n. 月亮"
+        },
+        {
+          "word": "boot",
+          "meaning": "n. 靴子"
+        },
+        {
+          "word": "coin",
+          "meaning": "n. 硬币"
         }
       ],
       "forms": []
@@ -7658,16 +7861,24 @@
       "meaning": "n. 百分之……",
       "distractors": [
         {
-          "word": "quarter",
-          "meaning": "n. 四分之一、一刻钟"
-        },
-        {
           "word": "dozen",
           "meaning": "n. 十二个"
         },
         {
           "word": "bit",
           "meaning": "n. 一点、adj. 少量的"
+        },
+        {
+          "word": "merchant",
+          "meaning": "n. 商人"
+        },
+        {
+          "word": "peasant",
+          "meaning": "n. 农民"
+        },
+        {
+          "word": "rent",
+          "meaning": "n. 租金"
         }
       ],
       "forms": [
@@ -8318,10 +8529,6 @@
       "meaning": "n. 总统、主席",
       "distractors": [
         {
-          "word": "chairman",
-          "meaning": "n. 主席"
-        },
-        {
           "word": "minister",
           "meaning": "n. 部长"
         },
@@ -8404,16 +8611,24 @@
       "meaning": "n. 酒吧",
       "distractors": [
         {
-          "word": "bar",
-          "meaning": "n. 一条、一块、酒吧"
-        },
-        {
           "word": "café",
           "meaning": "n. 咖啡馆"
         },
         {
           "word": "wine",
           "meaning": "n. 酒"
+        },
+        {
+          "word": "cab",
+          "meaning": "n. 出租车"
+        },
+        {
+          "word": "cube",
+          "meaning": "n. 立方体"
+        },
+        {
+          "word": "fur",
+          "meaning": "n. 毛皮"
         }
       ],
       "forms": []
@@ -8467,16 +8682,24 @@
       "meaning": "n. 四分之一、一刻钟",
       "distractors": [
         {
-          "word": "percent",
-          "meaning": "n. 百分之……"
-        },
-        {
           "word": "dozen",
           "meaning": "n. 十二个"
         },
         {
           "word": "o’clock",
           "meaning": "n. ……点钟"
+        },
+        {
+          "word": "barber",
+          "meaning": "n. 理发师"
+        },
+        {
+          "word": "butter",
+          "meaning": "n. 黄油"
+        },
+        {
+          "word": "chapter",
+          "meaning": "n. 章"
         }
       ],
       "forms": []
@@ -8492,12 +8715,20 @@
           "meaning": "n. 夫人、女士"
         },
         {
-          "word": "lady",
-          "meaning": "n. 女士"
-        },
-        {
           "word": "palace",
           "meaning": "n. 宫殿"
+        },
+        {
+          "word": "green",
+          "meaning": "adj. 绿色的"
+        },
+        {
+          "word": "queue",
+          "meaning": "n. 长队列、v. 排队"
+        },
+        {
+          "word": "bean",
+          "meaning": "n. 豆"
         }
       ],
       "forms": []
@@ -8656,16 +8887,24 @@
       "meaning": "n. 老鼠",
       "distractors": [
         {
-          "word": "mouse",
-          "meaning": "n. 老鼠、鼠标"
-        },
-        {
           "word": "beast",
           "meaning": "n. 野兽"
         },
         {
           "word": "worm",
           "meaning": "n. 蠕虫"
+        },
+        {
+          "word": "bat",
+          "meaning": "n. 球棒、蝙蝠"
+        },
+        {
+          "word": "cat",
+          "meaning": "n. 猫"
+        },
+        {
+          "word": "fat",
+          "meaning": "n. 脂肪、adj. 肥胖的"
         }
       ],
       "forms": []
@@ -8698,16 +8937,24 @@
       "meaning": "n. 剃须刀",
       "distractors": [
         {
-          "word": "shave",
-          "meaning": "v. 剃须"
-        },
-        {
           "word": "knife",
           "meaning": "n. 小刀"
         },
         {
           "word": "scissors",
           "meaning": "n. 剪刀"
+        },
+        {
+          "word": "ago",
+          "meaning": "adv. 以前"
+        },
+        {
+          "word": "bacon",
+          "meaning": "n. 培根"
+        },
+        {
+          "word": "bar",
+          "meaning": "n. 一条、一块、酒吧"
         }
       ],
       "forms": []
@@ -8891,12 +9138,20 @@
           "meaning": "n. 母鸡"
         },
         {
-          "word": "cock",
-          "meaning": "n. 公鸡"
-        },
-        {
           "word": "duck",
           "meaning": "n. 鸭子"
+        },
+        {
+          "word": "goose",
+          "meaning": "n. 鹅"
+        },
+        {
+          "word": "outer",
+          "meaning": "adj. 外部的"
+        },
+        {
+          "word": "roast",
+          "meaning": "v. 烤"
         }
       ],
       "forms": []
@@ -8950,16 +9205,12 @@
       "meaning": "n. 垃圾",
       "distractors": [
         {
-          "word": "litter",
-          "meaning": "n. 垃圾"
+          "word": "rabbit",
+          "meaning": "n. 兔子"
         },
         {
-          "word": "junk",
-          "meaning": "n. 废旧物品、垃圾"
-        },
-        {
-          "word": "dustbin",
-          "meaning": "n. 垃圾箱"
+          "word": "rubber",
+          "meaning": "n. 橡胶、橡皮"
         }
       ],
       "forms": []
@@ -9417,16 +9668,24 @@
       "meaning": "n. 性、性别",
       "distractors": [
         {
-          "word": "gender",
-          "meaning": "n. 性别"
-        },
-        {
           "word": "male",
           "meaning": "adj. 男性的、雄性的"
         },
         {
-          "word": "female",
-          "meaning": "adj. 女性的、雌性的"
+          "word": "six",
+          "meaning": "num. 六"
+        },
+        {
+          "word": "be",
+          "meaning": "v. 是"
+        },
+        {
+          "word": "bee",
+          "meaning": "n. 蜜蜂"
+        },
+        {
+          "word": "fax",
+          "meaning": "n. 传真"
         }
       ],
       "forms": []
@@ -9566,16 +9825,24 @@
       "meaning": "n. 穿梭班机或汽车",
       "distractors": [
         {
-          "word": "minibus",
-          "meaning": "n. 小型公共汽车"
-        },
-        {
           "word": "jet",
           "meaning": "n. 喷气式飞机"
         },
         {
           "word": "subway",
           "meaning": "n. 地铁"
+        },
+        {
+          "word": "cattle",
+          "meaning": "n. 牛"
+        },
+        {
+          "word": "suite",
+          "meaning": "n. 套间、组曲"
+        },
+        {
+          "word": "whistle",
+          "meaning": "n. 口哨声"
         }
       ],
       "forms": []
@@ -10273,8 +10540,8 @@
           "meaning": "n. 老鼠、鼠标"
         },
         {
-          "word": "rat",
-          "meaning": "n. 老鼠"
+          "word": "squid",
+          "meaning": "n. 鱿鱼"
         }
       ],
       "forms": []
@@ -10526,12 +10793,20 @@
           "meaning": "n. 穿梭班机或汽车"
         },
         {
-          "word": "underground",
-          "meaning": "adj. 地下的、n. 地铁"
+          "word": "bay",
+          "meaning": "n. 海湾"
         },
         {
-          "word": "minibus",
-          "meaning": "n. 小型公共汽车"
+          "word": "suburb",
+          "meaning": "n. 郊区"
+        },
+        {
+          "word": "sugar",
+          "meaning": "n. 糖"
+        },
+        {
+          "word": "summary",
+          "meaning": "n. 概要"
         }
       ],
       "forms": []
@@ -10711,16 +10986,24 @@
       "meaning": "n. 出租车",
       "distractors": [
         {
-          "word": "cab",
-          "meaning": "n. 出租车"
-        },
-        {
           "word": "jeep",
           "meaning": "n. 吉普车"
         },
         {
           "word": "minibus",
           "meaning": "n. 小型公共汽车"
+        },
+        {
+          "word": "fax",
+          "meaning": "n. 传真"
+        },
+        {
+          "word": "tale",
+          "meaning": "n. 故事、传说"
+        },
+        {
+          "word": "wax",
+          "meaning": "n. 蜡"
         }
       ],
       "forms": []
@@ -11326,16 +11609,24 @@
       "meaning": "n. 军队",
       "distractors": [
         {
-          "word": "army",
-          "meaning": "n. 军队"
-        },
-        {
           "word": "gun",
           "meaning": "n. 枪"
         },
         {
           "word": "missile",
           "meaning": "n. 导弹"
+        },
+        {
+          "word": "root",
+          "meaning": "n. 根、根源、起源"
+        },
+        {
+          "word": "arrow",
+          "meaning": "n. 箭、箭头"
+        },
+        {
+          "word": "boot",
+          "meaning": "n. 靴子"
         }
       ],
       "forms": []
@@ -12443,16 +12734,24 @@
       "meaning": "v. 剃须",
       "distractors": [
         {
-          "word": "razor",
-          "meaning": "n. 剃须刀"
-        },
-        {
           "word": "barber",
           "meaning": "n. 理发师"
         },
         {
-          "word": "haircut",
-          "meaning": "n. 理发"
+          "word": "slave",
+          "meaning": "n. 奴隶"
+        },
+        {
+          "word": "shark",
+          "meaning": "n. 鲨鱼"
+        },
+        {
+          "word": "snake",
+          "meaning": "n. 蛇"
+        },
+        {
+          "word": "spade",
+          "meaning": "n. 铲子"
         }
       ],
       "forms": [
@@ -12519,8 +12818,16 @@
           "meaning": "v. 烤"
         },
         {
-          "word": "bread",
-          "meaning": "n. 面包"
+          "word": "coast",
+          "meaning": "n. 海岸"
+        },
+        {
+          "word": "beast",
+          "meaning": "n. 野兽"
+        },
+        {
+          "word": "east",
+          "meaning": "n. 东方"
         }
       ],
       "forms": []
@@ -12603,8 +12910,16 @@
           "meaning": "n. 废旧物品、垃圾"
         },
         {
-          "word": "rubbish",
-          "meaning": "n. 垃圾"
+          "word": "dot",
+          "meaning": "n. 点、圆点"
+        },
+        {
+          "word": "lot",
+          "meaning": "n. 许多"
+        },
+        {
+          "word": "pot",
+          "meaning": "n. 壶、瓶、罐、锅"
         }
       ],
       "forms": []
@@ -12764,16 +13079,24 @@
       "meaning": "adj. 黑色的",
       "distractors": [
         {
-          "word": "brown",
-          "meaning": "adj. 棕色的"
+          "word": "brick",
+          "meaning": "n. 砖块"
         },
         {
-          "word": "pink",
-          "meaning": "adj. 粉色的"
+          "word": "clock",
+          "meaning": "n. 钟"
         },
         {
-          "word": "purple",
-          "meaning": "adj. 紫色的"
+          "word": "bacon",
+          "meaning": "n. 培根"
+        },
+        {
+          "word": "bake",
+          "meaning": "v. 烘焙"
+        },
+        {
+          "word": "ball",
+          "meaning": "n. 球、舞会"
         }
       ],
       "forms": []
@@ -12785,16 +13108,24 @@
       "meaning": "adj. 棕色的",
       "distractors": [
         {
-          "word": "black",
-          "meaning": "adj. 黑色的"
+          "word": "drown",
+          "meaning": "v. 溺水、淹没"
         },
         {
-          "word": "green",
-          "meaning": "adj. 绿色的"
+          "word": "abroad",
+          "meaning": "adv. 在国外"
         },
         {
-          "word": "pink",
-          "meaning": "adj. 粉色的"
+          "word": "arrow",
+          "meaning": "n. 箭、箭头"
+        },
+        {
+          "word": "bacon",
+          "meaning": "n. 培根"
+        },
+        {
+          "word": "ban",
+          "meaning": "v. 禁止、n. 禁令"
         }
       ],
       "forms": []
@@ -12831,12 +13162,20 @@
           "meaning": "n. 总统、主席"
         },
         {
-          "word": "chairman",
-          "meaning": "n. 主席"
-        },
-        {
           "word": "minister",
           "meaning": "n. 部长"
+        },
+        {
+          "word": "chef",
+          "meaning": "n. 主厨"
+        },
+        {
+          "word": "chew",
+          "meaning": "v. 咀嚼"
+        },
+        {
+          "word": "china",
+          "meaning": "n. 瓷器"
         }
       ],
       "forms": []
@@ -12919,12 +13258,20 @@
           "meaning": "adj. 高兴的、愉快的"
         },
         {
-          "word": "dear",
-          "meaning": "adj. 亲爱的"
-        },
-        {
           "word": "yummy",
           "meaning": "adj. 美味的"
+        },
+        {
+          "word": "cube",
+          "meaning": "n. 立方体"
+        },
+        {
+          "word": "cat",
+          "meaning": "n. 猫"
+        },
+        {
+          "word": "coke",
+          "meaning": "n. 可口可乐"
         }
       ],
       "forms": []
@@ -12940,12 +13287,20 @@
           "meaning": "adj. 高兴的、愉快的"
         },
         {
-          "word": "cute",
-          "meaning": "adj. 可爱的、机灵的"
-        },
-        {
           "word": "madam",
           "meaning": "n. 夫人、女士"
+        },
+        {
+          "word": "deer",
+          "meaning": "n. 鹿"
+        },
+        {
+          "word": "pear",
+          "meaning": "n. 梨"
+        },
+        {
+          "word": "bar",
+          "meaning": "n. 一条、一块、酒吧"
         }
       ],
       "forms": []
@@ -13028,16 +13383,24 @@
       "meaning": "adj. 女性的、雌性的",
       "distractors": [
         {
-          "word": "male",
-          "meaning": "adj. 男性的、雄性的"
-        },
-        {
           "word": "sex",
           "meaning": "n. 性、性别"
         },
         {
-          "word": "gender",
-          "meaning": "n. 性别"
+          "word": "temple",
+          "meaning": "n. 寺庙"
+        },
+        {
+          "word": "decade",
+          "meaning": "n. 十年"
+        },
+        {
+          "word": "eagle",
+          "meaning": "n. 鹰"
+        },
+        {
+          "word": "fare",
+          "meaning": "n. 交通费用"
         }
       ],
       "forms": []
@@ -13070,16 +13433,24 @@
       "meaning": "adj. 绿色的",
       "distractors": [
         {
-          "word": "pink",
-          "meaning": "adj. 粉色的"
+          "word": "queen",
+          "meaning": "n. 皇后、女王"
         },
         {
-          "word": "brown",
-          "meaning": "adj. 棕色的"
+          "word": "tree",
+          "meaning": "n. 树"
         },
         {
-          "word": "purple",
-          "meaning": "adj. 紫色的"
+          "word": "bean",
+          "meaning": "n. 豆"
+        },
+        {
+          "word": "bee",
+          "meaning": "n. 蜜蜂"
+        },
+        {
+          "word": "beef",
+          "meaning": "n. 牛肉"
         }
       ],
       "forms": [
@@ -13168,12 +13539,20 @@
           "meaning": "n. 小学生"
         },
         {
-          "word": "teenager",
-          "meaning": "n. 13至19岁的青少年"
-        },
-        {
           "word": "kindergarten",
           "meaning": "n. 幼儿园"
+        },
+        {
+          "word": "union",
+          "meaning": "n. 联盟、工会"
+        },
+        {
+          "word": "juice",
+          "meaning": "n. 汁水、汁液"
+        },
+        {
+          "word": "jungle",
+          "meaning": "n. 丛林"
         }
       ],
       "forms": []
@@ -13185,16 +13564,24 @@
       "meaning": "adj. 男性的、雄性的",
       "distractors": [
         {
-          "word": "female",
-          "meaning": "adj. 女性的、雌性的"
-        },
-        {
           "word": "guy",
           "meaning": "n. 家伙、男人"
         },
         {
           "word": "sex",
           "meaning": "n. 性、性别"
+        },
+        {
+          "word": "mile",
+          "meaning": "n. 英里"
+        },
+        {
+          "word": "tale",
+          "meaning": "n. 故事、传说"
+        },
+        {
+          "word": "bake",
+          "meaning": "v. 烘焙"
         }
       ],
       "forms": []
@@ -13210,12 +13597,20 @@
           "meaning": "adj. 可爱的、机灵的"
         },
         {
-          "word": "dear",
-          "meaning": "adj. 亲爱的"
-        },
-        {
           "word": "Christmas",
           "meaning": "n. 圣诞节"
+        },
+        {
+          "word": "ferry",
+          "meaning": "n. 渡船"
+        },
+        {
+          "word": "metre",
+          "meaning": "n. 米"
+        },
+        {
+          "word": "army",
+          "meaning": "n. 军队"
         }
       ],
       "forms": []
@@ -13313,10 +13708,6 @@
       "meaning": "adj. 外国的、adv. 在国外",
       "distractors": [
         {
-          "word": "abroad",
-          "meaning": "adv. 在国外"
-        },
-        {
           "word": "mainland",
           "meaning": "n. 大陆"
         },
@@ -13342,16 +13733,24 @@
       "meaning": "adj. 粉色的",
       "distractors": [
         {
-          "word": "purple",
-          "meaning": "adj. 紫色的"
+          "word": "ink",
+          "meaning": "n. 墨水、油墨"
         },
         {
-          "word": "black",
-          "meaning": "adj. 黑色的"
+          "word": "pin",
+          "meaning": "n. 别针、v. 钉住"
         },
         {
-          "word": "brown",
-          "meaning": "adj. 棕色的"
+          "word": "pine",
+          "meaning": "n. 松树"
+        },
+        {
+          "word": "disk",
+          "meaning": "n. 磁盘"
+        },
+        {
+          "word": "inn",
+          "meaning": "n. 小旅馆"
         }
       ],
       "forms": []
@@ -13384,16 +13783,24 @@
       "meaning": "adj. 紫色的",
       "distractors": [
         {
-          "word": "pink",
-          "meaning": "adj. 粉色的"
+          "word": "people",
+          "meaning": "n. 人们"
         },
         {
-          "word": "green",
-          "meaning": "adj. 绿色的"
+          "word": "jungle",
+          "meaning": "n. 丛林"
         },
         {
-          "word": "brown",
-          "meaning": "adj. 棕色的"
+          "word": "muscle",
+          "meaning": "n. 肌肉"
+        },
+        {
+          "word": "pole",
+          "meaning": "n. 杆子、地球极点"
+        },
+        {
+          "word": "pupil",
+          "meaning": "n. 小学生"
         }
       ],
       "forms": []
@@ -13405,16 +13812,24 @@
       "meaning": "adj. 许多的",
       "distractors": [
         {
-          "word": "lot",
-          "meaning": "n. 许多"
-        },
-        {
           "word": "dozen",
           "meaning": "n. 十二个"
         },
         {
           "word": "mass",
           "meaning": "n. 大量、大块、群众"
+        },
+        {
+          "word": "fever",
+          "meaning": "n. 发烧、发热"
+        },
+        {
+          "word": "seven",
+          "meaning": "num. 七"
+        },
+        {
+          "word": "seventy",
+          "meaning": "num. 七十"
         }
       ],
       "forms": []
@@ -13712,10 +14127,6 @@
       "meaning": "adj. 地下的、n. 地铁",
       "distractors": [
         {
-          "word": "subway",
-          "meaning": "n. 地铁"
-        },
-        {
           "word": "shuttle",
           "meaning": "n. 穿梭班机或汽车"
         },
@@ -13796,16 +14207,24 @@
       "meaning": "adv. 在国外",
       "distractors": [
         {
-          "word": "overseas",
-          "meaning": "adj. 外国的、adv. 在国外"
-        },
-        {
           "word": "mainland",
           "meaning": "n. 大陆"
         },
         {
           "word": "ferry",
           "meaning": "n. 渡船"
+        },
+        {
+          "word": "aboard",
+          "meaning": "prep. 上（交通工具）"
+        },
+        {
+          "word": "bread",
+          "meaning": "n. 面包"
+        },
+        {
+          "word": "arrow",
+          "meaning": "n. 箭、箭头"
         }
       ],
       "forms": []
@@ -13998,12 +14417,20 @@
           "meaning": "art. 一个、pron. 某个"
         },
         {
-          "word": "this",
-          "meaning": "pron. 这个"
+          "word": "be",
+          "meaning": "v. 是"
         },
         {
-          "word": "that",
-          "meaning": "pron. 那个"
+          "word": "bee",
+          "meaning": "n. 蜜蜂"
+        },
+        {
+          "word": "chef",
+          "meaning": "n. 主厨"
+        },
+        {
+          "word": "chew",
+          "meaning": "v. 咀嚼"
         }
       ],
       "forms": []
@@ -14534,8 +14961,16 @@
           "meaning": "num. 二十"
         },
         {
-          "word": "twenty-one",
-          "meaning": "num. 二十一"
+          "word": "fifteen",
+          "meaning": "num. 十五"
+        },
+        {
+          "word": "nine",
+          "meaning": "num. 九"
+        },
+        {
+          "word": "ninety",
+          "meaning": "num. 九十"
         }
       ],
       "forms": [
@@ -14557,8 +14992,16 @@
           "meaning": "num. 三十"
         },
         {
-          "word": "twenty-one",
-          "meaning": "num. 二十一"
+          "word": "county",
+          "meaning": "n. 县"
+        },
+        {
+          "word": "penny",
+          "meaning": "n. 便士、美分"
+        },
+        {
+          "word": "rent",
+          "meaning": "n. 租金"
         }
       ],
       "forms": [
@@ -14571,10 +15014,6 @@
       "ipa": "/ˌtwɛntiˈwʌn/",
       "meaning": "num. 二十一",
       "distractors": [
-        {
-          "word": "twenty",
-          "meaning": "num. 二十"
-        },
         {
           "word": "thirty",
           "meaning": "num. 三十"
